@@ -25,14 +25,14 @@ sections:
   label: Author
 - type: directory
   path: exampleSite/content/english/author
-  label: Author (en)
+  label: OxKo (en)
   create: documents
   match: "**/*"
   templates:
   - author
 - type: directory
   path: exampleSite/content/french/author
-  label: Author (fr)
+  label: ArGo (fr)
   create: documents
   match: "**/*"
   templates:
