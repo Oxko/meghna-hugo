@@ -3,7 +3,7 @@ feature:
   enable: true
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
-  title: We are an interior designer company
+  title: We are an Digital deisgner company
   content: ''
   feature_item:
   - title: SEO Optimized
