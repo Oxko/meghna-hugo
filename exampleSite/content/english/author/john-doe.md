@@ -1,7 +1,7 @@
 ---
 title: When to hire an interior designer?
 image: ''
-email: email2@example.org
+email: ''
 social:
 - icon: ti-facebook
   link: "#"
