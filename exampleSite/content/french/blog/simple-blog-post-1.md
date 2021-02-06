@@ -5,6 +5,7 @@ image_webp: images/blog/blog-post-3.webp
 image: images/blog/blog-post-3.jpg
 author: Oxko design
 description: This is meta description
+draft: true
 
 ---
 Enterior lakberendező vállalkozásunk pénzt és időt takaríthat meg Önnek praktikus, látványos és költséghatékony tervezéssel, mely eladáshoz megnöveli az ingatlan értékét.
