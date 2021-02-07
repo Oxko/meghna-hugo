@@ -9,8 +9,8 @@ skill:
   skill_item:
   - name: Virtual quickplan
     percent: ''
-  - name: Analysis
-    percent: 70%
+  - name: 3D rendered photos
+    percent: ''
   - name: Design
     percent: 80%
   - name: IOS Development
