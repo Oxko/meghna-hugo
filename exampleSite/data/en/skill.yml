@@ -7,8 +7,8 @@ skill:
     small dilemma
   image: images/about/company-growth.webp
   skill_item:
-  - name: Business Development
-    percent: 90%
+  - name: Design Development
+    percent: ''
   - name: Analysis
     percent: 70%
   - name: Design
