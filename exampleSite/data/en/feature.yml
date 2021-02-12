@@ -1,9 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/about/about-business-man.jpg
-  image_webp: images/about/about-business-man.webp
-  title: We are an Digital deisgner company
+  image: images/about/vatican-city-baisilca.jpg
+  title: We are a digital designer company
   content: ''
   feature_item:
   - title: SEO Optimized
