@@ -4,67 +4,179 @@ portfolio:
   title: Our Works
   portfolio_item:
   - name: Tag Design
-    image: https://imge.com/wp-content/uploads/2019/02/IMGE-Social-Share.png
+    image: static/images/portfolio/Mobilhome living room.png
     image_webp: ''
     categories:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: https://themefisher.com
   - name: Sound system
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+    image: images/portfolio/Mobilhome bedroom.png
+    image_webp: 
     categories:
+    - design
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: Clock Product
-    image: images/portfolio/portfolio-3.jpg
-    image_webp: images/portfolio/portfolio-3.webp
+    image: images/portfolio/Airbnb downstairs.png
+    image_webp: 
     categories:
     - design
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Bottol Label
-    image: images/portfolio/portfolio-4.jpg
-    image_webp: images/portfolio/portfolio-4.webp
+    image: images/portfolio/Airbnb small gallery.png
+    image_webp: 
     categories:
-    - photography
+    - design
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Shopping Bag
-    image: images/portfolio/portfolio-5.jpg
-    image_webp: images/portfolio/portfolio-5.webp
+    image: images/portfolio/Airbnb whole room.png
+    image_webp: 
     categories:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Tag Design
-    image: images/portfolio/portfolio-6.jpg
-    image_webp: images/portfolio/portfolio-6.webp
+    image: images/portfolio/Airbnb whole room
+    image_webp: 
     categories:
-    - photography
+    - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Business Card
-    image: images/portfolio/portfolio-7.jpg
-    image_webp: images/portfolio/portfolio-7.webp
+  - name: Province style
+    image: images/portfolio/Province bedroom.png
+    image_webp: 
     categories:
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Stationary Design
-    image: images/portfolio/portfolio-8.jpg
-    image_webp: images/portfolio/portfolio-8.webp
+  - name: Province style
+    image: images/Province dining room.png
+    image_webp:
     categories:
     - design
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Tag Design
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+  - name: Province style
+    image: images/portfolio/Province home office.png
+    categories:
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Province style
+    image: images/Province living room.png
+    image_webp:
+     categories:
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Province style
+    image: images/Province mediterranian bathroom.png
+    image_webp:
+     categories:
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Japanese style
+    image: images/Japanese style bathroom way in.png
+    image_webp:
+     categories:
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Japanese style
+    image: images/Japanese style bathroom.png
+    image_webp:
+     categories:
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Japanese style
+    image: images/Japanese style bedroom.png
+    image_webp:
+     categories:
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Japanese style
+    image: images/Japanese style dining room.png
+    image_webp:
+     categories:
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Japanese style
+    image: images/Japanese style hallway.png
+    image_webp:
+     categories:
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Japanese style
+    image: images/Japanese style kitchen.png
+    image_webp:
+     categories:
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Japanese style
+    image: images/Japanese style living room from top.png
+    image_webp:
+     categories:
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Japanese style
+    image: images/Japanese style living room way out.png
+    image_webp:
+     categories:
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Japanese style
+    image: images/Japanese style living room.png
+    image_webp:
+     categories:
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Japanese style
+    image: images/Japanese style terrace.png
+    image_webp:
+     categories:
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Modern style
+    image: images/Panel shower.png
+    image_webp:
+     categories:
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Modern style
+    image: images/Som apartment bedroom.png
+    image_webp:
+     categories:
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Modern style
+    image: images/Som apartment bedroom1.png
+    image_webp:
+     categories:
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: Modern style
+    image: images/Som apartment shower.png
+    image_webp:
     categories:
     - design
     - photography
