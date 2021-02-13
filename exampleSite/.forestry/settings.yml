@@ -37,7 +37,7 @@ sections:
 upload_dir: exampleSite/static/images
 public_path: "/images/main picture.png"
 front_matter_path: ''
-use_front_matter_path: true
+use_front_matter_path: false
 file_template: 'static/images/backgrounds/main picture.png/:filename:'
 build:
   preview_env:
