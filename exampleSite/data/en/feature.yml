@@ -1,9 +1,9 @@
 ---
 feature:
   enable: true
-  image: images/about/vatican-city-baisilca.jpg
-  title: We are a digital designer company
-  content: ''
+  image: images/backgrounds/Main-picture.jpg
+  title: Oxko Design
+  content: 'We are an interior designer company'
   feature_item:
   - title: SEO Optimized
     icon: ti-world
