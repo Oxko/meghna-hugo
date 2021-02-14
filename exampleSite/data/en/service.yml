@@ -21,13 +21,13 @@ service:
     # service item loop
     - name : Custom furniture design
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : If you need a custom furniture to fill out packing space or you have an idea of a special design that you would like to have in real life, we will make it real for you. Either you only need the design of the furniture to see how it will look like or you only need the technical drawing that you will take up with your carpenter yourself, or if you want us to take it to the end with management of execution.
+      content : If you need a custom furniture to fill out packing space or you have an idea of a special design that you would like to have in real life, we will make it real for you. Either you only need the design of the furniture to see how it will look like or you only need the technical drawing that you will take up with your carpenter, or if you want us to take it to the end with management of execution.
       
       
     # service item loop
     - name : Technical drawings & Architectural and Layout plans
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : You are building or renovating and you need help with functionality and practical space planning. You are unsure about technicalities, what type of heating to use where, how many switches and plugs to put where, it is beneficial to think it through beforehand, it can save money for you in a long run and with an interior designer your living space will be more functional, practical and execution can be the most cost effective.
       
     # service item loop
     - name : Complete design with end-to-end project management 
