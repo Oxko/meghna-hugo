@@ -16,7 +16,7 @@ service:
     # service item loop
     - name : Feng Shui floor plan
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : You are about to buy, renovate or remodel your home, you don't have enough harmony in your home design and you feel you need to reallocate the energies. We can provide you with a partial or complete Feng Shui plan for your interior or area planning. Before buying a property it is good to check with Feng Shui, to select the right property considering its immutable charactaristics.
 
     # service item loop
     - name : Custom furniture design
