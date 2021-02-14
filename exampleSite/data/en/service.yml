@@ -4,14 +4,14 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : Virtual quickplan
+    - name : Virtual quickplan or roommakeover
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
       content : If you live far from Budapest, would not like to travel during the pandemic or you are only in a small design dilemma, need advice on 1-2 rooms, you can submit your questions with details about your rooms online, filling out the contact form and we will send you the plans, tips and hints with the answers to your questions.
       
     # service item loop
     - name : 3D photo rendering of your own design
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : If you cannot decide on the colors, lighting or tiling pattern to use, we will create a 3D rendered photo for you where you will be able to see the best choice to suit your style. Send us the links of the materials in question, measurements of the area, define the RGB color code and pattern you are thinking about.
       
     # service item loop
     - name : Custom furniture design
