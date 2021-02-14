@@ -1,30 +1,30 @@
 - id: blogTitle
-  translation: Dernier message
+  translation: Blog
 - id: readMore
-  translation: Lire la suite
+  translation: Tovább
 - id: viewAllPost
-  translation: Voir tous les articles
+  translation: Blog posztok
 - id: share
-  translation: Partager
+  translation: Megoszt
 - id: aboutAuthor
-  translation: À propos de l'auteur
+  translation: Szerkesztő
 - id: authorsPosts
-  translation: Articles de l'auteur
+  translation: Szerkesztő posztjai
 - id: all
-  translation: All
+  translation: Mind
 - id: about
   translation: À propos
 - id: services
-  translation: Services
+  translation: Szolgáltatások
 - id: portfolio
-  translation: Portfolio
+  translation: Portfolió
 - id: team
-  translation: Équipe
+  translation: Csapat
 - id: pricing
-  translation: Tarification
+  translation: Árlista
 - id: blog
   translation: Blog
 - id: contact
-  translation: Contact
+  translation: Kontakt
 - id: themefisher
   translation: Themefisher
