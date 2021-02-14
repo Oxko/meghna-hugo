@@ -30,6 +30,6 @@ service:
       content : You are building or renovating and you need help with functionality and practical space planning. You are unsure about technicalities, what type of heating to use where, how many switches and plugs to put where, it is beneficial to think it through beforehand, it can save money for you in a long run and with an interior designer your living space will be more functional, practical and execution can be the most cost effective.
       
     # service item loop
-    - name : Complete design with end-to-end project management 
+    - name : Complete remodel with end-to-end project management 
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Partial or full remodeling, renovation, check out our packages, either partial or full-scale remodel with project management we can make your dream come true with taking it all off your shoulders.
