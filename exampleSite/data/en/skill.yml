@@ -3,9 +3,8 @@ skill:
   enable: true
   title: Virtual services
   subtitle: You can request for the following services virtually also
-  content: If you live far or you have your ideas but need a start or you are in a
+  content: If you live far or you have your ideas but need help or you are in a
     small dilemma
-  image: images/about/company-growth.webp
   skill_item:
   - name: Virtual quickplan
     percent: ''
@@ -15,5 +14,5 @@ skill:
     percent: ''
   - name: Feng Shui floor plan
     percent: ''
-  - name: Technical drawings, architectural and layout plans
+  - name: Technical drawings, Space planning
     percent: ''
