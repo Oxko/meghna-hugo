@@ -1,7 +1,7 @@
 ---
 feature:
   enable: true
-  image: static/images/backgrounds/Main-picture.jpg
+  image: images/backgrounds/Main-picture.png
   title: Oxko Design
   content: 'We are an interior designer company'
   feature_item:
