@@ -14,14 +14,15 @@ service:
       content : If you cannot decide on the colors, lighting or tiling pattern to use, we will create a 3D rendered photo for you where you will be able to see the best choice to suit your style. Send us the links of the materials in question, measurements of the area, define the RGB color code and pattern you are thinking about.
       
     # service item loop
+    - name : Feng Shui floor plan
+      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+
+    # service item loop
     - name : Custom furniture design
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
-    # service item loop
-    - name : Feng Shui floor plan
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
     # service item loop
     - name : Technical drawings & Architectural and Layout plans
