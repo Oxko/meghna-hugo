@@ -9,7 +9,7 @@ contact:
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Budapest, Hungary, district VII"
+      info : "District VII, Budapest, Hungary"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Phone: +(36) 20 4500 711"
