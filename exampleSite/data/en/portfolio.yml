@@ -1,184 +1,161 @@
 ---
 portfolio:
   enable: true
-  title: Our Works
+  title: References
   portfolio_item:
-  - name: Tag Design
-    image: static/images/portfolio/Mobilhome living room.png
-    image_webp: ''
+  - name: Full development and design of a mobile home
+    image: images/portfolio/Mobilhome-living-room.png
     categories:
-    - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - Mobile home
+    content: Living room with 3 glass walls
     link: https://themefisher.com
-  - name: Sound system
-    image: images/portfolio/Mobilhome bedroom.png
-    image_webp: 
+  - name: Mobile home
+    image: images/portfolio/Mobilhome-bedroom.png
     categories:
-    - design
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: ''
-  - name: Clock Product
-    image: images/portfolio/Airbnb downstairs.png
-    image_webp: 
+    - Mobile home
+    content: Master bedroom with 1 glass wall view on back yard
+    link: https://themefisher.com
+  - name: Airbnb remake, splitting the apartment with creating a private studio spot out of a room
+    image: images/portfolio/Airbnb-downstairs.png
     categories:
-    - design
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - Gallery building
+    content: Main room with bathroom and gallery
     link: "#"
-  - name: Bottol Label
-    image: images/portfolio/Airbnb small gallery.png
-    image_webp: 
+  - name: Airbnb remake
+    image: images/portfolio/Airbnb-small-gallery.png
     categories:
-    - design
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - Gallery building
+    content: Gallery for extra bedspace for short term rental
     link: "#"
-  - name: Shopping Bag
-    image: images/portfolio/Airbnb whole room.png
-    image_webp: 
+  - name: Airbnb remake
+    image: images/portfolio/Airbnb-whole-room.png
     categories:
-    - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - Gallery building
+    content: Full refurbishment, creating a studio out of each room, with gallery and bathroom
     link: "#"
-  - name: Tag Design
-    image: images/portfolio/Airbnb whole room
-    image_webp: 
+  - name: Airbnb remake
+    image: images/portfolio/Airbnb-small-bathroom.png
     categories:
-    - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - Gallery building
+    content: Bathroom in the studio for privacy
     link: "#"
-  - name: Province style
-    image: images/portfolio/Province bedroom.png
-    image_webp: 
+  - name: Apartment in Buda
+    image: images/portfolio/Province-bedroom.png 
     categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - Mediterranian style
+    content: Master bedroom in Province style
     link: "#"
-  - name: Province style
-    image: images/Province dining room.png
-    image_webp:
+  - name: Apartment in Buda
+    image: images/portfolio/Province-dining-room.png
     categories:
-    - design
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - Mediterranian style
+    content: Dining room in Province style
     link: "#"
-  - name: Province style
-    image: images/portfolio/Province home office.png
+  - name: Apartment in Buda
+    image: images/portfolio/Province-home-office.png
     categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - Mediterranian style
+    content: Home office with guest room in Province style
     link: "#"
-  - name: Province style
-    image: images/Province living room.png
-    image_webp:
-     categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: Apartment in Buda
+    image: images/portfolio/Province-living-room.png
+    categories:
+    - Mediterranian style
+    content: Living room in Province style
     link: "#"
-  - name: Province style
-    image: images/Province mediterranian bathroom.png
-    image_webp:
-     categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: Apartment in Buda
+    image: images/portfolio/Province-mediterranian-bathroom.png
+    categories:
+    - Mediterranian style
+    content: Bathroom in Mediterranian mood
     link: "#"
-  - name: Japanese style
-    image: images/Japanese style bathroom way in.png
-    image_webp:
-     categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: Japanese style family house full refurbish
+    image: images/portfolio/Japanese-style-bathroom-way-in.png
+    categories:
+    - Asian style
+    content: Bathroom with relaxing bathtub corner and shower
     link: "#"
-  - name: Japanese style
-    image: images/Japanese style bathroom.png
-    image_webp:
-     categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: Japanese style family house full refurbish
+    image: images/portfolio/Japanese-style-bathroom.png
+    categories:
+    - Asian style
+    content: Bathroom for two
     link: "#"
-  - name: Japanese style
-    image: images/Japanese style bedroom.png
-    image_webp:
-     categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: Japanese style family house full refurbish
+    image: images/portfolio/Japanese-style-bedroom.png
+    categories:
+    - Asian style
+    content: Master bedroom with Asian feel
     link: "#"
-  - name: Japanese style
-    image: images/Japanese style dining room.png
-    image_webp:
-     categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: Japanese style family house full refurbish
+    image: images/portfolio/Japanese-style-dining-room.png
+    categories:
+    - Asian style
+    content: Dining room with a breakfast spot and divided kitchen
     link: "#"
-  - name: Japanese style
-    image: images/Japanese style hallway.png
-    image_webp:
-     categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: Japanese style family house full refurbish
+    image: images/portfolio/Japanese-style-kitchen.png
+    categories:
+    - Asian style
+    content: Absolute Japanese kitchen
     link: "#"
-  - name: Japanese style
-    image: images/Japanese style kitchen.png
-    image_webp:
-     categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: Japanese style family house full refurbish
+    image: images/portfolio/Japanese-style-living-room-from-top.png
+    categories:
+    - Asian style
+    content: Living room with big airspace from the second floor
     link: "#"
-  - name: Japanese style
-    image: images/Japanese style living room from top.png
-    image_webp:
-     categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: Japanese style family house full refurbish
+    image: images/portfolio/Japanese-style-living-room-way-out.png
+    categories:
+    - Asian style
+    content: Big living room with flexible guestroom
     link: "#"
-  - name: Japanese style
-    image: images/Japanese style living room way out.png
-    image_webp:
-     categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: Japanese style family house full refurbish
+    image: images/portfolio/Japanese-style-living-room.png
+    categories:
+    - Asian style
+    content: Living room
     link: "#"
-  - name: Japanese style
-    image: images/Japanese style living room.png
-    image_webp:
-     categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: Japanese style family house full refurbish
+    image: images/portfolio/Japanese-style-hallway.png
+    categories:
+    - Asian style
+    content: Hallway with the Arts and built in spots for plants with rocks and led decor
     link: "#"
-  - name: Japanese style
-    image: images/Japanese style terrace.png
-    image_webp:
-     categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: Japanese style family house full refurbish
+    image: images/portfolio/Japanese-style-terrace.png
+    categories:
+    - Asian style
+    content: Terrace with big space to relax
+    link: "#"
+  - name: Panel flat, masculine homey
+    image: images/portfolio/Panel-shower.png
+    categories:
+    - Modern
+    content: Bring nature in the shower
+    link: "#"
+  - name: City flat, masculine homey
+    image: images/portfolio/Som-apartment-bedroom.png
+    categories:
+    - Modern
+    content: Bedroom in minimal style
     link: "#"
   - name: Modern style
-    image: images/Panel shower.png
-    image_webp:
-     categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Modern style
-    image: images/Som apartment bedroom.png
-    image_webp:
-     categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Modern style
-    image: images/Som apartment bedroom1.png
-    image_webp:
-     categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Modern style
-    image: images/Som apartment shower.png
-    image_webp:
+    image: images/portfolio/Som-apartment-shower.png
     categories:
-    - design
-    - photography
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - Modern
+    content: Small apartment's shower in modern minimal style
+    link: "#"
+  - name: 3D Furnishing plan
+    image: images/portfolio/3D-furnishing-plan.png
+    categories:
+    - Space planning
+    content: Space planning
+    link: "#"
+  - name: Electricity plan
+    image: images/portfolio/Lamp-electricity-plan.png
+    categories:
+    - Technical plan
+    content: Plan for lamps and electricity
     link: "#"

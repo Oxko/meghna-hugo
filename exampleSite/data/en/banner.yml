@@ -1,21 +1,11 @@
 ---
 banner:
-<<<<<<< HEAD
   enable : true
-  bg_image_webp : "images/backgrounds/main picture.png"
-  bg_image : "images/backgrounds/main picture.png"
+  bg_image : "images/backgrounds/main-picture.png"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "You deserve a beautiful home"
   content : "We create enhanced interior and style your home for you"
-=======
-  enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/main picture.jpg
-  icon: ''
-  title: You deserve a beautiful home
-  content: We create enhanced interior and style your home for you
->>>>>>> 8ad048b925a42f7ec2ff870ba6c2b6b23e298c30
   button:
     enable: true
-    label: Explore Us
+    label: Explore us
     link: "#services"
