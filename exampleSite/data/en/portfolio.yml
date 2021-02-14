@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: References
+  title: Our Projects
   portfolio_item:
   - name: Full development and design of a mobile home
     image: images/portfolio/Mobilhome-living-room.png
