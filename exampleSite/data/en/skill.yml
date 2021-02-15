@@ -3,8 +3,8 @@ skill:
   enable: true
   title: Virtual services
   subtitle: You can request for the following services virtually also
-  content: If you live far or you have your ideas but need help or you are in a
-    small dilemma
+  content: If you live far or you have your ideas but need help or you are in some
+    kind of a design dilemma
   skill_item:
   - name: Virtual quickplan
     percent: ''
