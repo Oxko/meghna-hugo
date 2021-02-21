@@ -5,10 +5,10 @@ pricing:
   pricing_table :
     # pricing table loop
     - name : Basic
-      price : 2 500 HUF
+      price : HUF 2 500
       unit : Square meter
       services:
-        - If you are building, remodelling and need help with technicalities and space planning, you have your own design idea
+        - If you are building, remodelling and need help with technicalities and space planning, but you have your own design idea
         - Architectural remodel recommendation for construction
         - Layout plan variants for space and floor planning
         - 1 final scaled layout plan with sample furniture
@@ -16,11 +16,11 @@ pricing:
         - You will know which furniture is the most practical where, in what size
       button:
         label : "See more"
-        link : "#"
+        link : "#guidance"
       
     # pricing table loop
     - name : Standard
-      price : 4 500 HUF
+      price : HUF 4 500
       unit : Square meter
       services:
         - You would like to execute it yourself, need help with the basics and some design
@@ -34,30 +34,30 @@ pricing:
         - 1*3D photo of main areas
       button:
         label : "See more"
-        link : "#"
+        link : "#guidance"
         
     # pricing table loop
     - name : Optimum
-      price : 6 500 HUF
+      price : HUF 6 500
       unit : Square meter
       services:
         - If you want to execute it yourself, need help in more details and in budget planning
         - Remodel plans
         - Layout plans
         - Technical plans
-        - Design, furnishing, painting plans
         - Tiling, flooring plans
+        - Design, furnishing, painting plans
         - Shopping list, consignation list
         - 3D photos
-        - Design built-in furniture
+        - Design 1 built-in furniture
         - 1 time shopping together, selection of materials
       button:
         label : "See more"
-        link : "#"
+        link : "#guidance"
         
     # pricing table loop
     - name : Premium
-      price : 9 500 HUF
+      price : HUF 9 500
       unit : Square meter
       services:
         - If you are before buying or building a property
@@ -66,10 +66,10 @@ pricing:
         - With end-to-end project management with supervision of contruction
         - Provide you with full execution plans
         - Technical drawings and plans
-        - Design built-in furniture for you
+        - Design 1 built-in furniture for you
         - Do some shopping with you
         - Provide you with shopping list and consigation list
         - Plans are based on Feng Shui principles if needed
       button:
         label : "See more"
-        link : "#"
+        link : "#guidance"
