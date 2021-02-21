@@ -20,6 +20,8 @@ With this package you can plan your home's layout and have the guidance about th
 
 Note: The construction and demolishing plan can be provided only based on a written static opinion, which is not included in this price and has to be performed by a certified static.
 
+2 500 HUF/square meter
 
 Usual timeline is up to 2 weeks. 
+
 For any specifics contact us and we will help with what you need. 
