@@ -5,9 +5,9 @@ pricing:
   pricing_table :
     # pricing table loop
     - name : Customed
-      price : $99
+      price : 2000 HUF
       unit : Squaremater
-      services:
+      includes:
         - 1GB Disk Space
         - 10 Email Account
         - Script Installer
@@ -15,14 +15,14 @@ pricing:
         - 10 GB Bandwidth
         - 24/7 Tech Support
       button:
-        label : "Signup"
+        label : "See more"
         link : "#"
       
     # pricing table loop
     - name : Silver
-      price : $149
-      unit : month
-      services:
+      price : HUF
+      unit : squaremeter
+      includes:
         - 1GB Disk Space
         - 10 Email Account
         - Script Installer
@@ -35,9 +35,9 @@ pricing:
         
     # pricing table loop
     - name : Gold
-      price : $199
-      unit : month
-      services:
+      price : HUF
+      unit : squaremeter
+      includes:
         - 1GB Disk Space
         - 10 Email Account
         - Script Installer
@@ -45,14 +45,14 @@ pricing:
         - 10 GB Bandwidth
         - 24/7 Tech Support
       button:
-        label : "Signup"
+        label : "See more"
         link : "#"
         
     # pricing table loop
     - name : Platinum
-      price : $299
-      unit : month
-      services:
+      price : HUF
+      unit : squaremeter
+      includes:
         - 1GB Disk Space
         - 10 Email Account
         - Script Installer
@@ -60,5 +60,5 @@ pricing:
         - 10 GB Bandwidth
         - 24/7 Tech Support
       button:
-        label : "Signup"
+        label : "See more"
         link : "#"
