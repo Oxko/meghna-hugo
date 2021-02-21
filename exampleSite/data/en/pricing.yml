@@ -4,9 +4,9 @@ pricing:
   title : Pricing
   pricing_table :
     # pricing table loop
-    - name : Free
+    - name : Customed
       price : $99
-      unit : month
+      unit : Squaremater
       services:
         - 1GB Disk Space
         - 10 Email Account
