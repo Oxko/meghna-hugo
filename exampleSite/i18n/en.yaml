@@ -1,10 +1,10 @@
 ---
 - id: blogTitle
-  translation: Latest Post
+  translation: Description of-services
 - id: readMore
   translation: Read more
 - id: viewAllPost
-  translation: View All Post
+  translation: View All service
 - id: share
   translation: Share
 - id: aboutAuthor
