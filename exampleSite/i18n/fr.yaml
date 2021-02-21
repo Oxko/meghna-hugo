@@ -1,9 +1,9 @@
 - id: blogTitle
-  translation: Blog
+  translation: Poszt
 - id: readMore
   translation: Tovább
 - id: viewAllPost
-  translation: Blog posztok
+  translation: Mutasd mind
 - id: share
   translation: Megoszt
 - id: aboutAuthor
@@ -13,7 +13,7 @@
 - id: all
   translation: Mind
 - id: about
-  translation: À propos
+  translation: Rólunk
 - id: services
   translation: Szolgáltatások
 - id: portfolio
@@ -21,9 +21,9 @@
 - id: team
   translation: Csapat
 - id: pricing
-  translation: Árlista
+  translation: Árak
 - id: blog
-  translation: Blog
+  translation: Útmutató
 - id: contact
   translation: Kontakt
 - id: themefisher
