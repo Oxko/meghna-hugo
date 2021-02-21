@@ -1,16 +1,16 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Us
+  title : Rólunk
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Mire jó egy lakberendező?
+    content : Oxko design – enterior lakberendező vállalkozásunk pénzt és időt takaríthat meg Önnek praktikus, látványos és költséghatékony tervezéssel, mely eladáshoz megnöveli az ingatlan értékét. Egy lakberendezővel ugyanakkor pénzt is spórolhat, hiszen a költségvetési kereten belül tervezi meg az átalakításokat az Ön lehetőségeihez és elvárásaihoz mérten a leghatékonyabb és legoptimálisabb módon,  s nem utolsó sorban súlyos tervezési anyagú vonzatú hibákat is segít elkerülni.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Mire érdemes lakberendezőt fogadni?
+    content : Ha ingatlan vásárlása előtt áll vagy építkezik, felújít, ha belső átalakítást tervez vagy csak elrendezés hangulatát szeretné frissíteni, ha kisebb lakberendezői dilemmával küzd vagy szeretné az otthonát harmonikusabbá tenni Feng Shui szerint energiák átcsoportosításával, hívjon bizalommal, igényeihez mérten tudunk segíteni a tanácsadáson át a teljeskörű kivitelezésig.
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : Mi a tartozik a munkánkhoz?
+    content : Teljeskörű kivitelezés az építkezés alatt a kialakítási tervektől elkezdve, a berendezési terven és kiegészítőkön át a teljes kivitelezésig segítve, tervezői művezetéssel.
