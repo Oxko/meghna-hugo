@@ -4,62 +4,72 @@ pricing:
   title : Pricing
   pricing_table :
     # pricing table loop
-    - name : Customed
-      price : 2000 HUF
-      unit : Squaremater
-      includes:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+    - name : Basic
+      price : 2 500 HUF
+      unit : Square meter
+      services:
+        - If you are building, remodelling and need help with technicalities and space planning, you have your own design idea
+        - Architectural remodel recommendation for construction
+        - Layout plan variants for space and floor planning
+        - 1 final scaled layout plan with sample furniture
+        - Lamps & switches distribution plan
+        - You will know which furniture is the most practical where, in what size
       button:
         label : "See more"
         link : "#"
       
     # pricing table loop
     - name : Silver
-      price : 4000 HUF
-      unit : squaremeter
-      includes:
-        - 1 moodboard
-        - 2 colored furnishing plan in 2D
-        - 1 colored final furnishing plan
-        - 1-2 necessary snapshots or wallview of each area
-        - 1*3D photo of main area (max 3pcs)
-        - 1 unique designed or built in furniture colored plan and technical drawing
-        
+      price : 4 000 HUF
+      unit : Square meter
+      services:
+        - You would like to execute it yourself, need help with the basics and some design
+        - Remodel plans
+        - Layout plans
+        - Technical plans
+        - Furnishing plan
+        - Tiling & flooring plans
+        - Design, colors, materials, accessories advise
+        - 3D snapshots to visualize the areas 
+        - 1*3D photo of main areas
       button:
-        label : "Signup"
+        label : "See more"
         link : "#"
         
     # pricing table loop
     - name : Gold
-      price : 7000 HUF
-      unit : squaremeter
-      includes:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+      price : 7 000 HUF
+      unit : Square meter
+      services:
+        - If you want to execute it yourself, need help in more details and in budget planning
+        - Remodel plans
+        - Layout plans
+        - Technical plans
+        - Design, furnishing, painting plans
+        - Tiling, flooring plans
+        - Shopping list, consignation list
+        - 3D photos
+        - Design built-in furniture
+        - 1 time shopping together, selection of materials
       button:
         label : "See more"
         link : "#"
         
     # pricing table loop
     - name : Platinum
-      price : HUF
-      unit : squaremeter
-      includes:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+      price : 9 000 HUF
+      unit : Square meter
+      services:
+        - If you are before buying or building a property
+        - You are in or before a partial/full remodel
+        - Need help from remodelling to the last accessories
+        - With end-to-end project management with supervision of contruction
+        - Provide you with full execution plans
+        - Technical drawings and plans
+        - Design built-in furniture for you
+        - Do some shopping with you
+        - Provide you with shopping list and consigation list
+        - Plans are based on Feng Shui principles if needed
       button:
         label : "See more"
         link : "#"
