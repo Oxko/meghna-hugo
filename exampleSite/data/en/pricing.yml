@@ -5,7 +5,7 @@ pricing:
   pricing_table :
     # pricing table loop
     - name : Basic
-      price : 3 500 HUF
+      price : 2 500 HUF
       unit : Square meter
       services:
         - If you are building, remodelling and need help with technicalities and space planning, you have your own design idea
@@ -20,7 +20,7 @@ pricing:
       
     # pricing table loop
     - name : Standard
-      price : 4 900 HUF
+      price : 4 500 HUF
       unit : Square meter
       services:
         - You would like to execute it yourself, need help with the basics and some design
@@ -38,7 +38,7 @@ pricing:
         
     # pricing table loop
     - name : Optimum
-      price : 7 900 HUF
+      price : 6 500 HUF
       unit : Square meter
       services:
         - If you want to execute it yourself, need help in more details and in budget planning
@@ -57,7 +57,7 @@ pricing:
         
     # pricing table loop
     - name : Premium
-      price : 11 900 HUF
+      price : 9 500 HUF
       unit : Square meter
       services:
         - If you are before buying or building a property
