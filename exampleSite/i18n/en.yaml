@@ -4,7 +4,7 @@
 - id: readMore
   translation: Read more
 - id: viewAllPost
-  translation: View All service
+  translation: View all service
 - id: share
   translation: Share
 - id: aboutAuthor
@@ -22,6 +22,6 @@
 - id: pricing
   translation: Pricing
 - id: blog
-  translation: Blog
+  translation: Post
 - id: contact
   translation: Contact
