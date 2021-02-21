@@ -25,7 +25,7 @@ service:
       
       
     # service item loop
-    - name : Technical drawings, plans
+    - name : Technical plans
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
       content : You are building or renovating & need help with functionality & practical space planning. You are unsure about technicalities, what type of heating to use where, what lighting to use, how many switches and plugs to put where, it is beneficial to think it through beforehand, it can save you money and inconvenience in a long run. With an interior designer your living space will be more practical and more cost effective. See our Basic package in the pricing section.
       
