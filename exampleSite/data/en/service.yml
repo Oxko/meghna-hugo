@@ -6,7 +6,7 @@ service:
     # service item loop
     - name : Virtual quickplan or roommakeover
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : If you live far from Budapest, would not like to travel during the pandemic or you are only in a small design dilemma, need advice on 1-2 rooms, you can submit your questions with details about your rooms online, filling out the contact form and we will send you the plans, tips and hints with the answers to your questions.
+      content : If you live far from Budapest, would not like to travel during or you are only in a small design dilemma, need advice on 1-2 rooms, you can submit your questions with details about your rooms online, filling out the contact form and we will send you the plans, tips and hints with the answers to your questions.
       
     # service item loop
     - name : 3D photo rendering of your own design
@@ -32,4 +32,4 @@ service:
     # service item loop
     - name : Complete remodel with end-to-end project management 
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : If you are before a partial or full remodeling, refurbishment. Check out our packages, either partial or full-scale remodel with project management we can make your dream come true from a tip to taking it all off your shoulders.
+      content : If you are before a partial or full remodelling, refurbishment. Check out our packages, either partial or full-scale remodel with project management we can make your dream come true from a tip to taking it all off your shoulders.
