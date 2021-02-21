@@ -9,7 +9,7 @@ service:
       content : If you live far from Budapest, would not like to travel during or you are only in a small design dilemma, need advice on 1-2 rooms, you can submit your questions with details about your rooms online, filling out the contact form and we will send you the plans, tips and hints with the answers to your questions. Check the "Guidance" section for more details.
       
     # service item loop
-    - name : 3D photo rendering of your own design
+    - name : 3D realistic photo of your own design
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
       content : If you cannot decide on the colors, lighting or tiling pattern to use, we will create a 3D rendered photo for you where you will be able to see the best choice to suit your style. Send us the links of the materials in question, approximate measurements of the area, what color you would like and pattern you are thinking about. Check the "Guidance" section for more details.
       
