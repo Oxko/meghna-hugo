@@ -11,7 +11,7 @@ service:
     # service item loop
     - name : 3D photo rendering of your own design
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : If you cannot decide on the colors, lighting or tiling pattern to use, we will create a 3D rendered photo for you where you will be able to see the best choice to suit your style. Send us the links of the materials in question, measurements of the area, define the RGB color code and pattern you are thinking about.
+      content : If you cannot decide on the colors, lighting or tiling pattern to use, we will create a 3D rendered photo for you where you will be able to see the best choice to suit your style. Send us the links of the materials in question, approximate measurements of the area, what color you would like and pattern you are thinking about.
       
     # service item loop
     - name : Feng Shui floor plan
@@ -21,15 +21,15 @@ service:
     # service item loop
     - name : Custom furniture design
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : If you need a custom furniture to fill out packing space or you have an idea of a special design that you would like to have in real life, we will make it real for you. Either you only need the design of the furniture to see how it will look like or you only need the technical drawing that you will take up with your carpenter, or if you want us to take it to the end with management of execution.
+      content : If you need a custom furniture to fill out empty space practically or you have an idea of a special design that you would like to have for yourself in your home, we will make it real for you. Either you only need the design of the furniture to see how it will look like or you only need the technical drawing (for example for a kitchen furniture), and you will take up with your carpenter, or if you want us to take it to the end with management of execution.
       
       
     # service item loop
     - name : Technical drawings, plans
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : You are building or renovating & need help with functionality & practical space planning. You are unsure about technicalities, what type of heating to use where, how many switches and plugs to put where, it is beneficial to think it through beforehand, it can save money for you in a long run. With an interior designer your living space will be more practical and more cost effective.
+      content : You are building or renovating & need help with functionality & practical space planning. You are unsure about technicalities, what type of heating to use where, what lighting to use, how many switches and plugs to put where, it is beneficial to think it through beforehand, it can save you money and inconvenience in a long run. With an interior designer your living space will be more practical and more cost effective. See our Basic package in the pricing section.
       
     # service item loop
     - name : Complete remodel with end-to-end project management 
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : If you are before a partial or full remodelling, refurbishment. Check out our packages, either partial or full-scale remodel with project management we can make your dream come true from a tip to taking it all off your shoulders.
+      content : If you are before a partial or full remodelling, refurbishment. Check out our packages, either partial or full-scale remodel with project management we can make your dream come true, taking most of the stress and thinking off of your shoulders. See our Silver-Gold-Platinum packages in the Pricing section.
