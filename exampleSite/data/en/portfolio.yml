@@ -16,10 +16,40 @@ portfolio:
     content: Living room with 3 glass walls
     link: https://themefisher.com
   - name: Mobile home
+    image: images/portfolio/Mobilhome-living-room.png
+    categories:
+    - Mobile home
+    content: Living room
+    link: https://themefisher.com
+  - name: Mobile home
+    image: images/portfolio/Mobil-living-room-whiterug.png
+    categories:
+    - Mobile home
+    content: Living room
+    link: https://themefisher.com
+  - name: Mobile home
+    image: images/portfolio/Mobil-living-room-white-curtains.png
+    categories:
+    - Mobile home
+    content: Living room
+    link: https://themefisher.com
+  - name: Mobile home
     image: images/portfolio/Mobil-kitchen.png
     categories:
     - Mobile home
     content: Kitchen with black lacqure furniture
+    link: https://themefisher.com
+  - name: Mobile home
+    image: images/portfolio/Mobil-kitchen-white-curtains.png
+    categories:
+    - Mobile home
+    content: Kitchen with black lacqure furniture Master bedroom with 1 glass wall view on back yard
+    link: https://themefisher.com
+  - name: Mobile home
+    image: images/portfolio/Mobil-kitchen-withrug.png
+    categories:
+    - Mobile home
+    content: Kitchen with black lacqure furniture Master bedroom with 1 glass wall view on back yard
     link: https://themefisher.com
   - name: Mobile home
     image: images/portfolio/Mobile-kitchen.png
@@ -29,6 +59,12 @@ portfolio:
     link: https://themefisher.com
   - name: Mobile home
     image: images/portfolio/Mobil-bedroom.png
+    categories:
+    - Mobile home
+    content: Master bedroom with 1 glass wall view on back yard
+    link: https://themefisher.com
+  - name: Mobile home
+    image: images/portfolio/Mobile-bedroom.png
     categories:
     - Mobile home
     content: Master bedroom with 1 glass wall view on back yard
