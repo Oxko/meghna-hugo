@@ -4,17 +4,35 @@ portfolio:
   title: Our Projects
   portfolio_item:
   - name: Full development and design of a mobile home
-    image: images/portfolio/Mobilhome-living-room.png
+    image: images\portfolio\Mobile-living-room.png
     categories:
     - Mobile home
     content: Living room with 3 glass walls
     link: https://themefisher.com
   - name: Mobile home
-    image: images/portfolio/Mobilhome-bedroom.png
+    image: images/portfolio/Mobil-bedroom.png
     categories:
     - Mobile home
     content: Master bedroom with 1 glass wall view on back yard
     link: https://themefisher.com
+  - name: Mobile home
+    image: images/porftolio/Mobil-kitchen.png
+    categories:
+    - Mobile home
+    content: Kitchen with black lacqure furniture
+    link: https://themefisher.com
+  - name: Mobile home
+    image: images/porftolio/Mobile-kitchen.png
+    categories:
+    - Mobile home
+    content: Kitchen with black lacqure furniture
+    link: https://themefisher.com
+  - name: Mobile home
+    image: images/porftolio/Mobilhome-fromoutside.png
+    categories:
+    - Mobile home
+    content: Mobile home from outside
+    link: https://themefisher.com      
   - name: Airbnb remake, splitting the apartment with creating a private studio spot out of a room
     image: images/portfolio/Airbnb-downstairs.png
     categories:
