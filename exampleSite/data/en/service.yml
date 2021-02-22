@@ -14,7 +14,7 @@ service:
       content : If you cannot decide on the colors, lighting or tiling pattern to use, we will create a 3D rendered photo for you where you will be able to see the best choice to suit your style. Send us the links of the materials in question, approximate measurements of the area, what color you would like and pattern you are thinking about. Check the "Guidance" section for more details.
       
     # service item loop
-    - name : Floor plan using Feng Shui
+    - name : Plan using Feng Shui
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
       content : You are about to buy, renovate or remodel your home, you don't have enough harmony in your home design and you feel you need to realign the energies. We can provide you with a partial or complete Feng Shui plan for your interior or area planning. Before buying a property it is good to check it using Feng Shui, to select the right property considering its immutable charactaristics. Check the "Guidance" section for more details.
 

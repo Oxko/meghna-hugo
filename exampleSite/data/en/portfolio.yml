@@ -33,6 +33,12 @@ portfolio:
     - Mobile home
     content: Master bedroom with 1 glass wall view on back yard
     link: https://themefisher.com
+  - name: Mobile home
+    image: images/portfolio/Mobilhome-fromoutside.png
+    categories:
+    - Mobile home
+    content: From outside full mobil house plan
+    link: https://themefisher.com
   - name: Airbnb remake, splitting the apartment with creating a private studio spot out of a room
     image: images/portfolio/Airbnb-downstairs.png
     categories:
@@ -60,7 +66,7 @@ portfolio:
   - name: Airbnb remake
     image: images/portfolio/Airbnb-dining-room.png
     categories:
-    - Gallery building
+    - Modern
     content: Common dining area
     link: "#"
   - name: Apartment in Buda
@@ -231,12 +237,6 @@ portfolio:
     - Modern
     content: Kitchen in led lights with 3D wallpaper
     link: "#"
-  - name: 3D Furnishing plan
-    image: images/portfolio/Plan-3D-furnishing.png
-    categories:
-    - Technical plan
-    content: Space planning
-    link: "#"
   - name: Electricity plan
     image: images/portfolio/Plan-lamp-electricity.png
     categories:
@@ -309,17 +309,17 @@ portfolio:
     - Technical plan
     content: Shopping list with quantities, types
     link: "#"
-  - name: Wall view
+  - name: Wall view with measurements
     image: images/portfolio/Plan-wallview-breakfast.png
     categories:
     - Technical plan
-    content: With measurements
+    content: 
     link: "#"
   - name: Wallview
     image: images/portfolio/Plan-wallview.png
     categories:
     - Technical plan
-    content: With measurements
+    content:
     link: "#"
   - name: Remodelling plan
     image: images/portfolio/Plan-remodel.png
