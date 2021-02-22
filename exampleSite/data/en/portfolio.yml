@@ -4,49 +4,49 @@ portfolio:
   title: Our Projects
   portfolio_item:
   - name: Full development and design of a mobile home
-    image: images\portfolio\Mobile-living-room.png
+    image: images/portfolio/Mobile-living-room.png
     categories:
     - Mobile home
     content: Living room with 3 glass walls
-    link: "#"
+    link: https://themefisher.com
+  - name: Mobile home
+    image: images/portfolio/Mobil-living-room-norug.png
+    categories:
+    - Mobile home
+    content: Living room with 3 glass walls
+    link: https://themefisher.com
+  - name: Mobile home
+    image: images/portfolio/Mobil-kitchen.png
+    categories:
+    - Mobile home
+    content: Kitchen with black lacqure furniture
+    link: https://themefisher.com
+  - name: Mobile home
+    image: images/portfolio/Mobile-kitchen.png
+    categories:
+    - Mobile home
+    content: Kitchen with black lacqure furniture Master bedroom with 1 glass wall view on back yard
+    link: https://themefisher.com
   - name: Mobile home
     image: images/portfolio/Mobil-bedroom.png
     categories:
     - Mobile home
     content: Master bedroom with 1 glass wall view on back yard
     link: https://themefisher.com
-  - name: Mobile home
-    image: images/porftolio/Mobil-kitchen.png
-    categories:
-    - Mobile home
-    content: Kitchen with black lacqure furniture
-    link: https://themefisher.com
-  - name: Mobile home
-    image: images/porftolio/Mobile-kitchen.png
-    categories:
-    - Mobile home
-    content: Kitchen with black lacqure furniture
-    link: https://themefisher.com
-  - name: Mobile home
-    image: images/porftolio/Mobilhome-fromoutside.png
-    categories:
-    - Mobile home
-    content: From outside
-    link: https://themefisher.com     
   - name: Airbnb remake, splitting the apartment with creating a private studio spot out of a room
     image: images/portfolio/Airbnb-downstairs.png
     categories:
     - Gallery building
     content: Main room with bathroom and gallery
-    link: "#"
+    link: https://themefisher.com
   - name: Airbnb remake
-    image: images/portfolio/Airbnb-small-gallery.png
+    image: images/portfolio/Airbnb-gallery.png
     categories:
     - Gallery building
     content: Gallery for extra bedspace for short term rental
     link: "#"
   - name: Airbnb remake
-    image: images/portfolio/Airbnb-whole-room.png
+    image: images/portfolio/Airbnb-studio.png
     categories:
     - Gallery building
     content: Full refurbishment, creating a studio out of each room, with gallery and bathroom
@@ -56,6 +56,30 @@ portfolio:
     categories:
     - Gallery building
     content: Bathroom in the studio for privacy
+    link: "#"
+  - name: Airbnb remake
+    image: images/portfolio/Airbnb-dining-room.png
+    categories:
+    - Gallery building
+    content: Common dining area
+    link: "#"
+  - name: Apartment in Buda
+    image: images/portfolio/Buda-kitchen.png
+    categories:
+    - Homey 
+    content: Kitchen in homey style
+    link: "#"
+  - name: Apartment in Buda
+    image: images/portfolio/Buda-living-room.png
+    categories:
+    - Homey 
+    content: Living room with panorama on the Danube
+    link: "#"
+  - name: Apartment in Buda
+    image: images/portfolio/Buda-bedroom.png
+    categories:
+    - Homey 
+    content: Bedroom in homey style
     link: "#"
   - name: Apartment in Buda
     image: images/portfolio/Province-bedroom.png 
@@ -87,49 +111,55 @@ portfolio:
     - Mediterranian style
     content: Bathroom in Mediterranian mood
     link: "#"
-  - name: Japanese style family house full refurbish
+  - name: Old and new style mix
+    image: images/portfolio/Designed-topfloor.png
+    categories:
+    - Modern
+    content: Top floor with old style furniture and modern 3D design
+    link: "#"
+  - name: Japanese style
     image: images/portfolio/Japanese-style-bathroom-way-in.png
     categories:
     - Asian style
     content: Bathroom with relaxing bathtub corner and shower
     link: "#"
-  - name: Japanese style family house full refurbish
+  - name: Japanese style
     image: images/portfolio/Japanese-style-bathroom.png
     categories:
     - Asian style
     content: Bathroom for two
     link: "#"
-  - name: Japanese style family house full refurbish
+  - name: Japanese style
     image: images/portfolio/Japanese-style-bedroom.png
     categories:
     - Asian style
     content: Master bedroom with Asian feel
     link: "#"
-  - name: Japanese style family house full refurbish
+  - name: Japanese style
     image: images/portfolio/Japanese-style-dining-room.png
     categories:
     - Asian style
     content: Dining room with a breakfast spot and divided kitchen
     link: "#"
-  - name: Japanese style family house full refurbish
+  - name: Japanese style
     image: images/portfolio/Japanese-style-kitchen.png
     categories:
     - Asian style
     content: Absolute Japanese kitchen
     link: "#"
-  - name: Japanese style family house full refurbish
+  - name: Japanese style family house
     image: images/portfolio/Japanese-style-living-room-from-top.png
     categories:
     - Asian style
     content: Living room with big airspace from the second floor
     link: "#"
-  - name: Japanese style family house full refurbish
+  - name: Japanese style
     image: images/portfolio/Japanese-style-living-room-way-out.png
     categories:
     - Asian style
-    content: Big living room with flexible guestroom
+    content: Big living room with flexible blinds for guestroom
     link: "#"
-  - name: Japanese style family house full refurbish
+  - name: Japanese style
     image: images/portfolio/Japanese-style-living-room.png
     categories:
     - Asian style
@@ -140,6 +170,12 @@ portfolio:
     categories:
     - Asian style
     content: Hallway with the Arts and built in spots for plants with rocks and led decor
+    link: "#"
+  - name: Japanese style
+    image: images/portfolio/Japanese-style-musicroom.png
+    categories:
+    - Asian style
+    content: Music room with Art collection
     link: "#"
   - name: Japanese style family house full refurbish
     image: images/portfolio/Japanese-style-terrace.png
@@ -153,27 +189,141 @@ portfolio:
     - Modern
     content: Bring nature in the shower
     link: "#"
+  - name: Panel flat
+    image: images/portfolio/Panel-shower-front.png
+    categories:
+    - Modern
+    content: Bring nature into the shower
+    link: "#"
+  - name: Panel flat
+    image: images/portfolio/Panel-kitchen-dining-room.png
+    categories:
+    - Modern
+    content: Bring nature into the kitchen
+    link: "#"
+  - name: Panel flat
+    image: images/portfolio/Panel-living-room.png
+    categories:
+    - Modern
+    content: Homey modern living room
+    link: "#"
   - name: City flat, masculine homey
-    image: images/portfolio/Som-apartment-bedroom.png
+    image: images/portfolio/Som-bedroom.png
     categories:
     - Modern
     content: Bedroom in minimal style
     link: "#"
   - name: Modern style
-    image: images/portfolio/Som-apartment-shower.png
+    image: images/portfolio/Som-shower.png
     categories:
     - Modern
     content: Small apartment's shower in modern minimal style
     link: "#"
-  - name: 3D Furnishing plan
-    image: images/portfolio/3D-furnishing-plan.png
+  - name: Modern 3D style
+    image: images/portfolio/Som-bath.png
     categories:
-    - Space planning
+    - Modern
+    content: Small apartment's bathroom with 3D wallpaper
+    link: "#"
+  - name: Modern style
+    image: images/portfolio/Som-kitchen.png
+    categories:
+    - Modern
+    content: Kitchen in led lights with 3D wallpaper
+    link: "#"
+  - name: 3D Furnishing plan
+    image: images/portfolio/Plan-3D-furnishing.png
+    categories:
+    - Technical plan
     content: Space planning
     link: "#"
   - name: Electricity plan
-    image: images/portfolio/Lamp-electricity-plan.png
+    image: images/portfolio/Plan-lamp-electricity.png
     categories:
     - Technical plan
-    content: Lamp and electricity plan
+    content: Lamp and switches, socket distribution plan
     link: "#"
+  - name: 2D floor plan
+    image: images/portfolio/Plan-2D-colored-floor.png
+    categories:
+    - Technical plan
+    content: Floor plan with sample furnishing
+    link: "#"  
+  - name: 2D furnishing plan
+    image: images/portfolio/Plan-2Dfurnishing.png
+    categories:
+    - Technical plan
+    content: With sample furniture
+    link: "#"  
+  - name: 3D furnishing plan
+    image: images/portfolio/Plan-3D-furnishing.png
+    categories:
+    - Technical plan
+    content: Final 3D plan
+    link: "#"  
+  - name: 3D snapshot
+    image: images/portfolio/Plan-3Dsnapshot-bedroom.png
+    categories:
+    - Technical plan
+    content: Virtualized 3D snapshot
+    link: "#"  
+  - name: 3D snapshot
+    image: images/portfolio/Plan-3Dsnapshot-toilet.png
+    categories:
+    - Technical plan
+    content: 3D snapshot of small men's toilet
+    link: "#"  
+  - name: 2D sketch
+    image: images/portfolio/Plan-floor-colored-furnishing-draft.png
+    categories:
+    - Technical plan
+    content: Colored furnishing plan draft
+    link: "#"  
+  - name: Floor tiling plan
+    image: images/portfolio/Plan-floortiling.png
+    categories:
+    - Technical plan
+    content: With quantities, type and tiling pattern
+    link: "#"  
+  - name: Furniture consignation for shopping
+    image: images/portfolio/Plan-furniture-consignation.png
+    categories:
+    - Technical plan
+    content: With quantities, price, type
+    link: "#"  
+  - name: Moodboard
+    image: images/portfolio/Plan-moodboard-japanese.png
+    categories:
+    - Technical plan
+    content:
+    link: "#"  
+  - name: Tiling plan with details
+    image: images/portfolio/Plan-tiling-bathroom.png
+    categories:
+    - Technical plan
+    content: Bathroom tiling layout with quantities
+    link: "#"
+  - name: Tiling consignation
+    image: images/portfolio/Plan-tiling-consignation.png
+    categories:
+    - Technical plan
+    content: Shopping list with quantities, types
+    link: "#"
+  - name: Wall view
+    image: images/portfolio/Plan-wallview-breakfast.png
+    categories:
+    - Technical plan
+    content: With measurements
+    link: "#"
+  - name: Wallview
+    image: images/portfolio/Plan-wallview.png
+    categories:
+    - Technical plan
+    content: With measurements
+    link: "#"
+  - name: Remodelling plan
+    image: images/portfolio/Plan-remodel.png
+    categories:
+    - Technical plan
+    content:
+    link: "#"  
