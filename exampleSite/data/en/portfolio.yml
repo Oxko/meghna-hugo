@@ -124,6 +124,12 @@ portfolio:
     content: Bedroom in homey style
     link: "#"
   - name: Apartment in Buda
+    image: images/portfolio/Buda-panorama.png
+    categories:
+    - Homey
+    content: Living room in Province style
+    link: "#"
+  - name: Apartment in Buda
     image: images/portfolio/Province-bedroom.png 
     categories:
     - Mediterranian style
@@ -147,6 +153,7 @@ portfolio:
     - Mediterranian style
     content: Living room in Province style
     link: "#"
+  
   - name: Apartment in Buda
     image: images/portfolio/Province-mediterranian-bathroom.png
     categories:
@@ -273,30 +280,6 @@ portfolio:
     - Modern
     content: Kitchen in led lights with 3D wallpaper
     link: "#"
-  - name: Electricity plan
-    image: images/portfolio/Plan-lamp-electricity.png
-    categories:
-    - Technical plan
-    content: Lamp and switches, socket distribution plan
-    link: "#"
-  - name: 2D floor plan
-    image: images/portfolio/Plan-2D-colored-floor.png
-    categories:
-    - Technical plan
-    content: Floor plan with sample furnishing
-    link: "#"  
-  - name: 2D furnishing plan
-    image: images/portfolio/Plan-2Dfurnishing.png
-    categories:
-    - Technical plan
-    content: With sample furniture
-    link: "#"  
-  - name: 3D furnishing plan
-    image: images/portfolio/Plan-3D-furnishing.png
-    categories:
-    - Technical plan
-    content: Final 3D plan
-    link: "#"  
   - name: 3D snapshot
     image: images/portfolio/Plan-3Dsnapshot-bedroom.png
     categories:
@@ -308,43 +291,14 @@ portfolio:
     categories:
     - Technical plan
     content: 3D snapshot of small men's toilet
-    link: "#"  
-  - name: 2D sketch
-    image: images/portfolio/Plan-floor-colored-furnishing-draft.png
-    categories:
-    - Technical plan
-    content: Colored furnishing plan draft
-    link: "#"  
-  - name: Floor tiling plan
-    image: images/portfolio/Plan-floortiling.png
-    categories:
-    - Technical plan
-    content: With quantities, type and tiling pattern
-    link: "#"  
-  - name: Furniture consignation for shopping
-    image: images/portfolio/Plan-furniture-consignation.png
-    categories:
-    - Technical plan
-    content: With quantities, price, type
-    link: "#"  
+    link: "#" 
   - name: Moodboard
     image: images/portfolio/Plan-moodboard-japanese.png
     categories:
     - Technical plan
     content:
-    link: "#"  
-  - name: Tiling plan with details
-    image: images/portfolio/Plan-tiling-bathroom.png
-    categories:
-    - Technical plan
-    content: Bathroom tiling layout with quantities
-    link: "#"
-  - name: Tiling consignation
-    image: images/portfolio/Plan-tiling-consignation.png
-    categories:
-    - Technical plan
-    content: Shopping list with quantities, types
-    link: "#"
+    link: "#" 
+  
   - name: Wall view with measurements
     image: images/portfolio/Plan-wallview-breakfast.png
     categories:
@@ -357,9 +311,65 @@ portfolio:
     - Technical plan
     content:
     link: "#"
+
   - name: Remodelling plan
     image: images/portfolio/Plan-remodel.png
     categories:
     - Technical plan
     content:
+    link: "#"  
+  - name: 2D furnishing plan
+    image: images/portfolio/Plan-2Dfurnishing.png
+    categories:
+    - Technical plan
+    content: With sample furniture
+    link: "#" 
+  - name: Electricity plan
+    image: images/portfolio/Plan-lamp-electricity.png
+    categories:
+    - Technical plan
+    content: Lamp and switches, socket distribution plan
+    link: "#"
+  - name: 2D sketch
+    image: images/portfolio/Plan-floor-colored-furnishing-draft.png
+    categories:
+    - Technical plan
+    content: Colored furnishing plan draft
+    link: "#"   
+  - name: 3D furnishing plan
+    image: images/portfolio/Plan-3D-furnishing.png
+    categories:
+    - Technical plan
+    content: Final 3D plan
+    link: "#"  
+  - name: Floor tiling plan
+    image: images/portfolio/Plan-floortiling.png
+    categories:
+    - Technical plan
+    content: With quantities, type and tiling pattern
+    link: "#" 
+  - name: Tiling plan with details
+    image: images/portfolio/Plan-tiling-bathroom.png
+    categories:
+    - Technical plan
+    content: Bathroom tiling layout with quantities
+    link: "#"  
+  - name: Furniture consignation for shopping
+    image: images/portfolio/Plan-furniture-consignation.png
+    categories:
+    - Technical plan
+    content: With quantities, price, type
+    link: "#"   
+  - name: Tiling consignation
+    image: images/portfolio/Plan-tiling-consignation.png
+    categories:
+    - Technical plan
+    content: Shopping list with quantities, types
+    link: "#"
+  
+  - name: 2D floor plan
+    image: images/portfolio/Plan-2D-colored-floor.png
+    categories:
+    - Technical plan
+    content: Floor plan with sample furnishing
     link: "#"  
