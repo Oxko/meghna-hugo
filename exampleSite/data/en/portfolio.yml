@@ -8,7 +8,7 @@ portfolio:
     categories:
     - Mobile home
     content: Living room with 3 glass walls
-    link: https://themefisher.com
+    link: "#"
   - name: Mobile home
     image: images/portfolio/Mobil-bedroom.png
     categories:
@@ -31,8 +31,8 @@ portfolio:
     image: images/porftolio/Mobilhome-fromoutside.png
     categories:
     - Mobile home
-    content: Mobile home from outside
-    link: https://themefisher.com      
+    content: From outside
+    link: https://themefisher.com     
   - name: Airbnb remake, splitting the apartment with creating a private studio spot out of a room
     image: images/portfolio/Airbnb-downstairs.png
     categories:
