@@ -1,6 +1,11 @@
-+++
-+++
-3D rendered photos
+---
+title: "3D rendered photos"
+date: 2018-09-12T12:52:36+06:00
+image_webp: images/blog/blog-post-2.webp
+image: images/blog/blog-post-2.jpg
+author: John Doe
+description : "This is meta description"
+---
 
 If you cannot decide on the design or colors whether what you chose would look good or could look better, we can provide you with a realistic 3D photo of your space to visualize the outcome beforehand.
 
@@ -22,4 +27,4 @@ We provide you with 1*3D rendered photo using your materials.
 
 Usual timeline is up to a few days.
 
-For any specifics contact us and we will help with what you need. 
+For any specifics contact us and we will help with what you need.

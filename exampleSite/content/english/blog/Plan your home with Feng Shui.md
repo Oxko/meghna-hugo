@@ -1,6 +1,11 @@
-+++
-+++
-When would you want to use Feng Shui principles? 
+---
+title: "Plan and design your home using Feng Shui"
+date: 2018-09-12T12:52:36+06:00
+image_webp: images/blog/blog-post-1.webp
+image: images/blog/blog-post-1.jpg
+author: 
+description : "Design your home with Feng Shui principles, plan your home based on Feng Shui"
+---
 
 If you want to apply Feng Shui and you are about to buy, renovate and remodel your home
 or you just want to design one or two rooms or even the whole living space according to the principles of Feng Shui.

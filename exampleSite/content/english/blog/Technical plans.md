@@ -1,5 +1,11 @@
-+++
-+++
+---
+title: "Technical plans"
+date: 2018-09-12T12:52:36+06:00
+image_webp: images/blog/blog-post-3.webp
+image: images/blog/blog-post-3.jpg
+author: 
+description : "Plan your home from the beginnng, floor plan, architectural plan, tiling pattern, tiling layout, lamp and switches distribution plan, 2D floorplan or 3D floorplan helps you visualize and plan your home to be more stylish, practical and convenient"
+---
 
 When do you need this package? 
 
