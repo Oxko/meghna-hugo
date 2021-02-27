@@ -5,10 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Blog Post
+  label: Guidance
 - type: directory
-  path: exampleSite/content/english/blog
-  label: Post (en)
+  path: exampleSite/content/english/guidance
+  label: Guidance (en)
   create: documents
   match: "**/*"
   new_doc_ext: md
@@ -37,7 +37,7 @@ sections:
 upload_dir: exampleSite/static/images
 public_path: "/images/Main-picture.png"
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: true
 file_template: 'static/images/backgrounds/Main-picture.png/:filename:'
 build:
   preview_env:

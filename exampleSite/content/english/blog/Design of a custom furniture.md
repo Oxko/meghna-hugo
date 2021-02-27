@@ -1,11 +1,11 @@
 ---
-title: 'Design of a custom furniture'
+title: Design of a custom furniture
 date: 2018-09-12T12:52:36.000+06:00
 image_webp: images/guidance/blog-post-3.webp
 image: images/guidance/blog-post-3.jpg
 author: 
-description: "Design a unique custom furniture, kitchen furniture, wardrobe, walk-in closet"
-draft: true
+description: Design a unique custom furniture, kitchen furniture, wardrobe, walk-in
+  closet
 
 ---
 You need to fill in empty spaces for packing with customized furniture? 
@@ -26,4 +26,4 @@ General complex built-ins are about 150 000 HUF.
 
 Usual timeline is up to 7 days.
 
-For any specifics contact us and we will help with what you need. 
+For any specifics contact us and we will help with what you need.
