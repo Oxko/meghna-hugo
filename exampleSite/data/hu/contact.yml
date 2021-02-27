@@ -13,7 +13,7 @@ contact:
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Telefon: +(36) 20 4500 711"
             
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+    - icon :  # themify icon pack : https://themify.me/themify-icons
       info : ""
 
 
