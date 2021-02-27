@@ -15,14 +15,14 @@ contact:
       info : "Phone: +(36) 20 4500 711"
       
       
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : ""
+    # - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      # info : ""
 
 
   # Contact form
   contact_form:
     enable : true
-    form_action : "#" #contact form works with https://formspree.io
+    form_action : "https://formspree.io/f/xvovjozj" #contact form works with https://formspree.io
     name : "Your Name"
     email : "Your Email"
     subject : "Subject"
