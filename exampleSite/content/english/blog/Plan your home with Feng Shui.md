@@ -5,6 +5,7 @@ image_webp: images/blog/blog-post-1.webp
 image: images/blog/blog-post-1.jpg
 author: 
 description : "Design your home with Feng Shui principles, plan your home based on Feng Shui"
+draft: true
 ---
 
 If you want to apply Feng Shui and you are about to buy, renovate and remodel your home
