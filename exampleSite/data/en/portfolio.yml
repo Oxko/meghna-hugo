@@ -3,47 +3,11 @@ portfolio:
   enable: true
   title: Our Projects
   portfolio_item:
-  - name: Full development and design of a mobile home
-    image: images/portfolio/Mobile-living-room.png
-    categories:
-    - Mobile home
-    content: Living room with 3 glass walls
-    link: https://themefisher.com
-  - name: Mobile home
-    image: images/portfolio/Mobil-living-room-norug.png
-    categories:
-    - Mobile home
-    content: Living room with 3 glass walls
-    link: https://themefisher.com
-  - name: Mobile home
-    image: images/portfolio/Mobilhome-living-room.png
-    categories:
-    - Mobile home
-    content: Living room
-    link: https://themefisher.com
   - name: Mobile home
     image: images/portfolio/Mobil-living-room-whiterug.png
     categories:
     - Mobile home
-    content: Living room
-    link: https://themefisher.com
-  - name: Mobile home
-    image: images/portfolio/Mobil-living-room-white-curtains.png
-    categories:
-    - Mobile home
-    content: Living room
-    link: https://themefisher.com
-  - name: Mobile home
-    image: images/portfolio/Mobil-kitchen.png
-    categories:
-    - Mobile home
-    content: Kitchen with black lacqure furniture
-    link: https://themefisher.com
-  - name: Mobile home
-    image: images/portfolio/Mobil-kitchen-white-curtains.png
-    categories:
-    - Mobile home
-    content: Kitchen with black lacqure furniture Master bedroom with 1 glass wall view on back yard
+    content: Living room with 3 glass walls
     link: https://themefisher.com
   - name: Mobile home
     image: images/portfolio/Mobil-kitchen-withrug.png
@@ -52,19 +16,7 @@ portfolio:
     content: Kitchen with black lacqure furniture Master bedroom with 1 glass wall view on back yard
     link: https://themefisher.com
   - name: Mobile home
-    image: images/portfolio/Mobile-kitchen.png
-    categories:
-    - Mobile home
-    content: Kitchen with black lacqure furniture Master bedroom with 1 glass wall view on back yard
-    link: https://themefisher.com
-  - name: Mobile home
     image: images/portfolio/Mobil-bedroom.png
-    categories:
-    - Mobile home
-    content: Master bedroom with 1 glass wall view on back yard
-    link: https://themefisher.com
-  - name: Mobile home
-    image: images/portfolio/Mobile-bedroom.png
     categories:
     - Mobile home
     content: Master bedroom with 1 glass wall view on back yard
@@ -258,6 +210,12 @@ portfolio:
     link: "#"
   - name: City flat, masculine homey
     image: images/portfolio/Som-bedroom.png
+    categories:
+    - Modern
+    content: Bedroom in minimal style
+    link: "#"
+  - name: City flat, masculine homey
+    image: images/portfolio/Panel-som-bedroom.png
     categories:
     - Modern
     content: Bedroom in minimal style
