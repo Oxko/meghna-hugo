@@ -1,0 +1,34 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Szolgáltatásaink
+  service_item :
+    # service item loop
+    - name : Virtuális gyorstervezés
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Ha messze lakik, nem szeretne utazni vagy csak kisebb lakberendezési tanácsra van szüksége, egy-két  helyiséggel kapcsolatban kér ötletet, lehetőség van virtuális gyorstervezésre, kérésére válaszolva online küldjük el a terveket, ajánlásokat és válaszokat a kérdéseire. Nézze meg az "Útmutató" fület részletekért, hogy ezt hogyan teheti meg.
+      
+    # service item loop
+    - name : 3D látványterv
+      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      content : Ha nem tudja eldönteni jól nézne-e ki amiket kiválasztott, formákban, megvilágításban vagy színben. A 3D látványkép segíteni fog, hogy megfelelő döntés lenne-e kivitelezni az elgondolt tervet. Küldje el a linket a kérdéses anyagról, színről, körülbelüli méreteit a helyiségnek, s mi elküldjük a valósághű képet róla. Nézze meg az "Útmutató" fület részletekért, hogy ezt hogyan teheti meg.
+      
+    # service item loop
+    - name : Térszervezés, berendezés Feng Shui alapján
+      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      content : Ha ingatlanvásárlás, felújítás, átalakítás előtt áll vagy csak egy-két helyiséget szeretne a Feng Shui alapelvei szerint kialakítani, nincs meg a kellő harmónia otthonának kialakításában, úgy érzi szüksége van az energiák átcsoportosítására, részleges vagy teljes térrendezési és berendezési tervet nyújtunk Feng Shui alapján tervezve. Lakásvásárlás előtt is érdemes Feng Shui szempontból megvizsgálni az ingatlant, hogy a változtathatlan elemeket is figyelembe véve döntsünk. Nézze meg az "Útmutató" fület további részletekért.
+      
+    # service item loop
+    - name : Egyedi bútor tervezése
+      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      content : Amennyiben térkihasználás miatt szeretne beépített bútort terveztetni vagy mert egyedi tervezésű bútorral oldható meg a tárolás vagy mert egy különleges darabot szeretne, vagy van egy saját elképzelése csak nem tudja megvalósítani, mi megtervezzük Önnek. Ha csak a bútor dizájnára kíváncsi vagy a formai tervekre van szüksége, hogy asztalossal elkészíttesse (pl konyhabútor), vagy szeretné ha mi tervezzük meg kívülről és belülről is és koordináljuk le az elkészültét az asztalosával, jó helyen jár. Nézze meg az "Útmutató" fület további részletekért.
+      
+    # service item loop
+    - name : Építészeti rajzok
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : Felújítás vagy átalakítás előtt áll, helyiségek kialakításában, térszervezésben szüksége lenne segítségre,nem tudja eldönteni hogy lenne a legpraktiusabb a helyiségek elhelyezkedése, a legélhetőbb módon berendezni a lakását. Bizonytalan mi lenne a legoptimálisabb fűtés, hol helyezkedjenek el és hány darab villanykapcsoló, konnektor, lámpa. Hol érdemes későbbi problémák elkerülése végett kialakíttatni a vízkiállásokat, WC-t. Nem mindegy hogy milyen fekvésű ingatlan, milyen burkolatú és milyen funkciójú helyiségekről van szó, ezeket megfontolva érdemes a műszaki terveket is már előre átgondolni, hiszen sokat spórolhatunk hosszú távon pénztárcánkon és szemünk világát, lelki egyensúlyunkat is óvjuk, ha a megfelelő fűtést és világítást alkalmazzuk a megfelelő helyeken. Nézze meg az "Útmutató" fület további részletekért.
+      
+    # service item loop
+    - name : Teljeskörű tervezés project managementtel
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : Ha teljes átalakítást, illetve tervezést szeretne, lakberendezőre bízná a teljes tervezést, nem szeretne bajlódni a részletekkel, egy kézben tudni a kivitelezési macerákat, kész csomagot tudunk ajánlani, mely tartalmazza az enteriőr utolsó kiegészítő elemét is, a falak mozgatásának javaslati tervétől kezdve a műszaki felújítási terveken át a kivitelezőkkel történő formai felügyeletéig. Itt Önnek csak a tervekből kell választania, lista alapján bevásárolni és a kivitelezőket felfogadni, a többi a mi dolgunk. Vásárlásban is részt tudunk venni illetve szakembereket is tudunk ajánlani szükség szerint. Nézze meg a csomagajánlatainkat az "Árak" fülön. 
