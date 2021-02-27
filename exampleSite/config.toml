@@ -58,42 +58,42 @@ contentDir = "content/hungarian"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Accueil"
 languageCode = "hu-hu"
-languageName = "HU"
+languageName = "Hu"
 weight = 2
 [[Languages.fr.menu.main]]
-name = "sur"
+name = "Rólunk"
 pre = "#"
-url = "about"
+url = "rolunk"
 weight = 1
 [[Languages.fr.menu.main]]
 name = "Szolgáltatások"
 pre = "#"
-url = "Szolgáltatások"
+url = "szolgaltatasok"
 weight = 2
 [[Languages.fr.menu.main]]
 name = "Portfólió"
 pre = "#"
-url = "Portfolió"
+url = "portfolio"
 weight = 3
 [[Languages.fr.menu.main]]
-name = "équipe"
+name = "Csapat"
 pre = "#"
 url = "team"
 weight = 4
 [[Languages.fr.menu.main]]
-name = "Árlista"
+name = "Árak"
 pre = "#"
-url = "Árlista"
+url = "arak"
 weight = 5
 [[Languages.fr.menu.main]]
 name = "Útmutató"
 pre = "#"
-url = "Útmutató"
+url = "utmutato"
 weight = 6
 [[Languages.fr.menu.main]]
 name = "Kontakt"
 pre = "#"
-url = "Kontakt"
+url = "kontakt"
 weight = 7
 [[Languages.fr.menu.main]]
 name = "themefisher"
