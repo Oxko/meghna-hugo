@@ -1,6 +1,6 @@
 ---
 new_page_extension: md
-auto_deploy: false
+auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
@@ -50,3 +50,14 @@ build:
   instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
     -d public
 version: 0.58.2
+
+- type: heading
+  label: Útmutató
+- type: directory
+  path: exampleSite/content/hungarian/utmutato
+  label: Útmutató (hu)
+  create: documents
+  match: "**/*"
+  new_doc_ext: md
+  templates:
+  - post
