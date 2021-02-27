@@ -57,11 +57,7 @@ weight = 8
 contentDir = "content/hungarian"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Accueil"
-<<<<<<< HEAD
 languageCode = "hu-hu"
-=======
-languageCode = "fr-fr"
->>>>>>> 54899930e4edd9ccdce024e1a572b832fa1c9d14
 languageName = "HU"
 weight = 2
 [[Languages.fr.menu.main]]
