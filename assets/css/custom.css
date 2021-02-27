@@ -4,6 +4,13 @@
     object-fit: cover;
     object-position: center 40%;
 }
+.navbar-dark .navbar-nav .nav-link {
+    color: #d6c575;
+}
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+    color: #bb9933;
+
+}
 .service-block {
     box-shadow: 0 0 0 #8f8533;
 }
@@ -52,7 +59,7 @@ h6 {
 ::-moz-selection {
     /* Code for Firefox */
     color: #fff;
-    background: #8f8533;
+    background: #cfc158;
   }
   
   ::selection {
@@ -121,7 +128,7 @@ a:hover {
   }
   .about-2 .content-block .media i {
     font-size: 30px;
-    color: #8f8533;
+    color: #d8c63f;
   }
   #contact-submit {
     border: 1px solid rgba(236, 239, 241, 0.07);
@@ -160,7 +167,7 @@ a:hover {
     margin-bottom: 15px;
   }
   .pricing li:last-child {
-    border-bottom: 1px solid #161d27);
+    border-bottom: 1px solid #161d27;
     margin-bottom: 20px;
   }
   
@@ -281,7 +288,7 @@ a:hover {
   body {
     background-color: #1d2031;
     font-family: "Anaheim", sans-serif;
-    color: #94a1ad;
+    color: #a2ad94;
     -webkit-font-smoothing: antialiased;
   }
   
