@@ -1,13 +1,15 @@
 ---
-title: "Technical plans"
-date: 2018-09-12T12:52:36+06:00
+title: Technical plans
+date: 2018-09-12T12:52:36.000+06:00
 image_webp: images/blog/blog-post-3.webp
 image: images/blog/blog-post-3.jpg
 author: 
-description : "Plan your home from the beginnng, floor plan, architectural plan, tiling pattern, tiling layout, lamp and switches distribution plan, 2D floorplan or 3D floorplan helps you visualize and plan your home to be more stylish, practical and convenient"
-draft: true
----
+description: Plan your home from the beginnng, floor plan, architectural plan, tiling
+  pattern, tiling layout, lamp and switches distribution plan, 2D floorplan or 3D
+  floorplan helps you visualize and plan your home to be more stylish, practical and
+  convenient
 
+---
 When do you need this package? 
 
 You are building or renovating & need help with functionality & practical space planning. 
@@ -31,4 +33,4 @@ Note: The construction and demolishing plan can be provided only based on a writ
 
 Usual timeline is up to 2 weeks. 
 
-For any specifics contact us and we will help with what you need. 
+For any specifics contact us and we will help with what you need.
