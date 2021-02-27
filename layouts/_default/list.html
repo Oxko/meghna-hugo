@@ -2,15 +2,15 @@
 
 {{ partial "navigation.html" . }}
 
-{{"<!-- Start Blog Section -->" | safeHTML}}
+{{"<!-- Start Guidance Section -->" | safeHTML}}
 <section id="guidance" class="section">
   <div class="container">
     <div class="row">
       <div class="col-12">
         {{"<!-- section title -->" | safeHTML}}
         <div class="title text-center wow fadeInDown">
-          <h2>{{ with i18n "blogTitle" }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
-              {{ with i18n "blogTitle" }} {{ index (split . " ") 1 | safeHTML }} {{ end }}</span></h2>
+          <h2>{{ with i18n "GuidanceTitle" }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
+              {{ with i18n "GuidanceTitle" }} {{ index (split . " ") 1 | safeHTML }} {{ end }}</span></h2>
           <div class="border-meghna"></div>
         </div>
       </div>
@@ -25,6 +25,6 @@
     </div>
   </div>
 </section>
-{{"<!-- /guidance -->" | safeHTML}}
+{{"<!-- /Guidance -->" | safeHTML}}
 
 {{ end }}
