@@ -1,0 +1,327 @@
+#logo-image {
+    width: 20rem;
+    height: 5rem;
+    object-fit: cover;
+    object-position: center 40%;
+}
+.service-block {
+    box-shadow: 0 0 0 #8f8533;
+}
+.service-block, .price-item, .block {
+    outline: 2px solid #8f8533;
+    /* box-shadow: 3px 3px 4px white; */
+}
+.hero-area .block {
+    outline: none;
+}
+.hero-area .block:hover {
+    transform: none;
+    box-shadow: none;
+}
+.block:hover, .service-block:hover, .price-item:hover {
+    transform: translateY(5px);
+    box-shadow: 3px 3px 4px #8f8533;
+    transition-duration: 500ms;
+}
+.about .block:hover {
+    border-bottom: none;
+}
+.about .block:hover .icon-box {
+    transform: none;
+}
+.bg-one, section, .section-bg {
+    background-color: #1d2031;
+}
+
+
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 400;
+  font-family: "Quattrocento Sans", sans-serif;
+  color: #939da7;
+}
+/*=================================================================
+  Basic Setup
+==================================================================*/
+::-moz-selection {
+    /* Code for Firefox */
+    color: #fff;
+    background: #8f8533;
+  }
+  
+  ::selection {
+    color: #fff;
+    background: #8f8533;
+  }
+
+
+  
+  .btn-transparent:hover,
+.btn-transparent:focus {
+  background-color: #8f8533;
+  border: 1px solid transparent;
+  color: #fff;
+}
+.border-meghna:before {
+    background-color: #fff;
+    content: '';
+    height: 6px;
+    left: 50%;
+    margin-left: -20px;
+    position: absolute;
+    top: -4px;
+    width: 50px;
+    background-color: #8f8533;
+  }
+  a:focus,
+a:hover {
+  color: #8f8533;
+}
+
+.btn-main {
+    background: #8f8533;
+    color: #fff;
+    display: inline-block;
+    font-size: 14px;
+    letter-spacing: 1px;
+    padding: 10px 35px;
+    text-transform: uppercase;
+  }
+  .title h2 span {
+    color: #8f8533;
+  }
+  
+  .header-bradcrumb a:hover {
+    color: #8f8533;
+  }
+  
+.navbar-dark .navbar-nav .active>.nav-link,
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link.show,
+.navbar-dark .navbar-nav .show>.nav-link {
+  color: #8f8533;
+}
+
+.hero-area .block .video-button {
+    background: #fff;
+    color: #8f8533;
+    display: inline-block;
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+  }
+  .about .block:hover {
+    border-bottom: 2px solid #8f8533;
+  }
+  .about-2 .content-block .media i {
+    font-size: 30px;
+    color: #8f8533;
+  }
+  #contact-submit {
+    border: 1px solid rgba(236, 239, 241, 0.07);
+    background: #8f8533;
+    padding: 12px 0;
+    width: 100%;
+    margin: 0;
+  }
+  #contact-submit:hover {
+    border-color: #1d1e50;
+    background-color: #e2e044;
+  }
+
+  /*=================================================================
+  Pricing section setup
+==================================================================*/
+
+.price-title {
+    background-color: #12151a;
+    padding: 30px 0 20px;
+  }
+
+  .price-title h3 {
+    color: #e4e2d8;
+    margin: 0 0 10px;
+    text-transform: uppercase;
+  }
+  .price-title .value {
+    color: #8f8533;
+    font-size: 30px;
+  }
+
+  .price-item {
+    border: 1px solid rgba(22, 23, 24, 0.07);
+    padding-bottom: 30px;
+    margin-bottom: 15px;
+  }
+  .pricing li:last-child {
+    border-bottom: 1px solid rgba(67, 81, 92, 0.07);
+    margin-bottom: 20px;
+  }
+  
+  .pricing li:nth-child(2n) {
+    background-color: #12151a;
+  }
+  
+  /*=================================================================
+  Portfolio Setup
+==================================================================*/
+
+  .portfolio-filter .btn.active {
+    border-color: #8f8533;
+  }
+  .portfolio-block .caption .search-icon {
+    background: #232255;
+    width: 50px;
+    height: 50px;
+    color: #fff;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 30px;
+  }
+
+  
+.blog-icon {
+    border: 1px solid #8f8533;
+    border-radius: 50%;
+    color: #1f0d50;
+    display: inline-block;
+    padding: 16px 20px;
+  }
+  .post-excerpt .more a:hover {
+    background-color: #8f8533;
+    color: #fff;
+  }
+  .tab-post-nav li.active a {
+    border-top: 3px solid #8f8533;
+    background-color: #2F383D;
+    color: #8f8533;
+  }
+  .tab-excerpt h4 a:hover {
+    color: #8f8533;
+  }
+  .categories>li:hover a {
+    padding-left: 10px;
+    color: #8f8533;
+  }
+  .widget-content .tag:hover {
+    background-color: #8f8533;
+    color: #fff;
+  }
+  .post-pagination ul li a:hover,
+.post-pagination ul li.active a {
+  background-color: #8f8533;
+  color: #fff;
+}
+
+
+/*=================================================================
+	Single Blog Page
+==================================================================*/
+.single-blog {
+    background-color: #fff;
+    margin-bottom: 50px;
+    padding: 20px;
+  }
+  
+  blockquote {
+    border-left: 5px solid #8f8533;
+    font-style: italic;
+    line-height: 22px;
+    padding: 20px 20px 10px 20px;
+    margin: 20px 0;
+  }
+  .next-prev a:hover {
+    color: #8f8533;
+  }
+  
+  
+  
+  .border-meghna {
+    border-top: 2px solid rgba(255, 255, 255, .1);
+    height: 1px;
+    margin: 15px auto 0;
+    position: relative;
+    width: 30%;
+  }
+
+  .single-page-header:before {
+    background: rgba(255, 255, 255,  .1);
+    position: absolute;
+    content: '';
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+  }
+
+  .about .block .icon-box:after {
+    bottom: -56.5685px;
+    border-bottom: 2px solid rgba(20, 15, 15, 0.1);
+    border-left: 2px solid rgba(22, 14, 14, 0.1);
+  }
+  .call-to-action h2 {
+    font-weight: 700;
+    color: rgb(45, 35, 83);
+  }
+  
+  .call-to-action p {
+    font-size: 16px;
+    color: rgb(39, 37, 56);
+  }
+  html {
+    background-color: #1d2031;
+    color: #1d2031;
+  }
+  body {
+    background-color: #1d2031;
+    font-family: "Anaheim", sans-serif;
+    color: #94a1ad;
+    -webkit-font-smoothing: antialiased;
+  }
+  
+  /*=================================================================
+  About us setup
+==================================================================*/
+.post-time {
+    color: #b6c3ca;
+  }
+
+  .about .block {
+    background: #1f1f1f;
+    padding: 30px;
+    border-bottom: 2px solid transparent;
+    transition: .5s all;
+    margin-bottom: 20px;
+  }
+
+
+  /*=================================================================
+  Skill bar setup
+==================================================================*/
+.skill-bar p {
+    font-size: 18px;
+    margin-bottom: 0;
+  }
+  
+  .skill-bar p span {
+    font-style: italic;
+    font-size: 30px;
+    color: rgba(33, 44, 109, 0.34);
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  .skill-bar .progress {
+    height: 6px;
+    border-radius: 0;
+  }  
+
+.skill-bar .progress .progress-bar {
+    background: #28314d;
+  }
