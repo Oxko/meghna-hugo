@@ -131,7 +131,7 @@ a:hover {
     margin: 0;
   }
   #contact-submit:hover {
-    border-color: #1d1e50;
+    border-color: #171838;
     background-color: #e2e044;
   }
 
@@ -243,7 +243,7 @@ a:hover {
   
   
   .border-meghna {
-    border-top: 2px solid rgba(255, 255, 255, .1);
+    border-top: 2px solid #171a25;
     height: 1px;
     margin: 15px auto 0;
     position: relative;
@@ -262,8 +262,8 @@ a:hover {
 
   .about .block .icon-box:after {
     bottom: -56.5685px;
-    border-bottom: 2px solid rgba(20, 15, 15, 0.1);
-    border-left: 2px solid rgba(22, 14, 14, 0.1);
+    border-bottom: 2px solid rgba(119, 107, 107, 0.1);
+    border-left: 2px solid rgba(56, 49, 49, 0.1);
   }
   .call-to-action h2 {
     font-weight: 700;
@@ -293,7 +293,7 @@ a:hover {
   }
 
   .about .block {
-    background: #1f1f1f;
+    background: #1d2031;
     padding: 30px;
     border-bottom: 2px solid transparent;
     transition: .5s all;
