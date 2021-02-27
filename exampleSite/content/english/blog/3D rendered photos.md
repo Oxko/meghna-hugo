@@ -3,8 +3,9 @@ title: "3D rendered photos"
 date: 2018-09-12T12:52:36+06:00
 image_webp: images/blog/blog-post-2.webp
 image: images/blog/blog-post-2.jpg
-author: John Doe
-description : "This is meta description"
+author: 
+description : "Computer visualized 3D rendered photos for interior designing"
+draft: true
 ---
 
 If you cannot decide on the design or colors whether what you chose would look good or could look better, we can provide you with a realistic 3D photo of your space to visualize the outcome beforehand.
