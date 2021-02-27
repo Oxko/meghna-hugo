@@ -602,7 +602,7 @@ a:hover {
 
 .about .block .icon-box:after {
   bottom: -56.5685px;
-  border-bottom: 2px solid rgba(236, 239, 241, 0.07);
+  border-bottom: 2px solid rgba(166, 186, 199, 0.07);
   border-left: 2px solid rgba(236, 239, 241, 0.07);
 }
 
@@ -644,7 +644,7 @@ a:hover {
 
 .call-to-action h2 {
   font-weight: 700;
-  color: #444;
+  color: rgb(139, 100, 100);
 }
 
 .call-to-action p {
@@ -1699,7 +1699,7 @@ input#e-mail,
 }
 
 .post-meta a:hover {
-  color: #6CB670;
+  color: #6c6db6;
 }
 
 .post-excerpt .more {
