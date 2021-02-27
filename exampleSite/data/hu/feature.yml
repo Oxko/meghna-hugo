@@ -1,0 +1,12 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/backgrounds/Main-picture.png
+  title : Oxko design
+  content : "Enteriőr dizájner vállalkozás vagyunk"
+  feature_item : 
+      # feature item loop
+    - title : Árak
+      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      content : Nincs két egyforma enteriőr, hiszen mindenannyian mások vagyunk, más igényekkel. A szolgáltatások és csomagok árai hozzávetőlegesek. A végleges ár a pontos részletek ismeretében határozható meg, ami függ a megkeresés komplexitásától, tervezés mélységétől, határidejétől. Az "Árak" fülön megtalálja a leggyakrabban kért szolgáltatásokat, hogy inspirálódjon mire is van szüksége. Hívjon minket bizalommal, egyéni igényeit átbeszéljük és testre szabjuk az árakat. Kérdéseit, igényét elküldheti a "Kontakt" fülön üzenetet küldve. 
+      
