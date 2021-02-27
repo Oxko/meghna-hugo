@@ -14,17 +14,17 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "about"
+name = "About"
 pre = "#"
 url = "about"
 weight = 1
 [[Languages.en.menu.main]]
-name = "services"
+name = "Services"
 pre = "#"
 url = "services"
 weight = 2
 [[Languages.en.menu.main]]
-name = "portfolio"
+name = "Portfolio"
 pre = "#"
 url = "portfolio"
 weight = 3
@@ -34,17 +34,17 @@ pre = "#"
 url = "team"
 weight = 4
 [[Languages.en.menu.main]]
-name = "pricing"
+name = "Pricing"
 pre = "#"
 url = "pricing"
 weight = 5
 [[Languages.en.menu.main]]
-name = "blog"
+name = "Guidance"
 pre = "#"
-url = "blog"
+url = "guidance"
 weight = 6
 [[Languages.en.menu.main]]
-name = "contact"
+name = "Contact"
 pre = "#"
 url = "contact"
 weight = 7
@@ -54,11 +54,11 @@ pre = ""
 url = "https://themefisher.com/"
 weight = 8
 [Languages.fr]
-contentDir = "content/french"
+contentDir = "content/hungarian"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
+languageCode = "hu-hu"
+languageName = "HU"
 weight = 2
 [[Languages.fr.menu.main]]
 name = "sur"
@@ -66,14 +66,14 @@ pre = "#"
 url = "about"
 weight = 1
 [[Languages.fr.menu.main]]
-name = "un service"
+name = "Szolgáltatások"
 pre = "#"
-url = "services"
+url = "Szolgáltatások"
 weight = 2
 [[Languages.fr.menu.main]]
-name = "portefeuille"
+name = "Portfólió"
 pre = "#"
-url = "portfolio"
+url = "Portfolió"
 weight = 3
 [[Languages.fr.menu.main]]
 name = "équipe"
@@ -81,19 +81,19 @@ pre = "#"
 url = "team"
 weight = 4
 [[Languages.fr.menu.main]]
-name = "tarification"
+name = "Árlista"
 pre = "#"
-url = "pricing"
+url = "Árlista"
 weight = 5
 [[Languages.fr.menu.main]]
-name = "blog"
+name = "Útmutató"
 pre = "#"
-url = "blog"
+url = "Útmutató"
 weight = 6
 [[Languages.fr.menu.main]]
-name = "contact"
+name = "Kontakt"
 pre = "#"
-url = "contact"
+url = "Kontakt"
 weight = 7
 [[Languages.fr.menu.main]]
 name = "themefisher"
