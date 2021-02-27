@@ -80,35 +80,35 @@ jQuery(function ($) {
 	/*	animation scroll js
 	/* ========================================================================= */
 
-	var html_body = $('html, body');
-	$('nav a, .page-scroll').on('click', function () { //use page-scroll class in any HTML tag for scrolling
-		if (location.pathname.replace(/^\//, '') === this.pathname.replace(/^\//, '') && location.hostname === this.hostname) {
-			var target = $(this.hash);
-			target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-			if (target.length) {
-				html_body.animate({
-					scrollTop: target.offset().top - 50
-				}, 1500, 'easeInOutExpo');
-				return false;
-			}
-		}
-	});
+	// var html_body = $('html, body');
+	// $('nav a, .page-scroll').on('click', function () { //use page-scroll class in any HTML tag for scrolling
+	// 	if (location.pathname.replace(/^\//, '') === this.pathname.replace(/^\//, '') && location.hostname === this.hostname) {
+	// 		var target = $(this.hash);
+	// 		target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+	// 		if (target.length) {
+	// 			html_body.animate({
+	// 				scrollTop: target.offset().top - 50
+	// 			}, 1500, 'easeInOutExpo');
+	// 			return false;
+	// 		}
+	// 	}
+	// });
 
 	// easeInOutExpo Declaration
-	jQuery.extend(jQuery.easing, {
-		easeInOutExpo: function (x, t, b, c, d) {
-			if (t === 0) {
-				return b;
-			}
-			if (t === d) {
-				return b + c;
-			}
-			if ((t /= d / 2) < 1) {
-				return c / 2 * Math.pow(2, 10 * (t - 1)) + b;
-			}
-			return c / 2 * (-Math.pow(2, -10 * --t) + 2) + b;
-		}
-	});
+	// jQuery.extend(jQuery.easing, {
+	// 	easeInOutExpo: function (x, t, b, c, d) {
+	// 		if (t === 0) {
+	// 			return b;
+	// 		}
+	// 		if (t === d) {
+	// 			return b + c;
+	// 		}
+	// 		if ((t /= d / 2) < 1) {
+	// 			return c / 2 * Math.pow(2, 10 * (t - 1)) + b;
+	// 		}
+	// 		return c / 2 * (-Math.pow(2, -10 * --t) + 2) + b;
+	// 	}
+	// });
 
 	/* ========================================================================= */
 	/*	counter up
@@ -144,3 +144,45 @@ jQuery(function ($) {
 	});
 
 });
+
+// Custom Script
+$(".price-item a").on("click", () => {
+	$('html, body').animate({
+		scrollTop: $("#guidance").offset().top
+	}, 750);
+});
+
+$(document).ready(() => {
+	const navDiv = document.querySelectorAll(".nav-link");
+	for (let i = 0; i <= navDiv.length; i++) {
+		if(navDiv[i]) {
+			navDiv[i].addEventListener("click", () => {
+				var href = navDiv[i].textContent.toLowerCase();
+				$('html, body').animate({
+					scrollTop: $(`#${href}`).offset().top
+				}, 750);
+			});
+
+			// Remove team and themefisher from header
+			if (navDiv[i].textContent.toString().match("team") || navDiv[i].textContent.toString().match("themefisher") ) {
+				navDiv[i].remove();
+			}
+		}
+	}
+});
+
+// Upload more files
+$("#upload-more-btn").css({"margin": "0 0 1em 0"});
+
+$(".hidden").hide();
+$("#upload-more-btn").on("click", () => {
+	$(".hidden").show();
+	$("#upload-more-btn").hide();
+});
+
+// Delete "testimonial"
+$("#testimonial").remove();
+
+// Delete social links
+$(".social-icon").remove();
+$(".copyright").css({"margin-top": "10em"});
