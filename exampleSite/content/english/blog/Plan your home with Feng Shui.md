@@ -16,14 +16,14 @@ You feel that you don't have enough harmony in your home atmosphere, you feel th
 What type of Feng Shui services can we offer? 
 1. A layout of your home based on Feng Shui
 2. Floorplan, internal rearrangement of your space and furniture for harmony creation
-3. Complete interior design on person level, applying Feng Shui 
+3. Complete interior design on individual level, applying Feng Shui 
 4. Feng Shui plan with monthly breakdown for 1 full year. 
 
-Below you can find them in more details
+Below you can find them in more details, what they cover exactly
 
 1. Before buying a property, it is worth asking for fengshui plan, to select the right property to buy, according to the immutable characteristics of your future home.
 
-The plan is based on the building, giving you the optimal functionality plan, using Feng Shui, it does not need to be revisited until the building stands as is. 
+The plan is based on the building, giving you the optimal functionality plan, using Feng Shui. It does not need to be revisited until the building stands as is. 
 
 What does this package include? 
 You will receive a complete layout plan of your building applying the Feng Shui principles, showing which area of the building is the best for what functionality
