@@ -1,5 +1,6 @@
-############################## Contact #############################
+---
 contact:
+<<<<<<< HEAD
   enable : true
   title : Contact us
   subtitle : Oxko Design
@@ -28,3 +29,28 @@ contact:
     subject : "Subject"
     message : "Message"
     submit : "Submit"
+=======
+  enable: true
+  title: Contact us
+  subtitle: Contact Details
+  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
+    provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
+    dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  contact_list:
+  - icon: ti-location-pin
+    info: Khaja Road, Bayzid, Chittagong, Bangladesh
+  - icon: ti-mobile
+    info: 'Phone: +880-31-000-000'
+  - icon: ti-printer
+    info: 'Fax: +880-31-000-000'
+  - icon: ti-email
+    info: 'Email: hello@meghna.com'
+  contact_form:
+    enable: true
+    form_action: "#"
+    name: Your Name
+    email: Your Email
+    subject: Subject
+    message: Message
+    submit: Submit
+>>>>>>> 54899930e4edd9ccdce024e1a572b832fa1c9d14
