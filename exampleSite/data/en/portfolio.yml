@@ -13,7 +13,7 @@ portfolio:
     image: images/portfolio/Mobil-kitchen-withrug.png
     categories:
     - Mobile home
-    content: Kitchen with black lacqure furniture Master bedroom with 1 glass wall view on back yard
+    content: Kitchen with black lacqure furniture 
     link: https://themefisher.com
   - name: Mobile home
     image: images/portfolio/Mobil-bedroom.png
@@ -79,8 +79,9 @@ portfolio:
     image: images/portfolio/Buda-panorama.png
     categories:
     - Homey
-    content: Living room in Province style
+    content: 
     link: "#"
+
   - name: Apartment in Buda
     image: images/portfolio/Province-bedroom.png 
     categories:
@@ -238,11 +239,12 @@ portfolio:
     - Modern
     content: Kitchen in led lights with 3D wallpaper
     link: "#"
+
   - name: 3D snapshot
     image: images/portfolio/Plan-3Dsnapshot-bedroom.png
     categories:
     - Technical plan
-    content: Virtualized 3D snapshot
+    content: Visualized 3D snapshot
     link: "#"  
   - name: 3D snapshot
     image: images/portfolio/Plan-3Dsnapshot-toilet.png

@@ -1,388 +1,352 @@
 #################################### portfolio ###############################
 portfolio:
-  enable : true
-  title : Munkáink
-  portfolio_item :
-    # portfolio item loop
-    - name : Mobilház teljes tervezése és dizájn
-      image : images/portfolio/Mobile-living-room.png
-      categories : ["Mobile home"]
-      content : Mobilház nappalija 3 oldalról üvegfallal
-      link : "https://themefisher.com"
-      
-    # portfolio item loop
-    - name : Mobilház
-      image : images/portfolio/Mobile-kitchen.png
-      categories : ["Mobile home"]
-      content : Konyha fekete lakk bútorlappal
-      link : "https://themefisher.com"
+  enable: true
+  title: Munkáink
+  portfolio_item:
+  - name: Mobil ház
+    image: images/portfolio/Mobil-living-room-whiterug.png
+    categories:
+    - Mobil ház
+    content: Nappali 3 üvegfallal
+    link: https://themefisher.com
+  - name: Mobil ház
+    image: images/portfolio/Mobil-kitchen-withrug.png
+    categories:
+    - Mobil ház
+    content: Konyha fekete lakk konyhabútorral 
+    link: https://themefisher.com
+  - name: Mobil ház
+    image: images/portfolio/Mobil-bedroom.png
+    categories:
+    - Mobil ház
+    content: Hálószoba üvegfallal, kilátással a hátsó kertre
+    link: https://themefisher.com
+  - name: Mobil ház
+    image: images/portfolio/Mobilhome-fromoutside.png
+    categories:
+    - Mobil ház
+    content: Kívülről mobil ház látványterve
+    link: https://themefisher.com
 
-    # portfolio item loop
-    - name : Mobilház
-      image : images/portfolio/Mobile-bedroom.png
-      categories : ["Mobile home"]
-      content : Háló üvegfallal kilátással a hátsó kertre
-      link : "https://themefisher.com"
-   
-    # portfolio item loop
-    - name : Mobilház kívülről
-      image : images/portfolio/Mobilehome-fromoutside.png
-      categories : ["Mobile home"]
-      content : 
-      link : "https://themefisher.com"
-    
-    # portfolio item loop
-    - name : Kiadásra lakás feldarabolása, galériázása
-      image : images/portfolio/Airbnb-downstairs.png
-      categories : ["Gallery building"]
-      content : Studio kialakítása
-      link : "https://themefisher.com"
-    
-    # portfolio item loop
-    - name : Kiadásra lakás feldarabolása, galériázása
-      image : images/portfolio/Airbnb-gallery.png
-      categories : ["Gallery building"]
-      content : Galéria plusz férőhelyeknek
-      link : "https://themefisher.com"
-    
-    # portfolio item loop
-    - name : Kiadásra lakás feldarabolása, galériázása
-      image : images/portfolio/Airbnb-studio.png
-      categories : ["Gallery building"]
-      content : 
-      link : "https://themefisher.com"
+  - name: Rövid távú kiadásra lakás két lakás kialakítása, 1 szobából garzon
+    image: images/portfolio/Airbnb-downstairs.png
+    categories:
+    - Galéria kiépítése
+    content: Garzon lakás kialakítása egy nagyszobából
+    link: https://themefisher.com
+  - name: Rövid távú kiadásra lakás kialakítása
+    image: images/portfolio/Airbnb-gallery.png
+    categories:
+    - Galéria kiépítése
+    content: Galéria plusz férőhelyhez
+    link: "#"
+  - name: Kiadásra kialakítás
+    image: images/portfolio/Airbnb-studio.png
+    categories:
+    - Galéria kiépítése
+    content: Teljes átalakítás, 2 garzon kialakítása 2 szobából
+    link: "#"
+  - name: Kiadásra kialakítás
+    image: images/portfolio/Airbnb-small-bathroom.png
+    categories:
+    - Galéria kiépítése
+    content: Fürdőhelyiség a kis garzonban privát szféra megteremtéséhez
+    link: "#"
 
-    # portfolio item loop
-    - name : Kialakított studio lakás
-      image : images/portfolio/Airbnb-small-bathroom.png
-      categories : ["Gallery building"]
-      content : Kis zuhanyzó privát szférának
-      link : "https://themefisher.com"
-    
-    # portfolio item loop
-    - name : Kiadásra lakás feldarabolása
-      image : images/portfolio/Airbnb-dining-room.png
-      categories : ["Modern"]
-      content : Közös étkezőhelyiség
-      link : "https://themefisher.com"
-    
-    # portfolio item loop
-    - name : Budai társasház
-      image : images/portfolio/Buda-living-room.png
-      categories : ["Homey"]
-      content : Nappali Dunai panorámával
-      link : "https://themefisher.com"
+  - name: Kiadásra kialakítás
+    image: images/portfolio/Airbnb-dining-room.png
+    categories:
+    - Modern
+    content: Közös étkező helyiség
+    link: "#"
 
-    # portfolio item loop
-    - name : Budai társasház
-      image : images/portfolio/Buda-bedrooom.png
-      categories : ["Homey"]
-      content : Háló meleg színekben
-      link : "https://themefisher.com"
+  - name: Társasházi lakás Budán
+    image: images/portfolio/Buda-kitchen.png
+    categories:
+    - Otthonos 
+    content: Konyha meleg színekkel
+    link: "#"
+  - name: Társasházi lakás Budán
+    image: images/portfolio/Buda-living-room.png
+    categories:
+    - Otthonos 
+    content: Nappali panoraámával a Dunára
+    link: "#"
+  - name: Társasházi lakás Budán
+    image: images/portfolio/Buda-bedroom.png
+    categories:
+    - Otthonos 
+    content: Hálószoba 
+    link: "#"
+  - name: Társasházi lakás Budán
+    image: images/portfolio/Buda-panorama.png
+    categories:
+    - Otthonos
+    content: 
+    link: "#"
 
-    # portfolio item loop
-    - name : Budai társasház konyhája
-      image : images/portfolio/Buda-kitchen.png
-      categories : ["Homey"]
-      content : 
-      link : "https://themefisher.com"
-    
-    # portfolio item loop
-    - name : Budai társasház nappalija
-      image : images/portfolio/Buda-panorama.png
-      categories : ["Homey"]
-      content : 
-      link : "https://themefisher.com"
-    
-    # portfolio item loop
-    - name : Budai társasház
-      image : images/portfolio/Province-bedroom.png
-      categories : ["Mediterranian style"]
-      content : Hálószoba provinci hangulatban
-      link : "https://themefisher.com"
+  - name: Társasházi lakás Budán
+    image: images/portfolio/Province-bedroom.png 
+    categories:
+    - Mediterrán
+    content: Hálószoba Province-i stílusban
+    link: "#"
 
-    # portfolio item loop
-    - name : Budai társasház
-      image : images/portfolio/Province-dining-room.png
-      categories : ["Mediterranian style"]
-      content : Étkező provinci hangulatban
-      link : "https://themefisher.com"
+  - name: Társasházi lakás Budán
+    image: images/portfolio/Province-dining-room.png
+    categories:
+    - Mediterrán
+    content: Étkező Province-i stílusban
+    link: "#"
 
-    # portfolio item loop
-    - name : Budai társasház
-      image : images/portfolio/Province-home-office.png
-      categories : ["Mediterranian style"]
-      content : Otthoni iroda province stílusban
-      link : "https://themefisher.com"
-    
-    # portfolio item loop
-    - name : Budai társasház
-      image : images/portfolio/Province-living-room.png
-      categories : ["Mediterranian style"]
-      content : Province sítusú nappali
-      link : "https://themefisher.com"
+  - name: Társasházi lakás Budán
+    image: images/portfolio/Province-home-office.png
+    categories:
+    - Mediterrán
+    content: Otthoni iroda vendégsarokkal Province-i stílusban
+    link: "#"
 
-    # portfolio item loop
-    - name : Budai társasház
-      image : images/portfolio/Province-mediterranian-bathroom.png
-      categories : ["Mediterranian style"]
-      content : Mediterrán stílusú fürdőszoba
-      link : "https://themefisher.com"
+  - name: Társasházi lakás Budán
+    image: images/portfolio/Province-living-room.png
+    categories:
+    - Mediterrán
+    content: Nappali Province-i stílusban
+    link: "#"
+  - name: Társasházi lakás Budán
+    image: images/portfolio/Province-mediterranian-bathroom.png
+    categories:
+    - Mediterrán
+    content: Mediterrán fürdőszoba
+    link: "#"
 
-    # portfolio item loop
-    - name : Új és régi stílus keveredése
-      image : images/portfolio/Designed-topfloor.png
-      categories : ["Modern"]
-      content : Tetőtér 3D tapétával
-      link : "https://themefisher.com"
+  - name: Régi és modern stílus mix
+    image: images/portfolio/Designed-topfloor.png
+    categories:
+    - Modern
+    content: Tetőtér régi típusú bútorokkal, modern 3D dizájnnal
+    link: "#"
 
-    # portfolio item loop
-    - name : Japán stílusú fürdőszoba
-      image : images/portfolio/Japanese-style-bathroom-way-in.png
-      categories : ["Asian style"]
-      content : 
-      link : "https://themefisher.com"
+  - name: Japán stílus
+    image: images/portfolio/Japanese-style-bathroom-way-in.png
+    categories:
+    - Keleti stílus
+    content: Fürdőszoba keleti stílusban
+    link: "#"
+  - name: Japán stílus
+    image: images/portfolio/Japanese-style-bathroom.png
+    categories:
+    - Keleti stílus
+    content: Kétszemélyes fördőszoba
+    link: "#"
+  - name: Japán stílus
+    image: images/portfolio/Japanese-style-bedroom.png
+    categories:
+    - Keleti stílus
+    content: Hálószoba keleti egyszerűséggel
+    link: "#"
+  - name: Japán stílus
+    image: images/portfolio/Japanese-style-dining-room.png
+    categories:
+    - Keleti stílus
+    content: Étkező reggelizősarokkal
+    link: "#"
+  - name: Japán stílus
+    image: images/portfolio/Japanese-style-kitchen.png
+    categories:
+    - Keleti stílus
+    content: Abszolút Japán stílusú konyha
+    link: "#"
+  - name: Családi ház Japán stílusban
+    image: images/portfolio/Japanese-style-living-room-from-top.png
+    categories:
+    - Keleti stílus
+    content: Nappali a tetőtérből
+    link: "#"
+  - name: Japán stílus
+    image: images/portfolio/Japanese-style-living-room-way-out.png
+    categories:
+    - Keleti stílus
+    content: Nappali flexibilisen leválasztható vendégszobával
+    link: "#"
+  - name: Japán stílus
+    image: images/portfolio/Japanese-style-living-room.png
+    categories:
+    - Keleti stílus
+    content: Nappali
+    link: "#"
+  - name: Családi ház teljes átrendezése japán stílusban
+    image: images/portfolio/Japanese-style-hallway.png
+    categories:
+    - Keleti stílus
+    content: Folyosó gyűjteménnyel és virágokkal leddel megvilágiítva
+    link: "#"
+  - name: Japán stílus
+    image: images/portfolio/Japanese-style-musicroom.png
+    categories:
+    - Keleti stílus
+    content: Zeneszoba festmény gyűjteménnyel
+    link: "#"
+  - name: Családi ház teljes átrendezése japán stílusban
+    image: images/portfolio/Japanese-style-terrace.png
+    categories:
+    - Keleti stílus
+    content: Terasz 
+    link: "#"
 
-    # portfolio item loop
-    - name : Japán stílusú fürdőszoba
-      image : images/portfolio/Japanese-style-bathroom.png
-      categories : ["Asian style"]
-      content : 
-      link : "https://themefisher.com"
+  - name: Panel lakás, egyedülálló férfira tervezve
+    image: images/portfolio/Panel-shower.png
+    categories:
+    - Modern
+    content: Zuhanyba hoztuk a természetet
+    link: "#"
+  - name: Panel lakás
+    image: images/portfolio/Panel-shower-front.png
+    categories:
+    - Modern
+    content: Természethez közel a zuhanyban
+    link: "#"
+  - name: Panel lakás
+    image: images/portfolio/Panel-kitchen-dining-room.png
+    categories:
+    - Modern
+    content: Konyhába is behoztuk a természetet
+    link: "#"
+  - name: Panel lakás
+    image: images/portfolio/Panel-living-room.png
+    categories:
+    - Modern
+    content: Otthonos, modern nappali
+    link: "#"
+  - name: Belvárosi lakás, zenész férfira tervezve
+    image: images/portfolio/Som-bedroom.png
+    categories:
+    - Modern
+    content: Minimál modern
+    link: "#"
+  - name: Belvárosi lakás, modern világi stílusban
+    image: images/portfolio/Panel-som-bedroom.png
+    categories:
+    - Modern
+    content: 
+    link: "#"
+  - name: 3D zuhany
+    image: images/portfolio/Som-shower.png
+    categories:
+    - Modern
+    content: Kis lakás zuhany 3Dvel feldobva
+    link: "#"
 
-    # portfolio item loop
-    - name : Japán stílus
-      image : images/portfolio/Japanese-style-bedroom.png
-      categories : ["Asian style"]
-      content : Hálószoba
-      link : "https://themefisher.com"
-    
-    # portfolio item loop
-    - name : Japán stílus
-      image : images/portfolio/Japanese-style-dining-room.png
-      categories : ["Asian style"]
-      content : Étkező reggelizővel
-      link : "https://themefisher.com"
+  - name: Modern 3D 
+    image: images/portfolio/Som-bath.png
+    categories:
+    - Modern
+    content: Kis lakás fürdőhelyisége 3D tapétával
+    link: "#"
+  - name: Modern konyha
+    image: images/portfolio/Som-kitchen.png
+    categories:
+    - Modern
+    content: Konyha modern kékben
+    link: "#"
 
-    # portfolio item loop
-    - name : Japán stílusú konyha
-      image : images/portfolio/Japanese-style-kitchen.png
-      categories : ["Asian style"]
-      content : 
-      link : "https://themefisher.com"
 
-    # portfolio item loop
-    - name : Japán stílusú családi ház
-      image : images/portfolio/Japanese-style-living-room-from-top.png
-      categories : ["Asian style"]
-      content : 
-      link : "https://themefisher.com"
+  - name: 3D pillanatkép
+    image: images/portfolio/Plan-3Dsnapshot-bedroom.png
+    categories:
+    - Műszaki tervek
+    content: 
+    link: "#"  
+  - name: 3D pillanatkép
+    image: images/portfolio/Plan-3Dsnapshot-toilet.png
+    categories:
+    - Műszaki tervek
+    content: 3D kép kis férfi mellékhelyiségről
+    link: "#" 
 
-    # portfolio item loop
-    - name : Japán stílusú nappali
-      image : images/portfolio/Japanese-style-living-room-way-out.png
-      categories : ["Asian style"]
-      content : 
-      link : "https://themefisher.com"
-
-    # portfolio item loop
-    - name : Japán stílus
-      image : images/portfolio/Japanese-style-living-room.png
-      categories : ["Asian style"]
-      content :  
-      link : "https://themefisher.com"
-
-    
-    # portfolio item loop
-    - name : Japán stílus
-      image : images/portfolio/Japanese-style-hallway.png
-      categories : ["Asian style"]
-      content :  
-      link : "https://themefisher.com"
-
-    # portfolio item loop
-    - name : Japán stílus
-      image : images/portfolio/Japanese-style-musicroom.png
-      categories : ["Asian style"]
-      content : Zene szoba
-      link : "https://themefisher.com"
-
-    # portfolio item loop
-    - name : Japán stílusú terasz
-      image : images/portfolio/Japanese-style-terrace.png
-      categories : ["Asian style"]
-      content : 
-      link : "https://themefisher.com"
-
-    # portfolio item loop
-    - name : Panel lakás, egyedülálló férfire alakítva
-      image : images/portfolio/Panel-shower.png
-      categories : ["Modern"]
-      content : Hozd be a fürdőszobába a természetet
-      link : "https://themefisher.com"
-
-    # portfolio item loop
-    - name : Panel lakás
-      image : images/portfolio/Panel-shower-front.png
-      categories : ["Modern"]
-      content : Természet a fürdőben
-      link : "https://themefisher.com"
-
-    # portfolio item loop
-    - name : Panel lakás, egyedülálló férfire alakítva
-      image : images/portfolio/Panel-kitchen-dining-room.png
-      categories : ["Modern"]
-      content : Hozd be a konyhába a természetet
-      link : "https://themefisher.com"
-
-    # portfolio item loop
-    - name : Panel lakás
-      image : images/portfolio/Panel-living-room.png
-      categories : ["Modern"]
-      content : Modern, férfias nappali
-      link : "https://themefisher.com"
-
-    # portfolio item loop
-    - name : Belvárosi lakás, egyedülálló férfinek dizájnolva
-      image : images/portfolio/Som-bedroom.png
-      categories : ["Modern"]
-      content : 
-      link : "https://themefisher.com"
-
-    # portfolio item loop
-    - name : Kis lakás zuhanyzója modern kialakításban
-      image : images/portfolio/Som-shower.png
-      categories : ["Modern"]
-      content : 
-      link : "https://themefisher.com"
-
-    # portfolio item loop
-    - name : Kis lakás fürdőszobája
-      image : images/portfolio/Som-bath.png
-      categories : ["Modern"]
-      content : 
-      link : "https://themefisher.com"
-
-    # portfolio item loop
-    - name : Belvárosi lakás 
-      image : images/portfolio/Som-kitchen.png
-      categories : ["Modern"]
-      content : Konyha fiatalos megvilágításban
-      link : "https://themefisher.com"
-
+  - name: Hangulatkép
+    image: images/portfolio/Plan-moodboard-japanese.png
+    categories:
+    - Műszaki tervek
+    content:
+    link: "#" 
   
-    # portfolio item loop
-    - name : Falnézet méretezve
-      image : images/portfolio/Plan-wallview-breakfast.png
-      categories : ["Technical plan"]
-      content : 
-      link : "https://themefisher.com"
+  - name: Falnézet méretekkel
+    image: images/portfolio/Plan-wallview-breakfast.png
+    categories:
+    - Műszaki tervek
+    content: 
+    link: "#"
+  - name: Falnézet
+    image: images/portfolio/Plan-wallview.png
+    categories:
+    - Műszaki tervek
+    content:
+    link: "#"
 
-    # portfolio item loop
-    - name : Falnézet
-      image : images/portfolio/Plan-wallview.png
-      categories : ["Technical plan"]
-      content : 
-      link : "https://themefisher.com"
+  - name: Átépítési javaslat
+    image: images/portfolio/Plan-remodel.png
+    categories:
+    - Műszaki tervek
+    content: Bontási-, Építési javaslat
+    link: "#"  
 
-    # portfolio item loop
-    - name : Átalakítási javaslat
-      image : images/portfolio/Plan-remodel.png
-      categories : ["Technical plan"]
-      content : 
-      link : "https://themefisher.com"
+  - name: 2D berendezési terv
+    image: images/portfolio/Plan-2Dfurnishing.png
+    categories:
+    - Műszaki tervek
+    content: Vázlat bútorokkal
+    link: "#" 
 
-    # portfolio item loop
-    - name : 2D berendezési terv
-      image : images/portfolio/Plan-2D-colored-floor.png
-      categories : ["Technical plan"]
-      content : Minta bútorral
-      link : "https://themefisher.com"
+  - name: Lámpakiosztási terv
+    image: images/portfolio/Plan-lamp-electricity.png
+    categories:
+    - Műszaki tervek
+    content: Lámpa, kapcsoló, konnektor kiosztási terv
+    link: "#"
 
+  - name: 2D vázlatterv
+    image: images/portfolio/Plan-floor-colored-furnishing-draft.png
+    categories:
+    - Műszaki tervek
+    content: Színes berendezési vázlat
+    link: "#"   
 
-    # portfolio item loop
-    - name : Lámpa, kapcsoló kiosztási terv
-      image : images/portfolio/Plan-lamp-electricity.png
-      categories : ["Technical plan"]
-      content : 
-      link : "https://themefisher.com"
+  - name: 3D berendezési terv
+    image: images/portfolio/Plan-3D-furnishing.png
+    categories:
+    - Műszaki tervek
+    content: Végleges 3D berendezési terv
+    link: "#"  
 
-    # portfolio item loop
-    - name : 2D vázlat
-      image : images/portfolio/Plan-floor-colored-furnishing-draft.png
-      categories : ["Technical plan"]
-      content : Berendezési vázlatterv
-      link : "https://themefisher.com"
+  - name: Padlóburkolat kiosztási terv
+    image: images/portfolio/Plan-floortiling.png
+    categories:
+    - Műszaki tervek
+    content: Mennyiségekkel, típussal és mintajelöléssel
+    link: "#" 
+  - name: Burkolatterv részletekkel
+    image: images/portfolio/Plan-tiling-bathroom.png
+    categories:
+    - Műszaki tervek
+    content: Fürdőszoba burkolatterv mennyiségekkel
+    link: "#"  
 
-
-
-    # portfolio item loop
-    - name : 3D berendezési terv
-      image : images/portfolio/Plan-3D-furnishing.png
-      categories : ["Technical plan"]
-      content : Végleges 3D terv
-      link : "https://themefisher.com"
-
-
-
-    # portfolio item loop
-    - name : 2D berendezési terv
-      image : images/portfolio/Plan-2Dfurnishing.png
-      categories : ["Technical plan"]
-      content : 
-      link : "https://themefisher.com"
-
-    
-    # portfolio item loop
-    - name : 3D pillanatkép
-      image : images/portfolio/Plan-3Dsnapshot-bedroom.png
-      categories : ["Technical plan"]
-      content : 
-      link : "https://themefisher.com"
-
-    # portfolio item loop
-    - name : 3D pillanatkép
-      image : images/portfolio/Plan-3Dsnapshot-toilet.png
-      categories : ["Technical plan"]
-      content : Férfi WC
-      link : "https://themefisher.com"
-
-    
-    # portfolio item loop
-    - name : Padlóburkolat kiosztási terv
-      image : images/portfolio/Plan-floortiling.png
-      categories : ["Technical plan"]
-      content : Mennyiségekkel
-      link : "https://themefisher.com"
-
-    # portfolio item loop
-    - name : Berendezés konszignáció 
-      image : images/portfolio/Plan-furniture-consignation.png
-      categories : ["Technical plan"]
-      content : Bevásárlólista
-      link : "https://themefisher.com"
-
-    # portfolio item loop
-    - name : Hangulatkép
-      image : images/portfolio/Plan-moodboard-japanese.png
-      categories : ["Technical plan"]
-      content : 
-      link : "https://themefisher.com"
-
-    # portfolio item loop
-    - name : Burkolat kiosztási terv
-      image : images/portfolio/Plan-tiling-bathroom.png
-      categories : ["Technical plan"]
-      content : Mennyiségekkel
-      link : "https://themefisher.com"
-
-    # portfolio item loop
-    - name : Burkolat konszignáció
-      image : images/portfolio/Plan-tiling-consignation.png
-      categories : ["Technical plan"]
-      content : Bevásárló lista
-      link : "https://themefisher.com"
-
- 
-
-   
+  - name: Berendezési konszgináció bevásárláshoz
+    image: images/portfolio/Plan-furniture-consignation.png
+    categories:
+    - Műszaki tervek
+    content: Mennyiségekkel, árral, típussal
+    link: "#"   
+  - name: Burkolat konszignáció
+    image: images/portfolio/Plan-tiling-consignation.png
+    categories:
+    - Műszaki tervek
+    content: Bevásárló lista mennyiségekkel, típus meghatározással
+    link: "#"
+  
+  - name: 2D berendezési terv
+    image: images/portfolio/Plan-2D-colored-floor.png
+    categories:
+    - Műszaki tervek
+    content: Berendezési terv vázlatbútorokkal
+    link: "#"  
