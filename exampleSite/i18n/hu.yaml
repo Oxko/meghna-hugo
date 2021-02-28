@@ -1,6 +1,6 @@
 ---
 - id: blogTitle
-  translation: Blogcíme
+  translation: Útmutató
 - id: readMore
   translation: Tovább
 - id: viewAllPost
@@ -17,11 +17,7 @@
   translation: Rólunk
 - id: services
   translation: Szolgáltatások
-<<<<<<< HEAD
-- id: projektek
-=======
-- id: portfolio
->>>>>>> 1ccb17791f57554489d12feec27eff32f4c50a96
+- id: projects
   translation: Portfolió
 - id: team
   translation: Csapat
