@@ -53,53 +53,53 @@ name = "themefisher"
 pre = ""
 url = "https://themefisher.com/"
 weight = 8
-[Languages.hu]
+[Languages.fr]
 contentDir = "content/hungarian"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Accueil"
 languageCode = "hu-hu"
 languageName = "Hu"
-weight = 1
-[[Languages.hu.menu.main]]
+weight = 2
+[[Languages.fr.menu.main]]
 name = "Rólunk"
 pre = "#"
 url = "rolunk"
-weight = 2
-[[Languages.hu.menu.main]]
+weight = 1
+[[Languages.fr.menu.main]]
 name = "Szolgáltatások"
 pre = "#"
 url = "szolgaltatasok"
-weight = 3
-[[Languages.hu.menu.main]]
+weight = 2
+[[Languages.fr.menu.main]]
 name = "Portfólió"
 pre = "#"
-url = "portfolio1"
-weight = 4
-[[Languages.hu.menu.main]]
+url = "portfolio"
+weight = 3
+[[Languages.fr.menu.main]]
 name = "Csapat"
 pre = "#"
 url = "team"
-weight = 5
-[[Languages.hu.menu.main]]
+weight = 4
+[[Languages.fr.menu.main]]
 name = "Árak"
 pre = "#"
 url = "arak"
-weight = 6
-[[Languages.hu.menu.main]]
+weight = 5
+[[Languages.fr.menu.main]]
 name = "Útmutató"
 pre = "#"
 url = "utmutato"
-weight = 7
-[[Languages.hu.menu.main]]
+weight = 6
+[[Languages.fr.menu.main]]
 name = "Kontakt"
 pre = "#"
 url = "kontakt"
-weight = 8
-[[Languages.hu.menu.main]]
+weight = 7
+[[Languages.fr.menu.main]]
 name = "themefisher"
 pre = ""
 url = "https://themefisher.com/"
-weight = 9
+weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
