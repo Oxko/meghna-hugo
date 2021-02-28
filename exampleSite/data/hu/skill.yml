@@ -8,14 +8,15 @@ skill:
   skill_item :
     # skill item loop
     - name :  Virtuális gyorstervezés
-      
+    - percent : ""  
     # skill item loop
     - name :  3D látványterv
-      
+    - percent : ""  
     # skill item loop
     - name :  Egyedi bútortervezés
-      
+    - percent : ""  
     - name :  Enteriőr tervezés Feng Shui alapján
-      
+    - percent : ""  
     # skill item loop
     - name :  Építészeti rajzok, Térszervezés
+    - percent : ""

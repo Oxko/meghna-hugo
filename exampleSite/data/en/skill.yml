@@ -7,8 +7,18 @@ skill:
     kind of a design dilemma.
     Check out the "Guidance" section to see what these include and what information is needed from you to send us.
   skill_item:
+  # skill item loop
   - name: Virtual quickplan
+  - percent : ""
+  # skill item loop
   - name: 3D realistic photos
+  - percent : ""
+  # skill item loop
   - name: Custom Furniture Design
+  - percent : ""
+  # skill item loop
   - name: Floor plan using Feng Shui
+  - percent : ""
+  # skill item loop
   - name: Technical plans, Space planning
+  - percent : ""
