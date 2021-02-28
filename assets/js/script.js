@@ -180,8 +180,7 @@ $("#upload-more-btn").on("click", () => {
 	$("#upload-more-btn").hide();
 });
 
-// Delete "testimonial"
-$("#testimonial").remove();
+
 
 // Delete social links
 $(".social-icon").remove();
