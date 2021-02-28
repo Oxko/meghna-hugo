@@ -1,11 +1,11 @@
 ---
 title: 3D rendered photos
 date: 2018-09-12T12:52:36.000+06:00
-image: images/guidance/blog-post-2.jpg
+image: images/guidance/blog-post-2.png
 author: 
 description: Computer visualized 3D rendered photos for interior designing
-
 ---
+
 1. If you cannot decide on the design or colors whether what you chose would look good or could look better, we can provide you with a realistic 3D photo of your space to visualize the outcome beforehand.
 
 What do we need you to provide us?

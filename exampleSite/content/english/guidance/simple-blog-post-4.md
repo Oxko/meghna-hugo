@@ -7,8 +7,8 @@ description: Plan your home from the beginnng, floor plan, architectural plan, t
   pattern, tiling layout, lamp and switches distribution plan, 2D floorplan or 3D
   floorplan helps you visualize and plan your home to be more stylish, practical and
   convenient
-
 ---
+
 You are building or renovating and need help with functionality and practical space planning. 
 If you are unsure about technicalities, optimal layout, spaceplanning, heating, lighting, we optimize your home for you.
 

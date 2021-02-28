@@ -5,7 +5,6 @@ image: images/guidance/blog-post-2.jpg
 author: 
 description : "Virtuális gyorstervezés, szobák átalakítása online, 
    3D-s tervekkel, hogy lássa miként fog kinézni az átalakítandó szoba"
-draft: true
 ---
 
 Áttervezheti a fürdőszobáját, konyháját vagy egyik szobáját

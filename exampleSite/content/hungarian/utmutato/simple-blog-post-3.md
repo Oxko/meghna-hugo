@@ -1,10 +1,9 @@
 ---
 title: "Egyedi bútortervezés"
 date: 2018-09-12T12:52:36+06:00
-image: images/guidance/blog-post-1.jpg
+image: images/guidance/blog-post-3.png
 author: 
 description : "Egyedi bútorok tervezése, konyhabútorok, szekrényeket, gardróbok"
-draft: true
 ---
 
 Üres tereket szeretné kitölteni, több pakolóteret nyerni egyedi bútorokkal

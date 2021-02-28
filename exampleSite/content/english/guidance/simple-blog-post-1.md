@@ -1,5 +1,5 @@
 ---
-title: "Plan and design your home using Feng Shui"
+title: Plan and design your home using Feng Shui
 date: 2018-09-12T12:52:36+06:00
 image: images/guidance/blog-post-1.jpg
 author: 
