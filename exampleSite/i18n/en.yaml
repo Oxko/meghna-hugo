@@ -19,7 +19,7 @@
   translation: Service
 - id: skill
   translation: Virtual services
-- id: projects
+- id: portfolio
   translation: Portfolio
 - id: pricing
   translation: Pricing
