@@ -1,7 +1,7 @@
 ---
 title: "Virtuális gyorstervezés"
 date: 2018-09-12T12:52:36+06:00
-image: images/blog/blog-post-2.jpg
+image: images/guidance/blog-post-2.jpg
 author: 
 description : "Virtuális gyorstervezés, szobák átalakítása online, 
    3D-s tervekkel, hogy lássa miként fog kinézni az átalakítandó szoba"

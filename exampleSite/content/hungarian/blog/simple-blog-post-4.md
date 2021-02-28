@@ -1,7 +1,7 @@
 ---
 title: "Építészeti csomag"
 date: 2018-09-12T12:52:36+06:00
-image: images/blog/blog-post-3.jpg
+image: images/guidance/blog-post-3.jpg
 author: 
 description : "Tervezze meg otthonát az alapoktól, alaprajzi szinten térszervezéshez építészeti tervet, csempézési
    mintát, burkolatkiosztási tervet, lámpa és kapcsolók kiosztási tervet készítünk. A 2D alaprajz vagy 3D

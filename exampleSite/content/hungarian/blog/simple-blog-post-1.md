@@ -1,7 +1,7 @@
 ---
 title: 'Tervezés Feng Shui szerint '
 date: 2018-09-12T12:52:36.000+06:00
-image: images/blog/blog-post-3.jpg
+image: images/guidance/blog-post-3.jpg
 author: Oxko design
 description: "Tervezze meg otthonát a Feng Shui alapelveivel"
 draft: true
