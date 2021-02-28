@@ -1,7 +1,6 @@
 ---
 title: Virtual room makeover
 date: 2018-09-12T12:52:36.000+06:00
-image_webp: images/blog/blog-post-2.webp
 image: images/blog/blog-post-2.jpg
 author: 
 description: Virtual quickplan, room makeover online, with the help of interior designer
