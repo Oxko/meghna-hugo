@@ -15,9 +15,9 @@
   translation: Mind
 - id: about
   translation: Rólunk
-- id: services
+- id: service
   translation: Szolgáltatások
-- id: projects
+- id: portfolio
   translation: Portfolió
 - id: team
   translation: Csapat
