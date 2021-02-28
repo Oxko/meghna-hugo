@@ -59,47 +59,47 @@ copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher
 home = "Accueil"
 languageCode = "hu-hu"
 languageName = "Hu"
-weight = 2
+weight = 1
 [[Languages.hu.menu.main]]
 name = "Rólunk"
 pre = "#"
-url = "about1"
-weight = 1
+url = "rolunk"
+weight = 2
 [[Languages.hu.menu.main]]
 name = "Szolgáltatások"
 pre = "#"
-url = "services1"
-weight = 2
+url = "szolgaltatasok"
+weight = 3
 [[Languages.hu.menu.main]]
 name = "Portfólió"
 pre = "#"
 url = "portfolio1"
-weight = 3
+weight = 4
 [[Languages.hu.menu.main]]
 name = "Csapat"
 pre = "#"
-url = "team1"
-weight = 4
+url = "team"
+weight = 5
 [[Languages.hu.menu.main]]
 name = "Árak"
 pre = "#"
-url = "pricing1"
-weight = 5
+url = "arak"
+weight = 6
 [[Languages.hu.menu.main]]
 name = "Útmutató"
 pre = "#"
-url = "guidance1"
-weight = 6
+url = "utmutato"
+weight = 7
 [[Languages.hu.menu.main]]
 name = "Kontakt"
 pre = "#"
-url = "contact1"
-weight = 7
+url = "kontakt"
+weight = 8
 [[Languages.hu.menu.main]]
 name = "themefisher"
 pre = ""
 url = "https://themefisher.com/"
-weight = 8
+weight = 9
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
