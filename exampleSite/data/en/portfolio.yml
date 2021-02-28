@@ -272,12 +272,20 @@ portfolio:
     content:
     link: "#"
 
-  - name: 2D furnishing plan
+  - name: 2D furnishing draft
     image: images/portfolio/Plan-2Dfurnishing.png
     categories:
     - Technical plan
     content: With sample furniture
     link: "#" 
+
+  - name: 2D colored furnishing draft
+    image: images/portfolio/Plan-2D-colored-floor.png
+    categories:
+    - Technical plan
+    content: With sample furniture
+    link: "#" 
+
   - name: Electricity plan
     image: images/portfolio/Plan-lamp-electricity.png
     categories:

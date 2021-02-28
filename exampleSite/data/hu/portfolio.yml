@@ -290,6 +290,13 @@ portfolio:
     content: Vázlat bútorokkal
     link: "#" 
 
+  - name: 2D szines berendezési terv
+    image: images/portfolio/Plan-2D-colored-floor.png
+    categories:
+    - Műszaki tervek
+    content: Vázlat bútorokkal
+    link: "#" 
+
   - name: Lámpakiosztási terv
     image: images/portfolio/Plan-lamp-electricity.png
     categories:
