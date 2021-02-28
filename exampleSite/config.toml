@@ -24,9 +24,9 @@ pre = "#"
 url = "services"
 weight = 2
 [[Languages.en.menu.main]]
-name = "Portfolio"
+name = "portfolio"
 pre = "#"
-url = "portfolio"
+url = "projects"
 weight = 3
 [[Languages.en.menu.main]]
 name = "team"
