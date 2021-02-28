@@ -73,7 +73,7 @@ weight = 2
 [[Languages.hu.menu.main]]
 name = "Portfólió"
 pre = "#"
-url = "portfolio1"
+url = "projektek"
 weight = 3
 [[Languages.hu.menu.main]]
 name = "Csapat"
