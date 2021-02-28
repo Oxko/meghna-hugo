@@ -6,7 +6,7 @@ author:
 description: Computer visualized 3D rendered photos for interior designing
 
 ---
-If you cannot decide on the design or colors whether what you chose would look good or could look better, we can provide you with a realistic 3D photo of your space to visualize the outcome beforehand.
+1. If you cannot decide on the design or colors whether what you chose would look good or could look better, we can provide you with a realistic 3D photo of your space to visualize the outcome beforehand.
 
 What do we need you to provide us?
 - Send us the measurements of the area (or floorplan if you have) 
@@ -15,7 +15,7 @@ What do we need you to provide us?
 
 20 000 HUF/3D photo
 
-You are unsure which tile to choose or what tiling pattern to use?  
+2. You are unsure which tile to choose or what tiling pattern to use?  
 
 - Send us the the links to the tiles you cannot decide on and a picture about what patterns you are thinking about.  
 

@@ -8,7 +8,8 @@ description: Design a unique custom furniture, kitchen furniture, wardrobe, walk
 
 ---
 You need to fill in empty spaces for packing with customized furniture? 
-or you have a desire of a unique looking item in your home
+Or you have a desire of a unique looking item in your home. 
+We plan and design your unique furniture for you
 
 Most common requests are 
 Kitchen furniture planning

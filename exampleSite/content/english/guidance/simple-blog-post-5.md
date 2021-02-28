@@ -7,7 +7,8 @@ description: Virtual quickplan, room makeover online, with the help of interior 
   we can provide you with 3D plans, how you can redo your room
 
 ---
-You can replan your bathroom, a room or your kitchen
+You can replan your bathroom, a room or your kitchen. 
+
 
 What is included in the virtual makeover?
 - 1-2 optimal colored 2D furnishing plan
