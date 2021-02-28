@@ -164,7 +164,7 @@ $(document).ready(() => {
 			});
 
 			// Remove team and themefisher from header
-			if (navDiv[i].textContent.toString().match("team") || navDiv[i].textContent.toString().match("themefisher") ) {
+			if (navDiv[i].textContent.toString().match("team") || navDiv[i].textContent.toString().match("themefisher") || navDiv[i].textContent.toString().match("Csapat") ) {
 				navDiv[i].remove();
 			}
 		}
