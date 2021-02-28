@@ -1,5 +1,5 @@
 ---
-title: "Feng Shui plan on individual level"
+title: Feng Shui plan on individual level
 date: 2018-09-12T12:52:36.000+06:00
 image: images/guidance/blog-post-6.png
 author: 
