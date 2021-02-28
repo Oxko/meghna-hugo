@@ -249,6 +249,12 @@ portfolio:
     content: Konyha modern kékben
     link: "#"
 
+  - name: Feng Shui modern társalgó
+    image: images/portfolio/Feng-Shui-room.png
+    categories:
+    - Modern
+    content:
+    link: "#"
 
   - name: 3D pillanatkép
     image: images/portfolio/Plan-3Dsnapshot-bedroom.png

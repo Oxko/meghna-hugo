@@ -240,6 +240,13 @@ portfolio:
     content: Kitchen in led lights with 3D wallpaper
     link: "#"
 
+  - name: Feng Shui modern room
+    image: images/portfolio/Feng-Shui-room.png
+    categories:
+    - Modern
+    content:
+    link: "#"
+
   - name: 3D snapshot
     image: images/portfolio/Plan-3Dsnapshot-bedroom.png
     categories:
