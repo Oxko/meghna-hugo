@@ -8,7 +8,6 @@ description : "Tervezze meg otthonát az alapoktól, alaprajzi szinten térszerv
    alaprajz pedig segíthet Önnek vizuálisan felmérni és megtervezni otthonát, hogy stílusosabb, praktikusabb és
    kényelmes legyen az Ön számára"
 ---
-Mikor van szüksége erre a csomagra?
 
 Épít vagy felújít és segítségre van szüksége a funkcionalitás és a praktikus tértervezés terén.
 Nem biztos a technikai dolgokban, milyen típusú fűtést használjon, milyen világítást, mennyi lámpát, kapcsolót és aljzatot kérjen a kivitelezőktől, érdemes előre átgondolni, ez hosszú távon pénzt és kényelmetlenséget takaríthat meg. Lakberendező igénybevételével az Ön élettere praktikusabb és költséghatékonyabb lesz.
