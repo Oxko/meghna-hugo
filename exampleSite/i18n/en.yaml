@@ -17,6 +17,8 @@
   translation: About us
 - id: services
   translation: Service
+- id: skill
+  translation: Virtual services
 - id: portfolio
   translation: Portfolio
 - id: pricing
