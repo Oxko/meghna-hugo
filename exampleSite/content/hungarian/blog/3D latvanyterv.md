@@ -1,19 +1,30 @@
 ---
-title: "Simple Blog Post"
+title: "3D látványterv"
 date: 2018-09-12T12:52:36+06:00
-image_webp: images/blog/blog-post-2.webp
 image: images/blog/blog-post-2.jpg
-author: John Doe
-description : "This is meta description"
+author: 
+description : "3D számítógépes látványterv, mely segítségére van abban, hogy előre vizualizálja hogy is fog pontosan kinézni az, amit megtervezett "
 draft: true
 ---
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Ha nem tudja eldönteni jól nézne-e ki amiket kiválasztott, formákban, megvilágításban vagy színben. A 3D látványkép segíteni fog, hogy megfelelő döntés lenne e kivitelezni az elgondolt tervet. Küldje el a linket a kérdéses anyagról, színről, körülbelüli méreteit a helyiségnek, s mi elküldjük a valósághű képet róla. Nézze meg az "Útmutató" fület részletekért, hogy ezt hogyan teheti meg. 
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Mit szükséges ehhez elküldeni?
+- Küldje el nekünk a terület méreteit (vagy alaprajzát, ha van ilyen)
+- Azon anyagok linkjeit, ami között nem tud dönteni
+- A falfestés színének vagy színkódjának linkje vagy a választott tapéta linkje (google)
 
-> Design is not just what it looks like and feels like. Design is how it works.
+20 000 Ft / 3D fotó
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Nem biztos abban, hogy melyik csempét válassza vagy milyen csempézési mintát használjon?
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+- Küldje el nekünk a kiválasztott lapok linkjeit, amelyekről nem tud dönteni és képet arról, hogy milyen mintára gondol.
+
+Anyagainak felhasználásával 1 * 3D renderelt fotót biztosítunk.
+
+10 000 Ft / 3D fotó
+
+
+Megrendelés teljesítésének időtartama megközelítőleg néhány nap.
+
+Bármilyen dizájn kérdéssel nyugodtan forduljon hozzánk, mi segítünk megvalósítani álmait.

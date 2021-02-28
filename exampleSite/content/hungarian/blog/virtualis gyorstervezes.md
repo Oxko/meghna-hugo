@@ -1,19 +1,37 @@
 ---
-title: "Simple Blog Post"
+title: "Virtuális gyorstervezés"
 date: 2018-09-12T12:52:36+06:00
-image_webp: images/blog/blog-post-2.webp
 image: images/blog/blog-post-2.jpg
-author: John Doe
-description : "This is meta description"
+author: 
+description : "Virtuális gyorstervezés, szobák átalakítása online, 
+   3D-s tervekkel, hogy lássa miként fog kinézni az átalakítandó szoba"
 draft: true
 ---
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Áttervezheti a fürdőszobáját, konyháját vagy egyik szobáját
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Mit tartalmaz a virtuális átalakítás?
+- 1-2 optimális színes 2D berendezési terv
+- 1-2 színes, 3D-s pillanatkép
+- Tippek és linkek képekkel a díszítéshez és a berendezéshez
+- Tanácsok a már meglévő bútorok újbóli felhasználásához
+- Tippek a régi bútordarab megújításának lépéseivel, amiket meg szeretne tartani
+- Válaszok a kérdéseire
 
-> Design is not just what it looks like and feels like. Design is how it works.
+Mire van ehhez szükségünk?
+- A tervezendő terület paraméterei (a tér nagyjábóli elrendezése hozzávetőleges méretekkel)
+- 2-3 fénykép különböző szögből
+- 2-3 inspiráló link, amely tetszik Önnek mint dizájn
+- Mekkora a költségvetése
+- Sorolja fel azokat a tárgyakat, amelyeket meg szeretne tartani, és mely bútorokdarabok megreformálására nyitott
+- Nem / életkor / a területet rendszeresen használók száma
+- Szeretné kifesteni a falakat vagy milyen egyéb felújításra készül?
+- Alaposan gondoljon át 2-3 kérdést, amivel kapcsolatban tanácsra van szüksége
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+30 000 Ft / Nappali
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+20 000 Ft / Fürdőszoba
+
+Megrendelés teljesítésének időtartama megközelítőleg néhány nap.
+
+Bármilyen dizájn kérdéssel nyugodtan forduljon hozzánk, mi segítünk megvalósítani álmait.

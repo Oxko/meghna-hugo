@@ -1,13 +1,12 @@
 ---
-title: Plan and design your home using Feng Shui
-date: 2018-09-12T12:52:36.000+06:00
-image_webp: images/blog/blog-post-1.webp
+title: "Plan and design your home using Feng Shui"
+date: 2018-09-12T12:52:36+06:00
 image: images/blog/blog-post-1.jpg
 author: 
-description: Design your home with Feng Shui principles, plan your home based on Feng
-  Shui
-
+description : "Design your home with Feng Shui principles, plan your home based on Feng Shui"
+draft: true
 ---
+
 If you want to apply Feng Shui and you are about to buy, renovate and remodel your home
 or you just want to design one or two rooms or even the whole living space according to the principles of Feng Shui.
 
@@ -101,7 +100,7 @@ Usual timeline is up to a week.
 
 When do you need this plan?
 If you want to optimize the harmony and flow of energies in your home and want to utilize the most out of it based on the monthly breakdown, using the flying star chart.
-This method can help you with showing what areas of your life/lives can have bad energy impact in a certain month and can give you guidance on how to either avoid them or minimize its effect. 
+This method can help you with showing what areas of your life/lives can have bad energy impact in a certain month and can give you guidance on how to either avoid them or minimize its effect, with smaller complementary items, designs.
 
 What is included in plan? 
 - Flying star chart for one full year
@@ -122,4 +121,4 @@ Usual timeline is a week.
 
 For any specifics contact us and we will help with what you need. 
 
-If you are uncertain about any of the details that would need to send us, please contact us we can arrange a site assessment and consultation 5 000 HUF in Budapest.
+If you are uncertain about any of the details that would need to send us, please contact us we can arrange a site assessment and consultation 5 000 HUF in Budapest. 
