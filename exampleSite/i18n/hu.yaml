@@ -1,3 +1,4 @@
+---
 - id: blogTitle
   translation: Útmutató
 - id: readMore
@@ -16,13 +17,13 @@
   translation: Rólunk
 - id: services
   translation: Szolgáltatások
-- id: portfolio1
+- id: portfolio
   translation: Portfolió
 - id: team
   translation: Csapat
 - id: pricing
   translation: Árak
-- id: utmutato
+- id: guidance
   translation: Útmutató
 - id: contact
   translation: Kontakt
