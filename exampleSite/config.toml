@@ -59,7 +59,7 @@ copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher
 home = "Accueil"
 languageCode = "hu-hu"
 languageName = "Hu"
-weight = 2
+weight = 1
 <<<<<<< HEAD
 [[Languages.hu.menu.main]]
 =======
