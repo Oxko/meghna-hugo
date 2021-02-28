@@ -272,12 +272,6 @@ portfolio:
     content:
     link: "#"
 
-  - name: Remodelling plan
-    image: images/portfolio/Plan-remodel.png
-    categories:
-    - Technical plan
-    content:
-    link: "#"  
   - name: 2D furnishing plan
     image: images/portfolio/Plan-2Dfurnishing.png
     categories:
@@ -326,10 +320,3 @@ portfolio:
     - Technical plan
     content: Shopping list with quantities, types
     link: "#"
-  
-  - name: 2D floor plan
-    image: images/portfolio/Plan-2D-colored-floor.png
-    categories:
-    - Technical plan
-    content: Floor plan with sample furnishing
-    link: "#"  

@@ -283,13 +283,6 @@ portfolio:
     content:
     link: "#"
 
-  - name: Átépítési javaslat
-    image: images/portfolio/Plan-remodel.png
-    categories:
-    - Műszaki tervek
-    content: Bontási-, Építési javaslat
-    link: "#"  
-
   - name: 2D berendezési terv
     image: images/portfolio/Plan-2Dfurnishing.png
     categories:
@@ -343,10 +336,3 @@ portfolio:
     - Műszaki tervek
     content: Bevásárló lista mennyiségekkel, típus meghatározással
     link: "#"
-  
-  - name: 2D berendezési terv
-    image: images/portfolio/Plan-2D-colored-floor.png
-    categories:
-    - Műszaki tervek
-    content: Berendezési terv vázlatbútorokkal
-    link: "#"  
