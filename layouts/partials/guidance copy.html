@@ -1,0 +1,27 @@
+{{ if gt site.RegularPages 0}}
+{{"<!-- Start Útmutató Section -->" | safeHTML}}
+<section id="utmutato" class="section">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-12">
+				{{"<!-- section title -->" | safeHTML}}
+				<div class="title text-center wow fadeInDown">
+					<h2> {{ with i18n "blogCím" }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
+							{{ with i18n "blogCím" }} {{ index (split . " ") 1 | safeHTML }} {{ end }} </span></h2>
+					<div class="border-meghna"></div>
+				</div>
+			</div>
+			{{"<!-- /section title -->" | safeHTML}}
+
+			{{ range first 3 (where site.RegularPages "Section" "==" "guidance")}}
+			{{ .Render "article"}}
+			{{ end }}
+
+			<div class="all-post text-center col-lg-12">
+				<a class="btn btn-main" href="{{ `utmutato` | absLangURL }}">{{ i18n "Mutasdmind" }}</a>
+			</div>
+		</div>
+	</div>
+</section>
+{{"<!-- /utmutato -->" | safeHTML}}
+{{ end }}
