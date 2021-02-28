@@ -1,9 +1,9 @@
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.virtual services.virtual services.enable }}
-{{ with $data.virtual services.virtual services }}
-{{"<!-- Virtual services -->" | safeHTML }}
-<section id="virtual services" class="parallax-section section section-bg overly">
+{{ if $data.skills.skills.enable }}
+{{ with $data.skills.skills }}
+{{"<!-- Skills -->" | safeHTML }}
+<section id="skills" class="parallax-section section section-bg overly">
 	<div class="container">
 		<div class="row">
 			{{"<!-- section title -->" | safeHTML }}
@@ -25,9 +25,9 @@
 				{{ end }}
 			</div>
 			<div class="col-lg-6">
-				<ul class="virtual services-bar">
+				<ul class="skills-bar">
 					{{ $.Scratch.Set "counter" 0 }}
-					{{ range $index, $element:= .virtual services_item }}
+					{{ range $index, $element:= .skills }}
 					{{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
 					<li>
 						<p><span>{{if lt $index 9}}0{{end}}{{$.Scratch.Get `counter`}}- </span>{{ .name }}</p>
@@ -43,6 +43,6 @@
 		</div>
 	</div>
 </section>
-{{"<!-- /virtusl services -->" | safeHTML }}
+{{"<!-- /Skills -->" | safeHTML }}
 {{ end }}
 {{ end }}
