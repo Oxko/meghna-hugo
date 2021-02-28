@@ -176,13 +176,13 @@ a:hover {
   }
   
   /*=================================================================
-  Portfolio Setup
+  Projects Setup
 ==================================================================*/
 
-  .portfolio-filter .btn.active {
+  .projects-filter .btn.active {
     border-color: #8f8533;
   }
-  .portfolio-block .caption .search-icon {
+  .projects-block .caption .search-icon {
     background: #232350;
     width: 50px;
     height: 50px;
