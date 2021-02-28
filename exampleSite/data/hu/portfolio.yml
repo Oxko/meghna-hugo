@@ -249,6 +249,13 @@ portfolio:
     content: Konyha modern kékben
     link: "#"
 
+  - name: Modern 
+    image: images/portfolio/Som-small-hallway.png
+    categories:
+    - Modern
+    content: Közlekedő vizuálisan kitágítva
+    link: "#"
+
   - name: Feng Shui modern társalgó
     image: images/portfolio/Feng-Shui-room.png
     categories:

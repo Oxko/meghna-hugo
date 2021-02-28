@@ -240,6 +240,14 @@ portfolio:
     content: Kitchen in led lights with 3D wallpaper
     link: "#"
 
+  - name: Modern 
+    image: images/portfolio/Som-small-hallway.png
+    categories:
+    - Modern
+    content: Small hallway made visually bigger
+    link: "#"
+
+
   - name: Feng Shui modern room
     image: images/portfolio/Feng-Shui-room.png
     categories:
