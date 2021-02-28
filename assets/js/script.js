@@ -46,7 +46,7 @@ jQuery(function ($) {
 	});
 
 	/* ========================================================================= */
-	/*	Projects Filtering Hook
+	/*	Portfolio Filtering Hook
 	/* =========================================================================  */
 
 	var containerEl = document.querySelector('.shuffle-wrapper');
@@ -156,16 +156,28 @@ $(document).ready(() => {
 	const navDiv = document.querySelectorAll(".nav-link");
 	for (let i = 0; i <= navDiv.length; i++) {
 		if(navDiv[i]) {
-			navDiv[i].addEventListener("click", () => {
-				var href = navDiv[i].textContent.toLowerCase();
-				$('html, body').animate({
-					scrollTop: $(`#${href}`).offset().top
-				}, 750);
-			});
+			if ($("#en").is("[selected]")) {
+				console.log("en");
+				navDiv[i].addEventListener("click", () => {
+					var href = navDiv[i].textContent.toLowerCase();
+					$('html, body').animate({
+						scrollTop: $(`#${href}`).offset().top
+					}, 750);
+				});
 
-			// Remove team and themefisher from header
-			if (navDiv[i].textContent.toString().match("team") || navDiv[i].textContent.toString().match("themefisher") || navDiv[i].textContent.toString().match("Csapat") ) {
-				navDiv[i].remove();
+				// Remove team and themefisher from header
+				if (navDiv[i].textContent.toString().match("team") || navDiv[i].textContent.toString().match("themefisher") || navDiv[i].textContent.toString().match("Csapat") ) {
+					navDiv[i].remove();
+				}
+			}
+			if ($("#hu").is("[selected]")) {
+				console.log("hu");
+				// Hungarian scroll func
+				if (navDiv[i].textContent.toString().match("Rólunk")) {
+					$('html, body').animate({
+						scrollTop: $('#about').offset().top
+					}, 750);
+				}
 			}
 		}
 	}
