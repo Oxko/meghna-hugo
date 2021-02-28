@@ -9,10 +9,12 @@ description: Plan your home from the beginnng, floor plan, architectural plan, t
   convenient
 
 ---
-Check the details when you need this package. 
+You are building or renovating and need help with functionality and practical space planning. 
+If you are unsure about technicalities, optimal layout, spaceplanning, heating, lighting, we optimize your home for you.
 
-You are building or renovating & need help with functionality & practical space planning. 
-You are unsure about technicalities, what type of heating to use where, what lighting to use, how many lamps, switches and socket to put where, it is beneficial to think it through beforehand, it can save you money and inconvenience in a long run. With an interior designer your living space will be more practical and more cost effective.
+
+
+What is the most optimal layout and spaceplanning? What type of heating to use where, what lighting to use, how many lamps, switches and socket to put where, it is beneficial to think it through beforehand, it can save you money and inconvenience in a long run. With an interior designer your living space will be more practical and more cost effective.
 
 Our Basic package includes the following
 - Site assessment, measurement

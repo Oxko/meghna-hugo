@@ -1,15 +1,20 @@
 ---
 title: Feng Shui plan on individual level
 date: 2018-09-12T12:52:36.000+06:00
-image: images/guidance/blog-post-6.jpg
+image: images/guidance/blog-post-1.jpg
 author: 
 description: This is meta description
-draft: true
-
 ---
-3. Remaking plan for individual with the help of Feng Shui
 
-While the latter package is a general advise on the house and its functionalities to suit the residents, here you can have a specific personalized plan using the Feng Shui principles, creating inner harmony with utilizing the energy flow of your home suiting your ownself. This can help you to have better sleeps, feel in more peace at home, avoid health issues.
+With this Feng Shui plan you can have a specific personalized plan using the Feng Shui principles, creating inner harmony with utilizing the energy flow of your home suiting your ownself. This can help you to have better sleeps, feel in more peace at home, avoid health issues.
+
+What type of Feng Shui plans does this include?
+1. Complete interior design on individual level, applying Feng Shui 
+2. Feng Shui plan with monthly breakdown for 1 full year. 
+
+Below you can find them in more details, what these cover exactly
+
+1. Remaking plan for individual with the help of Feng Shui
 
 The plan needs to be revisited if you redo your home, rearrange the furniture, change the function of a room or another person starts using a space on a regular basis.
 
@@ -33,7 +38,7 @@ What is needed from you?
 
 Usual timeline is up to a week.
 
-4. Complete interior space and design planning for 1 full year, breaking down problematic life areas into months
+2. Complete interior space and design planning for 1 full year, breaking down problematic life areas into months
 
 When do you need this plan?
 If you want to optimize the harmony and flow of energies in your home and want to utilize the most out of it based on the monthly breakdown, using the flying star chart.
