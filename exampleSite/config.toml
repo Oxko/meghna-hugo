@@ -60,16 +60,25 @@ home = "Accueil"
 languageCode = "hu-hu"
 languageName = "Hu"
 weight = 2
+<<<<<<< HEAD
 [[Languages.hu.menu.main]]
+=======
+[[Languages.fr.menu.main]]
+>>>>>>> 1ccb17791f57554489d12feec27eff32f4c50a96
 name = "Rólunk"
 pre = "#"
 url = "rolunk"
 weight = 1
+<<<<<<< HEAD
 [[Languages.hu.menu.main]]
+=======
+[[Languages.fr.menu.main]]
+>>>>>>> 1ccb17791f57554489d12feec27eff32f4c50a96
 name = "Szolgáltatások"
 pre = "#"
 url = "szolgaltatasok"
 weight = 2
+<<<<<<< HEAD
 [[Languages.hu.menu.main]]
 name = "Portfólió"
 pre = "#"
@@ -81,25 +90,44 @@ pre = "#"
 url = "team"
 weight = 4
 [[Languages.hu.menu.main]]
+=======
+[[Languages.fr.menu.main]]
+name = "Portfólió"
+pre = "#"
+url = "portfolio"
+weight = 3
+[[Languages.fr.menu.main]]
+>>>>>>> 1ccb17791f57554489d12feec27eff32f4c50a96
 name = "Árak"
 pre = "#"
 url = "arak"
 weight = 5
+<<<<<<< HEAD
 [[Languages.hu.menu.main]]
+=======
+[[Languages.fr.menu.main]]
+>>>>>>> 1ccb17791f57554489d12feec27eff32f4c50a96
 name = "Útmutató"
 pre = "#"
 url = "utmutato"
 weight = 6
+<<<<<<< HEAD
 [[Languages.hu.menu.main]]
+=======
+[[Languages.fr.menu.main]]
+>>>>>>> 1ccb17791f57554489d12feec27eff32f4c50a96
 name = "Kontakt"
 pre = "#"
 url = "kontakt"
 weight = 7
+<<<<<<< HEAD
 [[Languages.hu.menu.main]]
 name = "themefisher"
 pre = ""
 url = "https://themefisher.com/"
 weight = 8
+=======
+>>>>>>> 1ccb17791f57554489d12feec27eff32f4c50a96
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
