@@ -63,32 +63,32 @@ weight = 2
 [[Languages.hu.menu.main]]
 name = "Rólunk"
 pre = "#"
-url = "rolunk"
+url = "about"
 weight = 1
 [[Languages.hu.menu.main]]
 name = "Szolgáltatások"
 pre = "#"
-url = "szolgaltatasok"
+url = "services"
 weight = 2
 [[Languages.hu.menu.main]]
 name = "Portfólió"
 pre = "#"
-url = "portfolio"
+url = "projects"
 weight = 3
 [[Languages.hu.menu.main]]
 name = "Árak"
 pre = "#"
-url = "arak"
+url = "pricing"
 weight = 5
 [[Languages.hu.menu.main]]
 name = "Útmutató"
 pre = "#"
-url = "utmutato"
+url = "guidance"
 weight = 6
 [[Languages.hu.menu.main]]
 name = "Kontakt"
 pre = "#"
-url = "kontakt"
+url = "contact"
 weight = 7
 [params]
 author = "Themefisher"
