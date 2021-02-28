@@ -235,7 +235,33 @@ a:hover {
     margin-bottom: 50px;
     padding: 20px;
   }
+
+  .post-meta a {
+    color: #8f8533;
+  }
   
+  .next-prev a:hover {
+    color: #8f8533;
+  }
+  
+  .comment-wrap .media .media-heading a {
+    color: #8f8533;
+    font-size: 13px;
+  }
+  
+  .comment-reply-form input:focus,
+  .comment-reply-form textarea:focus {
+  box-shadow: none;
+  border: 1px solid #8f8533;
+}
+
+   
+  #scrollUp:hover {
+  background-color: #8f8533;
+  border: 1px solid #8f8533;
+}
+
+
   blockquote {
     border-left: 5px solid #8f8533;
     font-style: italic;
