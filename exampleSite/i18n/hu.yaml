@@ -16,13 +16,13 @@
   translation: Rólunk
 - id: services
   translation: Szolgáltatások
-- id: portfolio1
+- id: projects
   translation: Portfolió
 - id: team
   translation: Csapat
 - id: pricing
   translation: Árak
-- id: utmutato
+- id: guidance
   translation: Útmutató
 - id: contact
   translation: Kontakt
