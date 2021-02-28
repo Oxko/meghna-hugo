@@ -8,4 +8,4 @@ banner:
   button:
     enable : true
     label : "Tovább"
-    link : "#Szolgáltatások"
+    link : "#Szolgaltatások"
