@@ -6,7 +6,7 @@ author:
 description : "Tervezze meg otthonát a Feng Shui alapelveivel"
 ---
 
-Ebben a csomagban konkrét, személyre szabott tervet készítünk a Feng Shui elvek alapján, belső harmóniát teremtve otthona energiaáramának felhasználásával, amely az egyénre van szabva. Ez segíthet abban, hogy jobban aludjon, nagyobb békét sugározzon otthona az Ön számára, illetve ezzel a tervezéssel elkerülhet egészségügyi problémákat.
+Ebben a csomagban konkrét, személyre szabott tervet készítünk a Feng Shui elvek alapján, személyével belső harmóniát teremtve otthona energiaáramlásának felhasználásával. Ez segíthet abban, hogy jobban aludjon, nagyobb békét sugározzon otthona az Ön számára, illetve ezzel a tervezéssel elkerülhet egészségügyi problémákat.
 
 
 1. Teljes enteriőr tervezés személyi szinten, a Feng Shui alkalmazásával
