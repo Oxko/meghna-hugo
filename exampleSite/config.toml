@@ -26,7 +26,7 @@ weight = 2
 [[Languages.en.menu.main]]
 name = "portfolio"
 pre = "#"
-url = "projects"
+url = "portfolio"
 weight = 3
 [[Languages.en.menu.main]]
 name = "team"
@@ -73,7 +73,7 @@ weight = 2
 [[Languages.hu.menu.main]]
 name = "Portfólió"
 pre = "#"
-url = "projects"
+url = "portfolio"
 weight = 3
 [[Languages.hu.menu.main]]
 name = "Árak"
