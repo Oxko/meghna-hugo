@@ -6,7 +6,8 @@ author:
 description : "3D számítógépes látványterv, mely segítségére van abban, hogy előre vizualizálja hogy is fog pontosan kinézni az, amit megtervezett "
 ---
 
-Ha nem tudja eldönteni jól nézne-e ki amiket kiválasztott, formákban, megvilágításban vagy színben. A 3D látványkép segíteni fog, hogy megfelelő döntés lenne e kivitelezni az elgondolt tervet. Küldje el a linket a kérdéses anyagról, színről, körülbelüli méreteit a helyiségnek, s mi elküldjük a valósághű képet róla. Nézze meg az "Útmutató" fület részletekért, hogy ezt hogyan teheti meg. 
+Ha nem tudja eldönteni jól nézne-e ki amiket kiválasztott, formákban, megvilágításban vagy színben. A 3D látványkép segíteni fog, hogy megfelelő döntés lenne e kivitelezni az elgondolt tervet. 
+Küldje el a linket a kérdéses anyagról, színről, körülbelüli méreteit a helyiségnek, s mi elküldjük a valósághű képet róla. Nézze meg az "Útmutató" fület részletekért, hogy ezt hogyan teheti meg. 
 
 Mit szükséges ehhez elküldeni?
 - Küldje el nekünk a terület méreteit (vagy alaprajzát, ha van ilyen)

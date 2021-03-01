@@ -1,12 +1,12 @@
 ---
-title: Feng Shui szerinti tervezés személyre szabva
+title: Feng Shui személyre szabva
 date: 2018-09-12T12:52:36+06:00
 image: images/guidance/blog-post-6.png
 author: 
 description : "Tervezze meg otthonát a Feng Shui alapelveivel"
 ---
 
-Ebben a csomagban konkrét, személyre szabott tervet készítünk a Feng Shui elvek alapján, személyével belső harmóniát teremtve otthona energiaáramlásának felhasználásával. Ez segíthet abban, hogy jobban aludjon, nagyobb békét sugározzon otthona az Ön számára, illetve ezzel a tervezéssel elkerülhet egészségügyi problémákat.
+Ebben a csomagban személyre szabott tervet készítünk a Feng Shui elvek alapján, belső harmóniát teremtve otthonában lévő energiák felhasználásával. Ez segíthet abban, hogy jobban aludjon, nagyobb békét sugározzon otthona az Ön számára, illetve ezzel a tervezéssel elkerülhet egészségügyi problémákat.
 
 
 1. Teljes enteriőr tervezés személyi szinten, a Feng Shui alkalmazásával

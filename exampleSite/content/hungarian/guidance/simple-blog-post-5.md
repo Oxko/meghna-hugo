@@ -7,9 +7,10 @@ description : "Virtuális gyorstervezés, szobák átalakítása online,
    3D-s tervekkel, hogy lássa miként fog kinézni az átalakítandó szoba"
 ---
 
-Áttervezheti a fürdőszobáját, konyháját vagy egyik szobáját
+Átterveztetheti fürdőszobáját, konyháját vagy egyik szobáját, online gyors tervezés igénybevételével. 
 
-Mit tartalmaz a virtuális átalakítás?
+
+Mit tartalmaz a virtuális gyorstervezés?
 - 1-2 optimális színes 2D berendezési terv
 - 1-2 színes, 3D-s pillanatkép
 - Tippek és linkek képekkel a díszítéshez és a berendezéshez

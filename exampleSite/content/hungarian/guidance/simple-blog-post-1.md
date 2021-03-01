@@ -1,5 +1,5 @@
 ---
-title: Tervezés Feng Shui szerint
+title: Feng Shui lakásra szabva
 date: 2018-09-12T12:52:36.000+06:00
 image: images/guidance/blog-post-1.png
 author: Oxko design
