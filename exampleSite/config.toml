@@ -63,12 +63,12 @@ weight = 2
 [[Languages.hu.menu.main]]
 name = "Rólunk"
 pre = "hu/#"
-url = "#about"
+url = "about"
 weight = 1
 [[Languages.hu.menu.main]]
 name = "Szolgáltatások"
 pre = "hu/#"
-url = "#services"
+url = "services"
 weight = 2
 [[Languages.hu.menu.main]]
 name = "Portfólió"
