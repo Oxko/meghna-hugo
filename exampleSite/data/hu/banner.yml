@@ -9,5 +9,4 @@ banner:
     enable : true
     label : "Tovább"
     name : "Szolgáltatások"
-    pre : "hu/#"
-    url : "#about"
+    url : "hu/#about"
