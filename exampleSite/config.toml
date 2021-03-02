@@ -62,32 +62,32 @@ languageName = "Hu"
 weight = 2
 [[Languages.hu.menu.main]]
 name = "Rólunk"
-pre = "#"
+pre = "hu/#"
 url = "about"
 weight = 1
 [[Languages.hu.menu.main]]
 name = "Szolgáltatások"
-pre = "#"
+pre = "hu/#"
 url = "services"
 weight = 2
 [[Languages.hu.menu.main]]
 name = "Portfólió"
-pre = "#"
+pre = "hu/#"
 url = "portfolio"
 weight = 3
 [[Languages.hu.menu.main]]
 name = "Árak"
-pre = "#"
+pre = "hu/#"
 url = "pricing"
 weight = 5
 [[Languages.hu.menu.main]]
 name = "Útmutató"
-pre = "#"
+pre = "hu/#"
 url = "guidance"
 weight = 6
 [[Languages.hu.menu.main]]
 name = "Kontakt"
-pre = "#"
+pre = "hu/#"
 url = "contact"
 weight = 7
 [params]
