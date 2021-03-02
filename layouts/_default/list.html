@@ -27,31 +27,4 @@
 </section>
 {{"<!-- /Guidance -->" | safeHTML}}
 
-
-
-{{"<!-- Start Útmutató Section -->" | safeHTML}}
-<section id="utmutato" class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        {{"<!-- section title -->" | safeHTML}}
-        <div class="title text-center wow fadeInDown">
-          <h2>{{ with i18n "BlogTitle" }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
-              {{ with i18n "BlogTitle" }} {{ index (split . " ") 1 | safeHTML }} {{ end }}</span></h2>
-          <div class="border-meghna"></div>
-        </div>
-      </div>
-      {{"<!-- /section title -->" | safeHTML}}
-      {{ $paginator := .Paginate .Data.Pages }}
-      {{ range $paginator.Pages }}
-      {{ .Render "article" }}
-      {{ end }}
-      <div class="col-12">
-        {{ template "_internal/pagination.html" . }}
-      </div>
-    </div>
-  </div>
-</section>
-{{"<!-- /Útmutató -->" | safeHTML}}
-
 {{ end }}
