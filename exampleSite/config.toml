@@ -82,8 +82,8 @@ url = "pricing"
 weight = 5
 [[Languages.hu.menu.main]]
 name = "Útmutató"
-pre = "hu/#"
-url = "guidance"
+pre = "#"
+url = "hu/guidance"
 weight = 6
 [[Languages.hu.menu.main]]
 name = "Kontakt"
