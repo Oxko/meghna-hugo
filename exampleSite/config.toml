@@ -57,18 +57,18 @@ weight = 8
 contentDir = "content/hungarian"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Home"
-languageCode = "hu-hu"
+languageCode = "hu"
 languageName = "Hu"
 weight = 2
 [[Languages.hu.menu.main]]
 name = "Rólunk"
 pre = "hu/#"
-url = "about"
+url = "hu/#about"
 weight = 1
 [[Languages.hu.menu.main]]
 name = "Szolgáltatások"
 pre = "hu/#"
-url = "services"
+url = "hu/#services"
 weight = 2
 [[Languages.hu.menu.main]]
 name = "Portfólió"
