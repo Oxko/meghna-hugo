@@ -17,7 +17,7 @@ pricing:
         - Segítségére lesz, hogy milyen bútort hova a legpraktisuabb tenni, milyen méretben
       button:
         label : "Részletek"
-        link : "#Útmutató"
+        link : "#guidance"
       
     # pricing table loop
     - name : Standard
@@ -35,7 +35,7 @@ pricing:
         - 3D gépi színes kép, hogy vizualizálja a teret
       button:
         label : "Részletek"
-        link : "#Útmutató"
+        link : "#guidance"
         
     # pricing table loop
     - name : Optimum
@@ -54,7 +54,7 @@ pricing:
         - Egyszeri együtt vásárlás, anyagok kiválasztása
       button:
         label : "Részletek"
-        link : "#Útmutató"
+        link : "#guidance"
         
     # pricing table loop
     - name : Platinum
@@ -73,4 +73,4 @@ pricing:
         - Feng Shui alapelvei szerinti tervezés, amennyiben kéri. 
       button:
         label : "Részletek"
-        link : "#Útmutató"
+        link : "#guidance"
