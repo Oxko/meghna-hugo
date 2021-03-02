@@ -9,4 +9,4 @@ banner:
     enable : true
     label : "Tovább"
     name : "Szolgáltatások"
-    url : "hu/#pricing"
+    url : "hu/#about"
