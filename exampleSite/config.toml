@@ -83,7 +83,7 @@ weight = 5
 [[Languages.hu.menu.main]]
 name = "Útmutató"
 pre = "hu/#"
-url = "hu/#guidance"
+url = "guidance"
 weight = 6
 [[Languages.hu.menu.main]]
 name = "Kontakt"
