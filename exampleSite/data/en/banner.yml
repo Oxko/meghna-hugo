@@ -9,4 +9,4 @@ banner:
   button:
     enable: true
     label: Explore us
-    link: "#services"
+    link: "#about"
