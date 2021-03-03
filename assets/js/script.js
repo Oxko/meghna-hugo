@@ -194,7 +194,8 @@ $("#upload-more-btn").on("click", () => {
 	$("#upload-more-btn").hide();
 });
 
-
+// Delete progress bars
+$(".progress").remove();
 
 // Delete social links
 $(".social-icon").remove();

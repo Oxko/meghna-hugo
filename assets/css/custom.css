@@ -358,3 +358,13 @@ a:hover {
 .skill-bar .progress .progress-bar {
     background: #111625;
   }
+
+a, .title h2, .title h1, .title h3{
+  text-transform: none;
+}
+#feature .row {
+  background-color: #1d2024;
+}
+#skill {
+  background-color: #1d2024;
+}
