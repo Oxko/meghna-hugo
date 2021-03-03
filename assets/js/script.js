@@ -164,7 +164,6 @@ $(document).ready(() => {
 						scrollTop: $(`#${href}`).offset().top
 					}, 750);
 				});
-
 				// Remove team and themefisher from header
 				if (navDiv[i].textContent.toString().match("team") || navDiv[i].textContent.toString().match("themefisher") || navDiv[i].textContent.toString().match("Csapat") ) {
 					navDiv[i].remove();
@@ -173,11 +172,14 @@ $(document).ready(() => {
 			if ($("#hu").is("[selected]")) {
 				console.log("hu");
 				// Hungarian scroll func
-				if (navDiv[i].textContent.toString().match("Rólunk")) {
-					$('html, body').animate({
-						scrollTop: $('#about').offset().top
-					}, 750);
-				}
+				const navArr = ["about", "services", "portfolio", "pricing", "guidance", "contact"];
+				navDiv[i].addEventListener("click", () => {
+					console.log(navDiv[i], navArr[i])
+						$('html, body').animate({
+							scrollTop: $(`#${navArr[i]}`).offset().top
+						}, 750);
+						console.log(navDiv[i], navArr[i])
+				});
 			}
 		}
 	}
