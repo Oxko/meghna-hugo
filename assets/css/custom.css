@@ -186,13 +186,15 @@ a:hover {
     background: #232350;
     width: 50px;
     height: 50px;
-    color: rgb(160, 158, 59);
+    color: #8f8533;
     display: inline-block;
     font-size: 20px;
     border-radius: 30px;
   }
+  .portfolio-block .caption {
+    color: #222236;
+  }  
 
-  
 .blog-icon {
     border: 1px solid #8f8533;
     border-radius: 50%;
@@ -385,8 +387,4 @@ a, .title h2, .title h1, .title h3{
 
 ::selection {
   color: #8f8533;
-}
-
-.all-post {
-  color: #8f8533; 
 }
