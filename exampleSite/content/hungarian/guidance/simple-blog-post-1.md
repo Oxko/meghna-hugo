@@ -7,7 +7,7 @@ description: "Tervezze meg otthonát a Feng Shui alapelveivel"
 ---
 
 Ha alkalmazni szeretné a Feng Shui-t és épp otthona vásárlása előtt átt vagy felújítani, átalakítani szeretné azt
-vagy csak egy-két szobát vagy akár az egész életteret akarja megtervezni a Feng Shui elveinek megfelelően.
+vagy csak egy-két szobát vagy akár az egész életteret akarja megtervezni a Feng Shui alapján.
 
 Úgy érzi, hogy nincs kellő harmónia az otthonába, szükségét érzi az energiák átcsoportosítását.
 
