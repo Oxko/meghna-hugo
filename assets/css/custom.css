@@ -180,7 +180,7 @@ a:hover {
 ==================================================================*/
 
   .portfolio-filter .btn.active {
-    border-color: #8f8533;
+    border-color: #d4c554;
   }
   .portfolio-block .caption .search-icon {
     background: #232350;
@@ -218,7 +218,7 @@ a:hover {
   }
   .widget-content .tag:hover {
     background-color: #8f8533;
-    color: #fff;
+    color: rgb(229, 231, 91);
   }
   .post-pagination ul li a:hover,
 .post-pagination ul li.active a {
@@ -231,7 +231,7 @@ a:hover {
 	Single Blog Page
 ==================================================================*/
 .single-blog {
-    background-color: #fff;
+    background-color: rgb(168, 161, 59);
     margin-bottom: 50px;
     padding: 20px;
   }
@@ -245,7 +245,7 @@ a:hover {
   }
   
   .comment-wrap .media .media-heading a {
-    color: #8f8533;
+    color: #d4c655;
     font-size: 13px;
   }
   
@@ -363,8 +363,30 @@ a, .title h2, .title h1, .title h3{
   text-transform: none;
 }
 #feature .row {
-  background-color: #1d2024;
+  background-color: #161d27;
 }
 #skill {
-  background-color: #1d2024;
+  background-color: #161d27;
+}
+
+
+.skill-bar p span {
+  color:  #8f8533
+}
+
+.skill-bar .progress .progress-bar {
+  background: #8f8533;
+}
+
+.progress-bar {
+  color: #8f8533;
+}
+
+
+::selection {
+  color: #8f8533;
+}
+
+.all-post {
+  color: #8f8533; 
 }
