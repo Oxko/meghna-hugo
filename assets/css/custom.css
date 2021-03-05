@@ -425,6 +425,9 @@ a, .title h2, .title h1, .title h3{
   color: #eff1f3;
 }
 
+.hero-area .block p {
+  color: #afbac4;
+}
 
   /*=================================================================
   About title setup
