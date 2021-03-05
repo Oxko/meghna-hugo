@@ -396,5 +396,9 @@ a, .title h2, .title h1, .title h3{
 }
 
 .progress {
-  background-color: #8f8533;
+  background-color: #c5b74f;
+} 
+
+.skill-bar .progress .progress-bar {
+  background: #b2b4c7;
 } 
