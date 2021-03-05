@@ -61,25 +61,25 @@ portfolio:
     link: "#"
 
   - name: Társasházi lakás Pesten
-    image: images/portfolio/Buda-kitchen.png
+    image: images/portfolio/Pest-kitchen.png
     categories:
     - Otthonos 
     content: Konyha meleg színekkel
     link: "#"
   - name: Társasházi lakás Pesten
-    image: images/portfolio/Buda-living-room.png
+    image: images/portfolio/Pest-living-room.png
     categories:
     - Otthonos 
     content: Nappali panoraámával a Dunára
     link: "#"
   - name: Társasházi lakás Pesten
-    image: images/portfolio/Buda-bedroom.png
+    image: images/portfolio/Pest-bedroom.png
     categories:
     - Otthonos 
     content: Hálószoba 
     link: "#"
   - name: Társasházi lakás Pesten
-    image: images/portfolio/Buda-panorama.png
+    image: images/portfolio/Pest-ap-with-Buda-panorama.png
     categories:
     - Otthonos
     content: 
