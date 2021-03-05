@@ -4,7 +4,7 @@ service:
   title : Our services
   service_item :
     # service item loop
-    - name : Virtual quickplan or roommakeover
+    - name : Virtual quickplan or room makeover
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
       content : If you live far from Budapest, would not like to travel during or you are only in a small design dilemma, need advice on 1-2 rooms, you can submit your questions with details about your rooms online, filling out the contact form and we will send you the plans, tips and hints with the answers to your questions. Check the "Guidance" section for more details.
       
