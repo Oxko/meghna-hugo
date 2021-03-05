@@ -394,3 +394,7 @@ a, .title h2, .title h1, .title h3{
   text-transform: uppercase;
   font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
 }
+
+.progress {
+  background-color: #8f8533;
+} 
