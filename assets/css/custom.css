@@ -392,3 +392,5 @@ a, .title h2, .title h1, .title h3{
 .hero-area .block h1 {
   font-size: 90px;
   text-transform: none;
+  font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
