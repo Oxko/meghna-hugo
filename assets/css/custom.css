@@ -409,16 +409,20 @@ a, .title h2, .title h1, .title h3{
 ==================================================================*/
 .hero-area .block h1 {
   font-size: 70px;
-  color: #afbac4;;
+  color: #afbac4;
 } 
 
+.hero-area .block {
+  color: #afbac4;
+}
+
 .d-none {
-  color:#afbac4;;
+  color:#afbac4;
 }
 
 .hero-area .block .btn-transparent {
   border-color: #afbac4;;
-  color: #afbac4;
+  color: #eff1f3;
 }
 
 
