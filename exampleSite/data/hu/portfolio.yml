@@ -70,7 +70,7 @@ portfolio:
     image: images/portfolio/Pest-living-room.png
     categories:
     - Otthonos 
-    content: Nappali panoraámával a Dunára
+    content: Amerikiai konyha-nappali
     link: "#"
   - name: Társasházi lakás Pesten
     image: images/portfolio/Pest-bedroom.png
@@ -82,7 +82,7 @@ portfolio:
     image: images/portfolio/Pest-ap-with-Buda-panorama.png
     categories:
     - Otthonos
-    content: 
+    content: Nappali panorámával a Dunára
     link: "#"
 
   - name: Társasházi lakás Budán

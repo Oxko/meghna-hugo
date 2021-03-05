@@ -67,7 +67,7 @@ portfolio:
     image: images/portfolio/Pest-living-room.png
     categories:
     - Homey 
-    content: Living room with panorama on the Danube
+    content: American style living room with dining room
     link: "#"
   - name: Apartment in Pest
     image: images/portfolio/Pest-bedroom.png
@@ -79,7 +79,7 @@ portfolio:
     image: images/portfolio/Pest-ap-with-Buda-panorama.png
     categories:
     - Homey
-    content: 
+    content: Living room with panorama on the Danube
     link: "#"
 
   - name: Apartment in Buda
