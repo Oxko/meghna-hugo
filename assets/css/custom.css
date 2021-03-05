@@ -388,3 +388,7 @@ a, .title h2, .title h1, .title h3{
 ::selection {
   color: #8f8533;
 }
+
+.hero-area .block h1 {
+  font-size: 90px;
+  text-transform: uppercase;

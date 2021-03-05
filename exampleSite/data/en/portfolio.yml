@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Our Portfolio
+  title: Our portfolio
   portfolio_item:
   - name: Mobile home
     image: images/portfolio/Mobil-living-room-whiterug.png

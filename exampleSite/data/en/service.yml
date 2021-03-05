@@ -1,7 +1,7 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
+  title : Our services
   service_item :
     # service item loop
     - name : Virtual quickplan or roommakeover
