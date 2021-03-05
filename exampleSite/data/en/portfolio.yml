@@ -57,25 +57,25 @@ portfolio:
     - Modern
     content: Common dining area
     link: "#"
-  - name: Apartment in Buda
+  - name: Apartment in Pest
     image: images/portfolio/Buda-kitchen.png
     categories:
     - Homey 
     content: Kitchen in homey style
     link: "#"
-  - name: Apartment in Buda
+  - name: Apartment in Pest
     image: images/portfolio/Buda-living-room.png
     categories:
     - Homey 
     content: Living room with panorama on the Danube
     link: "#"
-  - name: Apartment in Buda
+  - name: Apartment in Pest
     image: images/portfolio/Buda-bedroom.png
     categories:
     - Homey 
     content: Bedroom in homey style
     link: "#"
-  - name: Apartment in Buda
+  - name: Apartment in Pest
     image: images/portfolio/Buda-panorama.png
     categories:
     - Homey

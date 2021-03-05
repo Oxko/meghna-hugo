@@ -60,25 +60,25 @@ portfolio:
     content: Közös étkező helyiség
     link: "#"
 
-  - name: Társasházi lakás Budán
+  - name: Társasházi lakás Pesten
     image: images/portfolio/Buda-kitchen.png
     categories:
     - Otthonos 
     content: Konyha meleg színekkel
     link: "#"
-  - name: Társasházi lakás Budán
+  - name: Társasházi lakás Pesten
     image: images/portfolio/Buda-living-room.png
     categories:
     - Otthonos 
     content: Nappali panoraámával a Dunára
     link: "#"
-  - name: Társasházi lakás Budán
+  - name: Társasházi lakás Pesten
     image: images/portfolio/Buda-bedroom.png
     categories:
     - Otthonos 
     content: Hálószoba 
     link: "#"
-  - name: Társasházi lakás Budán
+  - name: Társasházi lakás Pesten
     image: images/portfolio/Buda-panorama.png
     categories:
     - Otthonos
