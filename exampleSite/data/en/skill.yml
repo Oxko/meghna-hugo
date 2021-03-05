@@ -9,16 +9,11 @@ skill:
   skill_item:
   # skill item loop
   - name: Virtual quickplan
-  - percent: "100"
   # skill item loop
   - name: 3D realistic photos
-  - percent: "100"
   # skill item loop
   - name: Custom furniture design
-  - percent: "100"
   # skill item loop
   - name: Floor plan using Feng Shui
-  - percent: "100"
   # skill item loop
   - name: Technical plans, Space planning
-  - percent: "100"
