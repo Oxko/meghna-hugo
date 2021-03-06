@@ -256,8 +256,8 @@ portfolio:
     content: Közlekedő vizuálisan kitágítva
     link: "#"
 
-  - name: Feng Shui modern társalgó
-    image: images/portfolio/Feng-Shui-room.png
+  - name: Modern társalgó
+    image: images/portfolio/Modern-lounge.png
     categories:
     - Modern
     content:
