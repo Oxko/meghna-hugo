@@ -461,3 +461,9 @@ a, .title h2, .title h1, .title h3 {
   /*=================================================================
   Contact form setup
 ==================================================================*/
+
+
+.portfolio.portfolio-block
+element.style {
+  position: sticky;
+} 
