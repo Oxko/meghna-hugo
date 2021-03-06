@@ -69,7 +69,7 @@ h6 {
 
 
   
-  .btn-transparent:hover,
+.btn-transparent:hover,
 .btn-transparent:focus {
   background-color: #8f8533;
   border: 1px solid transparent;
@@ -86,10 +86,11 @@ h6 {
     width: 50px;
     background-color: #8f8533;
   }
-  a:focus,
-a:hover {
+  
+  a:focus
+  a:hover {
   color: #8f8533;
-}
+  }
 
 .btn-main {
     background: #8f8533;
@@ -341,6 +342,21 @@ a:hover {
     -webkit-font-smoothing: antialiased;
   }
   
+  
+  /*=================================================================
+  View all posts button setup
+==================================================================*/
+  a.btn.btn-main:hover {
+    background-color: #e7e546;
+    color: #f3f5f7;
+    display: inline-block;
+  }
+
+  a.btn.btn-main {
+    background-color:#8f8533;
+    border-color: #e7e546; 
+  }
+ 
   /*=================================================================
   About us setup
 ==================================================================*/
@@ -426,7 +442,7 @@ a, .title h2, .title h1, .title h3{
 
 
   /*=================================================================
-  Banner bar setup
+  Banner setup
 ==================================================================*/
 .hero-area .block h1 {
   font-size: 70px;

@@ -2,7 +2,7 @@
 feature:
   enable: true
   image: images/backgrounds/Main-picture.png
-  title: Oxko design
+  title: OxKo design
   content: 'We are an interior designer company'
   feature_item:
   - title: Pricing structure
