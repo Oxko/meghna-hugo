@@ -498,3 +498,10 @@ a, .title h2, .title h1, .title h3 {
 ==================================================================*/
 
 
+.copyright p {
+  color: #f3f5f7;
+}
+
+a, .title h2, .title h1, .title h3 {
+  color: #f3f5f7;
+}
