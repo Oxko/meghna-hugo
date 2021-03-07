@@ -3,7 +3,7 @@ cta:
   enable: false
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
-  title: OxKo design - Interior design services
+  title: Oxko design - Interior design services
   content: If you need a design tip, custom furniture, space planning, or full interior design service, contact us
   button:
     enable: true

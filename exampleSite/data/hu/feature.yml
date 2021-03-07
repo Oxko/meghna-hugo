@@ -2,7 +2,7 @@
 feature:
   enable : true
   image : images/backgrounds/Main-picture.png
-  title : OxKo design
+  title : Oxko design
   content : "Enteriőr dizájner vállalkozás vagyunk"
   feature_item : 
       # feature item loop
