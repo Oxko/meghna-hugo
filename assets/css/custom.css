@@ -39,7 +39,9 @@
 .bg-one, section, .section-bg {
     background-color: #1d2031;
 }
-
+input:hover {
+  color: #d4c554;
+}
 
 
 
