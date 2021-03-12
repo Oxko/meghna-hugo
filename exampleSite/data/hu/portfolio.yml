@@ -4,13 +4,13 @@ portfolio:
   title: Munkáink
   portfolio_item:
   - name: Mobil ház
-    image: images/portfolio/Mobil-living-room-whiterug.png
+    image: images/portfolio/Mobil-living-room.png
     categories:
     - Mobil ház
     content: Nappali 3 üvegfallal
     link: https://themefisher.com
   - name: Mobil ház
-    image: images/portfolio/Mobil-kitchen-withrug.png
+    image: images/portfolio/Mobil-kitchen.png
     categories:
     - Mobil ház
     content: Konyha fekete lakk konyhabútorral 
@@ -250,7 +250,7 @@ portfolio:
     link: "#"
 
   - name: Modern 
-    image: images/portfolio/Som-small-hallway.png
+    image: images/portfolio/Som-hallway.png
     categories:
     - Modern
     content: Közlekedő vizuálisan kitágítva

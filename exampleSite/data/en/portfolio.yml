@@ -4,13 +4,13 @@ portfolio:
   title: Our portfolio
   portfolio_item:
   - name: Mobile home
-    image: images/portfolio/Mobil-living-room-whiterug.png
+    image: images/portfolio/Mobil-living-room.png
     categories:
     - Mobile home
     content: Living room with 3 glass walls
     link: https://themefisher.com
   - name: Mobile home
-    image: images/portfolio/Mobil-kitchen-withrug.png
+    image: images/portfolio/Mobil-kitchen.png
     categories:
     - Mobile home
     content: Kitchen with black lacqure furniture 
@@ -241,7 +241,7 @@ portfolio:
     link: "#"
 
   - name: Modern 
-    image: images/portfolio/Som-small-hallway.png
+    image: images/portfolio/Som-hallway.png
     categories:
     - Modern
     content: Small hallway made visually bigger
