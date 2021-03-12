@@ -46,21 +46,23 @@ input:hover {
 
 
 h1,
-h2,
 h3,
 h4,
 h5,
 h6 {
-  font-weight: 400;
-  font-family: "Quattrocento Sans", sans-serif;
-  color: #939da7;
+  color: #a5adb5;
 }
+
+.title h2 {
+  color:  #cfc158;
+}
+
 /*=================================================================
   Basic Setup
 ==================================================================*/
 ::-moz-selection {
     /* Code for Firefox */
-    color: #fff;
+    color: #8f8533;
     background: #cfc158;
   }
   
@@ -68,17 +70,23 @@ h6 {
     color: #fff;
     background: #c2b342;
   }
+  
+  .title h2, .title h1, .title h3 {
+    color: #a5adb5;
+  }
 
-
+  .title h2 span {
+    color: #a5adb5;
+}   
   
 .btn-transparent:hover,
 .btn-transparent:focus {
   background-color: #8f8533;
   border: 1px solid transparent;
-  color: #fff;
+  color: #eff1f3;
 }
 .border-meghna:before {
-    background-color: #fff;
+    background-color: #a2ad94;
     content: '';
     height: 6px;
     left: 50%;
@@ -155,7 +163,7 @@ h6 {
   }
 
   .price-title h3 {
-    color: #e4e2d8;
+    color: #a5adb5;
     margin: 0 0 10px;
     text-transform: uppercase;
   }
@@ -476,7 +484,7 @@ a, .title h2, .title h1, .title h3{
   About title setup
 ==================================================================*/
 a, .title h2, .title h1, .title h3 {
-  color: #afbac4;
+  color: #a5adb5;
 }
 
 
@@ -484,7 +492,7 @@ a, .title h2, .title h1, .title h3 {
   Our services setup
 ==================================================================*/
 .title {
-  color: #afbac4;
+  color: #a5adb5;
 }
 
   /*=================================================================
@@ -501,9 +509,10 @@ a, .title h2, .title h1, .title h3 {
 
 
 .copyright p {
-  color: #f3f5f7;
+  color: #939da7;
 }
 
 a, .title h2, .title h1, .title h3 {
-  color: #f3f5f7;
+  color: #a5adb5;
 }
+
