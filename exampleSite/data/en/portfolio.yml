@@ -280,7 +280,7 @@ portfolio:
     - Technical plan
     content: 
     link: "#"
-  - name: Wallview
+  - name: Wall view
     image: images/portfolio/Plan-wallview.png
     categories:
     - Technical plan
