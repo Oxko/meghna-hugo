@@ -11,7 +11,7 @@ or you just want to design one or two rooms or even the whole living space accor
 
 You feel that you don't have enough harmony in your home atmosphere, you feel the need to reallocate energies
 
-This is a general advise on the house itselef and its functionalities to suit the residents, from Feng Shui view.
+This is a general advise on the house itseдf and its functionalities to suit the residents, from Feng Shui view.
 
 What type of Feng Shui plans does this include? 
 1. A layout of your home based on Feng Shui
