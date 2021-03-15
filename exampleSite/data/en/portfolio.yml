@@ -185,6 +185,19 @@ portfolio:
     - Asian style
     content: Terrace with big space to relax
     link: "#"
+  - name: Japanese style family house 
+    image: images/portfolio/Japanese-style-entrance.png
+    categories:
+    - Asian style
+    content: The entrance
+    link: "#"
+  - name: Japanese style family house 
+    image: images/portfolio/Japanese-style-musicroom1.png
+    categories:
+    - Asian style
+    content: 
+    link: "#"  
+  
   - name: Panel flat, masculine homey
     image: images/portfolio/Panel-shower.png
     categories:

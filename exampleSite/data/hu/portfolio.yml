@@ -192,6 +192,18 @@ portfolio:
     - Keleti stílus
     content: Terasz 
     link: "#"
+  - name: Japán stílusú családi ház 
+    image: images/portfolio/Japanese-style-entrance.png
+    categories:
+    - Keleti stílus
+    content: Bejárat
+    link: "#"
+  - name: Japán stílusú családi ház 
+    image: images/portfolio/Japanese-style-musicroom1.png
+    categories:
+    - Keleti stílus
+    content: 
+    link: "#"
 
   - name: Panel lakás, egyedülálló férfira tervezve
     image: images/portfolio/Panel-shower.png
