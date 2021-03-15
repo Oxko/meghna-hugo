@@ -24,6 +24,6 @@ We provide you with 1*3D rendered photo using your materials.
 10 000 HUF/3D photo
 
 
-Usual timeline is up to a few days.
+Usual timeline is from one to up to a few days.
 
 For any specifics contact us and we will help with what you need.
