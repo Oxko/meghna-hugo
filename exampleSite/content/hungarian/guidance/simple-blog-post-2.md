@@ -25,6 +25,6 @@ Anyagainak felhasználásával 1 * 3D renderelt fotót biztosítunk.
 10 000 Ft / 3D fotó
 
 
-Megrendelés teljesítésének időtartama megközelítőleg néhány nap.
+Megrendelés teljesítésének időtartama legfejlebb egytől néhány nap.
 
 Bármilyen dizájn kérdéssel nyugodtan forduljon hozzánk, mi segítünk megvalósítani álmait.
