@@ -2,7 +2,7 @@
 title: Delivering the packages online
 date: 2018-09-12T12:52:36.000+06:00
 image_webp: ""
-image: images/guidance/blog-post-7.jpg
+image: images/guidance/blog-post-7.png
 author: Oxko design
 description: If you live abroad, we can assist you with our interior design services also online, without meeting in person and without supervision of construction, with videoconsulations. 
 

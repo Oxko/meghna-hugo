@@ -8,12 +8,12 @@ description: Ha külföldön él, akkor videokonzulációkkal online is segíts�
 
 ---
 
-Ha külföldön él, és nyitott az online konzultációra és a kapcsolattartásra, kérhető csomagjaink, az Basic, Standard, Optimum és a Premium online szállítása is.
+Ha külföldön él, és nyitott az online konzultációra és kapcsolattartásra, csomagjainkat online is tudjuk teljesíteni: Alap, Standard, Optimum és Premium.
 
-Ebben az esetben be kell nyújtania nekünk otthona építészeti tervét, amelyből dolgozni fogunk, mivel nem tudunk elmenni helyszíni felmérésre vagy személyes konzultációra.
+Ebben az esetben szükségünk van otthona építészeti tervére, amelyből dolgozni fogunk, mivel helyszíni felmérésre és személyes konzultációra ebben az esetben nincs lehetőség.
 
-Szükségünk van az épületen belülről és kívülről készített fényképekre, különböző szögekből, valamint virtuális túrára az otthonában.
+Szükségünk van az épületről belülről és kívülről készített fényképekre, különböző szögekből, valamint virtuális túrára az otthonáról.
 
-Online megbeszéljük, hogy mik az Ön igényei és elvárásai, digitális formában megkapja a terveket, gond nélkül minden részletet tisztázhatunk konzultációink során.
+Online megbeszéljük, hogy mik az Ön igényei és elvárásai, digitális formában megkapja a terveket, gond nélkül minden részletet tisztázunk konzultációink során.
 
-Az árak, amelyeket megbeszélésünk után állapítottunk meg a csomagok számára virtuális formában, és fizethet USD-ban vagy EUR-ban.
+A virtuálisan teljesített csomag árát a részletek ismeretében tudjuk meghatározni. Külföldről fizethet USD-ban vagy EUR-ban.
