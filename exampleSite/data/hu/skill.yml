@@ -2,7 +2,7 @@
 skill:
   enable : true
   title : Virtuális szolgáltatások
-  subtitle : Ezeket a szolgáltatásokat online is megrendelheti
+  subtitle : Szolgáltatásainkat online is megrendelheti
   content : Ha messze lakik, nem szeretne utazni vagy csak kisebb lakberendezési tanácsra van szüksége, egy-két  helyiséggel kapcsolatban kér ötletet, lehetőség van az virtuális gyorstervezésre, kérésére válaszolva online küldjük el a terveket, ajánlásokat és válaszokat a kérdéseire. Nézze meg az "Útmutató" fület részletekért, hogy ezt hogyan teheti meg.
   skill_item :
     # skill item loop
@@ -16,4 +16,4 @@ skill:
     # skill item loop
     - name :  Építészeti rajzok, Térszervezés
      # skill item loop
-    - name :  Teljes lakberendezési szolgáltatás
+    - name :  Lakberendezési csomagjaink személyes részvételt igénylő részek kivételével
