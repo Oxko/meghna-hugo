@@ -510,7 +510,7 @@ a, .title h2, .title h1, .title h3 {
 
 #select-language {
   background: #353b43;
-  color: #f9fd10;
+  color: #d4c554;
   border: 0;
 }
 
@@ -535,19 +535,17 @@ a, .title h2, .title h1, .title h3 {
   max-width: none;
 }
 
-button, input .block:hover, :focus{
+.button, input .block:hover, :focus{
   border-color: #a2ad94;
-  text: #939da7;
 }
-reply-to input{
+
+.form-group form .form-control.reply-to input{
   border-color: #a2ad94;
-  text: #939da7;
   color: #a5adb5;
 }
 
 reply-to input :hover{
   border-color: #a2ad94;
-  text: #939da7;
   color: #a5adb5;
 }
 
