@@ -8,7 +8,7 @@ description: Ha külföldön él, akkor videokonzulációkkal online is segíts�
 
 ---
 
-Ha külföldön él, és nyitott az online konzultációra és kapcsolattartásra, csomagjainkat online is tudjuk teljesíteni: Alap, Standard, Optimum és Premium.
+Ha külföldön él vagy csak szeretné személyes találkozás nélkül lakberendezési szolgáltatásainkat igénybe venni és nyitott az online konzultációra és kapcsolattartásra, kéréseit online is tudjuk teljesíteni, a személyes találkozásokat igénylő részek kivételével, amit online konzultációval helyettesítünk. 
 
 Ebben az esetben szükségünk van otthona építészeti tervére, amelyből dolgozni fogunk, mivel helyszíni felmérésre és személyes konzultációra ebben az esetben nincs lehetőség.
 

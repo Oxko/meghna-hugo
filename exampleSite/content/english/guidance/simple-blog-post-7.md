@@ -8,7 +8,7 @@ description: If you live abroad, we can assist you with our interior design serv
 
 ---
 
-If you live abroad and you are open to consult and keep in touch online, our packages, Basic, Standard, Optimum and Premium can also be requested to be delivered online.
+If you live abroad or just want to use our home furnishing services without a face-to-face meeting and you are open to keep in touch online, we can also fulfill your requests online, except for the parts that require our personal presence, which we will replace with an online consultations.
 
 In this case you will need to provide us the architectural plan of your home from which we will work as we will not be able to go for site assessment or personal consultation. 
 
