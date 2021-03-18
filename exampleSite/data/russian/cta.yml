@@ -1,0 +1,11 @@
+---
+cta:
+  enable: false
+  bg_image: images/backgrounds/bg-white-wall.jpg
+  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  title: Окско дизайн - Услуги дизайна интерьера
+  content: Если Вам нужен совет по дизайну, нестандартная мебель, планирование пространства или полный комплекс услуг по дизайну интерьера, свяжитесь с нами.
+  button:
+    enable: true
+    label: Контакт
+    link: "#contact"

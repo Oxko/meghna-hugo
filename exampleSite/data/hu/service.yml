@@ -11,7 +11,7 @@ service:
     # service item loop
     - name : 3D látványterv
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Ha nem tudja eldönteni jól nézne-e ki amiket kiválasztott, formákban, megvilágításban vagy színben. A 3D látványkép segíteni fog, hogy megfelelő döntés lenne-e kivitelezni az elgondolt tervet. Küldje el a linket a kérdéses anyagról, színről, körülbelüli méreteit a helyiségnek, s mi elküldjük a valósághű képet róla. Nézze meg az "Útmutató" fület részletekért, mit tartalmaz a szolgáltatás.
+      content : Ha nem tudja eldönteni jól nézne-e ki amiket kiválasztott, formákban, megvilágításban vagy színben, a 3D látványkép segíteni fog, hogy megfelelő döntés lenne-e kivitelezni az elgondolt tervet. Küldje el a linket a kérdéses anyagról, színről, körülbelüli méreteit a helyiségnek, s mi elküldjük a valósághű képet róla. Nézze meg az "Útmutató" fület részletekért, mit tartalmaz a szolgáltatás.
       
     # service item loop
     - name : Tervezés Feng Shui alapján

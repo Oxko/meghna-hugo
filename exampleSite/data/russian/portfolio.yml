@@ -30,25 +30,25 @@ portfolio:
   - name: Ремейк Airbnb разделение квартиры и создание частной студии из комнаты
     image: images/portfolio/Airbnb-downstairs.png
     categories:
-    - Строительство галереи
+    - Галерея
     content: Главная комната с ванной и галереей
     link: https://themefisher.com
   - name: Ремейк для Airbnb
     image: images/portfolio/Airbnb-gallery.png
     categories:
-    - Строительство галереи
+    - Галерея
     content: Галерея для дополнительного спального места для краткосрочной аренды
     link: "#"
   - name: Ремейк для Airbnb
     image: images/portfolio/Airbnb-studio.png
     categories:
-    - Строительство галереи
+    - Галерея
     content: Целый ремонт, из каждой комнаты сделана студия, с галереей и ванной комнатой.
     link: "#"
   - name: Ремейк для Airbnb
     image: images/portfolio/Airbnb-small-bathroom.png
     categories:
-    - Строительство галереи
+    - Галерея
     content: Санузел в студии для уединения
     link: "#"
   - name: Ремейк для Airbnb
@@ -85,32 +85,32 @@ portfolio:
   - name: Квартира в Буде
     image: images/portfolio/Province-bedroom.png 
     categories:
-    - Средиземноморский стиль
+    - Средиземноморский
     content: Главная спальня в стиле Провинция
     link: "#"
   - name: Квартира в Буде
     image: images/portfolio/Province-dining-room.png
     categories:
-    - Средиземноморский стиль
+    - Средиземноморский
     content: Столовая в провинциальном стиле
     link: "#"
   - name: Квартира в Буде
     image: images/portfolio/Province-home-office.png
     categories:
-    - Средиземноморский стиль
+    - Средиземноморский 
     content: Домашний офис с комнатой для гостей в провинциальном стиле
     link: "#"
   - name: Квартира в Буде
     image: images/portfolio/Province-living-room.png
     categories:
-    - Средиземноморский стиль
+    - Средиземноморский 
     content: Гостиная в стиле Провинция
     link: "#"
   
   - name: Квартира в Буде
     image: images/portfolio/Province-mediterranian-bathroom.png
     categories:
-    - Средиземноморский стиль
+    - Средиземноморский 
     content: Ванная в средиземноморском стиле
     link: "#"
   - name: Сочетание старого и нового стиля
