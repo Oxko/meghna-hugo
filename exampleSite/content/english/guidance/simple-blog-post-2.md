@@ -6,7 +6,7 @@ author:
 description: Computer visualized 3D rendered photos for interior designing
 ---
 
-1. If you cannot decide on the design or colors whether what you chose would look good or could look better, we can provide you with a realistic 3D photo of your space to visualize the outcome beforehand.
+1. If you cannot decide on the design, tile pattern or colors whether what you selected would look good or could look better, we can provide you with a realistic 3D computer generated photo of your space to visualize the outcome beforehand, simply sending us your request and details online. 
 
 What do we need you to provide us?
 - Send us the measurements of the area (or floorplan if you have) 
