@@ -1,0 +1,28 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Kontakt
+  subtitle : Oxko design
+  content : Enteriőr tervezés, dizájn szolgáltatások, Egyedi bútortervezés, Térrendezés,Teljes átalakítási terv, kivitelezési felügyelettel.
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Magyarország, Budapest, VII. kerület"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Telefon: +(36) 20 4500 711"
+            
+    - icon :  # themify icon pack : https://themify.me/themify-icons
+      info : ""
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "#" #contact form works with https://formspree.io
+    name : "Az Ön teljes neve"
+    email : "Az Ön email címe"
+    subject : "Tárgy"
+    message : "Üzenet"
+    submit : "Küld"

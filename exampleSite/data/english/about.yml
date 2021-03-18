@@ -1,0 +1,21 @@
+---
+about:
+  enable: true
+  title: About us
+  about_item:
+  - icon: ti-ruler-pencil
+    title: What can an interior designer do for you?
+    content: OxKo interior design can help you save time and effort
+      by designing your home in a practical and visually pleasing way, cost effectively,
+      increasing the value of your home. Hiring an interior designer can save you money on renovations,
+      helps you to meet your budget and to avoid expensive mistakes.
+  - icon: ti-thought
+    title: When to hire an interior designer?
+    content: If you are about to purchase a new property or if you are planning to renovate or remodel one.
+      Whether you are thinking in a full-scale remodel or just a makeover of a room or two,
+      you are in a small design dilemma or seeking a harmonious home with Feng Shui, we are here to help you
+      achieve your desire.
+  - icon: ti-cup
+    title: What can we do for you?
+    content: We specialize in all aspects of design and building process, from the beginning as planning stages of your home
+      all the way through furnishing and accessoring to execution and end-to-end project management. Check out our services in more details, to see what you need or contact us.

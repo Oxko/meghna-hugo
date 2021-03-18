@@ -1,0 +1,76 @@
+##################################### pricing ##############################
+pricing:
+  enable : true
+  title : Árak
+  pricing_table :
+    # pricing table loop
+    - name : Alap
+      price : HUF 2 500
+      unit : Nm
+      services:
+        - Ha építkezik, felújít és szüksége van technikai, térszervezési tanácsra, de megvan a saját dizájn ötlete
+        - Építészeti átalakítási javaslatok
+        - Műszaki tervek
+        - Térszervezési és berendezési vázlatok
+        - 1 végleges, méretezett berendezési terv, minta bútorokkal
+        - Lámpa kiosztási terv, kapcsoló & dugalj terv 
+        - Segítségére lesz, hogy milyen bútort hova a legpraktisuabb tenni, milyen méretben
+      button:
+        label : "Részletek"
+        link : "#guidance"
+      
+    # pricing table loop
+    - name : Standard
+      price : HUF 4 500
+      unit : Nm
+      services:
+        - Saját maga szeretné kivitelezni, csak dizájn ötletre és az alaptervekre van szüksége
+        - Építészeti átalakítási javaslatok
+        - Műszaki tervek
+        - Térszervezési és berendezési tervek
+        - Burkolat kiosztási tervek 
+        - Dizájn, színek, anyagok és kiegészítők javaslása
+        - 1*3D látványterv a fő helyiségekről
+        - 1 egyedi bútor megtervezése
+        - 3D gépi színes kép, hogy vizualizálja a teret
+      button:
+        label : "Részletek"
+        link : "#guidance"
+        
+    # pricing table loop
+    - name : Optimum
+      price : HUF 6 500
+      unit : Nm
+      services:
+        - Ha saját maga akarja kivitelezni, csak szüksége van részletekre és költség tervezetre
+        - Építészeti átalakítási javaslatok
+        - Műszaki tervek
+        - Térszervezési és berendezési tervek
+        - Burkolat kiosztási tervek 
+        - Dizájn, berendezés és anyagok, festés tervek
+        - 3D látványtervek a fő helyiségekről
+        - 1 egyedi bútor megtervezése
+        - Bevásárló lista, konszignáció
+        - Egyszeri együtt vásárlás, anyagok kiválasztása
+      button:
+        label : "Részletek"
+        link : "#guidance"
+        
+    # pricing table loop
+    - name : Platinum
+      price : HUF 9 500
+      unit : Nm
+      services:
+        - Ha most vesz ingatlant vagy építkezik
+        - Ha részleges vagy felújítást tervez
+        - Szüksége van az alaptervektől az utolsó kiegészítőig
+        - Projekt managementtel, tervezői művezetéssel
+        - Teljes kivitelezési tervek és javaslatok
+        - Műszaki rajzok
+        - 1 egyedi bútor megtervezése
+        - Együtt vásárlás pár alkalommal
+        - Bevásárló lista konszignációs tervvel, költségvetéssel
+        - Feng Shui alapelvei szerinti tervezés, amennyiben kéri. 
+      button:
+        label : "Részletek"
+        link : "#guidance"

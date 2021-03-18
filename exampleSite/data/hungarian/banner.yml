@@ -1,0 +1,11 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image : "images/backgrounds/Main-picture.png"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Oxko design"
+  content : "Hangulatos és kényelmes, praktikus otthont érdemel Ön is. Megtervezzük Önnek a legoptimálisabb helykihasználást, stílusos otthont kialakítva."
+  button:
+    enable : true
+    label : "Tovább"
+    link: "#about"

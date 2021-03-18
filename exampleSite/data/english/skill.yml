@@ -1,0 +1,21 @@
+---
+skill:
+  enable: true
+  title: Virtual services
+  subtitle: You can request the following services virtually also
+  content: If you live far or you have your ideas but need help or you are just in some
+    kind of a design dilemma.
+    To see what these include and what information is needed from you to send us, on the top check out our "Guidance".
+  skill_item:
+  # skill item loop
+  - name: Virtual quickplan
+  # skill item loop
+  - name: 3D realistic photos
+  # skill item loop
+  - name: Custom furniture design
+  # skill item loop
+  - name: Floor plan using Feng Shui
+  # skill item loop
+  - name: Technical plans, Space planning
+    # skill item loop
+  - name: Complete interior design
