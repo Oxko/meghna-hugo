@@ -12,13 +12,17 @@ If you live abroad or would just prefer us to deliver our home furnishing servic
 
 With the exception of parts that require face-to-face meetings, such as supervision, if you are open to keep in touch online, planning can work more flexibly and conveniently for you, we can even go shopping together, too.
 
-In this case you will need to provide us the architectural plan of your home from which we will work as we will not be able to go for site assessment or personal consultation. 
+What is needed from you?
+- The architectural plan of your home, from which we will work, as there is no possibility for a personal site assessment and in-person consultation in this case
+- Camera / mobile, photos of the inside and outside of the building are needed, from different angles, and a "virtual tour" of your home
+- Online application on which we can keep in touch, as we discuss all the details and steps online
+- Email address to which we can send the digital material.
 
-We need photographs of the building from inside and outside from various angles and also a virtual tour of your home. 
+We will go through your needs and expectations in details, you will receive the plans in digital form, we will agree on all the elements during our consultations without any problems.
 
-Online we will discuss what your needs and expectations are, you will receive the plans in digital format, no worries all the details can be clarified during our consultations. 
+What can we offer?
+- A complete interior design service, from the planning of the foundations to the final exact plan, without personal technical supervision, with continuous online contact helping you all the way to the implementation.
 
-Prices we set after our discussion for the packages in virtual form, and you can pay in either USD or EUR. 
+We can determine the exact price based on the details of your requirements. You can pay from abroad in USD or EUR.
 
-
-
+Feel free to call us or send a message with any questions.
