@@ -25,4 +25,4 @@ What can we offer?
 
 We can determine the exact price based on the details of your requirements. You can pay from abroad in USD or EUR.
 
-Feel free to call us or send a message with any questions.
+Feel free to call us or send a message with any questions, we are happy to help.

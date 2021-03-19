@@ -20,6 +20,9 @@ Mire van szükség Öntől?
 
 Megbeszéljük mik az Ön igényei és elvárásai, digitális formában megkapja a terveket, gond nélkül minden részletet egyeztetünk konzultációink során.
 
+Mit tudunk nyújtani? 
+- Teljes lakberendezési szolgáltatást, alapok megtervezésétől a végleges pontos tervig, személyes műszaki felügyelet nélkül, a kivitelezésig folyamatos online kapcsolattartartással segítve.
+
 Pontos árat a részletek ismeretében tudjuk meghatározni. Külföldről fizethet USD-ban vagy EUR-ban.
 
-Hívjon minket bizalommal vagy küldjön üzenetet kérdéseivel. 
+Hívjon minket bizalommal vagy küldjön üzenetet kérdéseivel, örömmel állunk rendelkezésére. 
