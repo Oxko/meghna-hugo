@@ -8,7 +8,9 @@ description: Ha külföldön él, akkor videokonzulációkkal online is segíts�
 
 ---
 
-Ha külföldön él vagy csak szeretné személyes találkozás nélkül lakberendezési szolgáltatásainkat igénybe venni és nyitott az online konzultációra és kapcsolattartásra, kéréseit online is tudjuk teljesíteni, a személyes találkozásokat igénylő részek kivételével, amit online konzultációval helyettesítünk. 
+Ha külföldön él vagy csak szeretné személyes találkozások nélkül lakberendezési szolgáltatásainkat igénybe venni, kéréseit online is tudjuk teljesíteni. 
+
+Személyes találkozásokat igénylő részek kivételével, mint formai tervező felügyelet, ha nyitott online kapcsolattartásra, rugalmasabban, kényelmesebben is működhet a tervezés, akár bevásárolni is elmehetünk így együtt. 
 
 Ebben az esetben szükségünk van otthona építészeti tervére, amelyből dolgozni fogunk, mivel helyszíni felmérésre és személyes konzultációra ebben az esetben nincs lehetőség.
 
