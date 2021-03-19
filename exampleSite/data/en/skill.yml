@@ -4,8 +4,16 @@ skill:
   title: Virtual services
   subtitle: You can request our services to be delivered virtually
   content: If you live far or you have your ideas but need help or you are just in some
-    kind of a design dilemma.
+    kind of a design dilemma. 
     To see what these include and what information is needed from you to send us, on the top check out our "Guidance".
+
+
+    If you are open to consult virtually only, without any personal presence and do not need project management services our packages can also be delivered online. 
+    For the most common packages please check our "Pricing" and for further details the "Guidance" section. 
+    
+    
+    For any questions feel free to give us a call or send us a message. 
+  
   skill_item:
   # skill item loop
   - name: Virtual quickplan
@@ -18,4 +26,4 @@ skill:
   # skill item loop
   - name: Technical plans, Space planning
     # skill item loop
-  - name: Our home furnishing packages, exclusive the parts that require presence
+  - name: Our home furnishing packages
