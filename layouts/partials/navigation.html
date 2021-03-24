@@ -1,12 +1,16 @@
 <section class="sticky-top navigation">
 	<div class="container">
 		<nav class="navbar navbar-expand-lg navbar-dark">
+
 			<a class="navbar-brand p-0" href="{{ .Site.BaseURL | relLangURL }}">
 				{{ if site.Params.logo }}
 				<img class="lozad" data-src="{{ site.Params.logo | absURL }}" id="logo-image" alt="{{ .Site.Title }}" height="42">
 				{{ else }}
 				{{ site.Title }}
 				{{ end }}
+				&nbsp; &nbsp; 	<a href="https://www.oxkodesign.com/en/"> English</a>&nbsp; &nbsp; 
+				<a href="https://www.oxkodesign.com/en/"> Magyar</a>&nbsp; &nbsp; 
+				<a href="https://www.oxkodesign.com/ru/"> Русский</a>
 			</a>
 
 			<button class="navbar-toggler rounded-0" type="button" data-toggle="collapse" data-target="#navigation">
@@ -21,9 +25,12 @@
 					</li>
 					{{ end }}
 				</ul>
+				
 				<!-- Language List -->
 				{{- if site.IsMultiLingual }}
-				<select id="select-language" onchange="location = this.value;">
+		
+
+				<!--select id="select-language" onchange="location = this.value;">
 					{{ $siteLanguages := site.Languages}}
 					{{ $pageLang := .Page.Lang}}
 					{{ range .Page.AllTranslations }}
@@ -40,7 +47,7 @@
 					{{ end }}
 					{{ end }}
 					{{ end }}
-				</select>
+				</select-->
 				{{ end }}
 			</div>
 		</nav>
