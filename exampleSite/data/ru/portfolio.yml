@@ -7,7 +7,7 @@ portfolio:
     image: images/portfolio/Mobil-living-room.png
     categories:
     - Мобильный дом
-    content: Гостиная с 3-мя стеклянными стенами
+    content: Гостинная с 3-мя стеклянными стенами
     link: https://themefisher.com
   - name: Мобильный дом
     image: images/portfolio/Mobil-kitchen.png
@@ -67,7 +67,7 @@ portfolio:
     image: images/portfolio/Pest-living-room.png
     categories:
     - Домашний 
-    content: Гостиная в американском стиле со столовой
+    content: Гостинная в американском стиле со столовой
     link: "#"
   - name: Квартира в Пеште
     image: images/portfolio/Pest-bedroom.png
@@ -79,32 +79,32 @@ portfolio:
     image: images/portfolio/Pest-ap-with-Buda-panorama.png
     categories:
     - Домашний
-    content: Гостиная с панорамой на Дунай
+    content: Гостинная с панорамой на Дунай
     link: "#"
 
   - name: Квартира в Буде
     image: images/portfolio/Province-bedroom.png 
     categories:
     - Средиземноморский
-    content: Главная спальня в стиле Провинция
+    content: Главная спальня в стиле Прованс
     link: "#"
   - name: Квартира в Буде
     image: images/portfolio/Province-dining-room.png
     categories:
     - Средиземноморский
-    content: Столовая в провинциальном стиле
+    content: Столовая в стиле Ррованс
     link: "#"
   - name: Квартира в Буде
     image: images/portfolio/Province-home-office.png
     categories:
     - Средиземноморский 
-    content: Домашний офис с комнатой для гостей в провинциальном стиле
+    content: Домашний офис с комнатой для гостей в стиле Ррованс
     link: "#"
   - name: Квартира в Буде
     image: images/portfolio/Province-living-room.png
     categories:
     - Средиземноморский 
-    content: Гостиная в стиле Провинция
+    content: Гостинная в стиле Прованс
     link: "#"
   
   - name: Квартира в Буде
@@ -119,11 +119,12 @@ portfolio:
     - Современное
     content: Последний этаж со старинной мебелью и современным 3D дизайном
     link: "#"
+  
   - name: Японский стиль
     image: images/portfolio/Japanese-style-bathroom-way-in.png
     categories:
     - Азиатский стиль
-    content: Ванная комната с расслабляющим уголком с ванной и душем
+    content: Ванная комната с расслабляющим уголком (ванна и душ)
     link: "#"
   - name: Японский стиль
     image: images/portfolio/Japanese-style-bathroom.png
@@ -147,19 +148,19 @@ portfolio:
     image: images/portfolio/Japanese-style-kitchen1.png
     categories:
     - Азиатский стиль
-    content: Абсолютная японская кухня
+    content: Кухня в японском стиле
     link: "#"
   - name: Семейный дом в японском стиле
     image: images/portfolio/Japanese-style-living-room-from-top.png
     categories:
     - Азиатский стиль
-    content: Гостиная с большим воздушным пространством со второго этажа
+    content: Гостинная с большим воздушным пространством со второго этажа
     link: "#"
   - name: Японский стиль
     image: images/portfolio/Japanese-style-living-room-way-out.png
     categories:
     - Азиатский стиль
-    content: Большая гостиная с гибкими жалюзи для гостевой комнаты
+    content: Большая гостинная с гибкими жалюзи для гостевой комнаты
     link: "#"
   - name: Японский стиль
     image: images/portfolio/Japanese-style-living-room.png
@@ -171,13 +172,13 @@ portfolio:
     image: images/portfolio/Japanese-style-hallway.png
     categories:
     - Азиатский стиль
-    content: Прихожая с искусством и местами для растений с камнями и светодиодным декором
+    content: Прихожая с искусством и местами для растений с светодиодной подсветкой
     link: "#"
   - name: Японский стиль
     image: images/portfolio/Japanese-style-musicroom.png
     categories:
     - Азиатский стиль
-    content: Музыкальная комната с коллекцией произведений искусства
+    content: Музыкальная комната с коллекцией произведений искусств
     link: "#"
   - name: Ремонт семейного дома в японском стиле
     image: images/portfolio/Japanese-style-terrace.png
@@ -203,25 +204,25 @@ portfolio:
     image: images/portfolio/Panel-shower.png
     categories:
     - Современное
-    content: Принесите природу в душе
+    content: Перенесите природу в душ
     link: "#"
   - name: Панельная квартира
     image: images/portfolio/Panel-shower-front.png
     categories:
     - Современное
-    content: Принесите природу в душ
+    content: Перенесите природу в душ
     link: "#"
   - name: Панельная квартира
     image: images/portfolio/Panel-kitchen-dining-room.png
     categories:
     - Современное
-    content: Привнесите природу на кухню
+    content: Перевнесите природу на кухню
     link: "#"
   - name: Панельная квартира
     image: images/portfolio/Panel-living-room.png
     categories:
     - Современное
-    content: Уютная современная гостиная
+    content: Уютная современная гостинная
     link: "#"
   - name: Городская квартира, мужской домашний уют
     image: images/portfolio/Som-bedroom.png
@@ -239,7 +240,7 @@ portfolio:
     image: images/portfolio/Som-shower.png
     categories:
     - Современное
-    content: Душ в маленькой квартире в современном минималистском стиле
+    content: Душ в маленькой квартире в современном минималистическом стиле
     link: "#"
   - name: Современный 3D стиль
     image: images/portfolio/Som-bath.png
@@ -262,7 +263,7 @@ portfolio:
     link: "#"
 
 
-  - name: Современная гостиная
+  - name: Современная гостинная
     image: images/portfolio/Modern-lounge.png
     categories:
     - Современное
