@@ -55,12 +55,12 @@
 		if (!Cookies.get('cookie-box')) {
 			cookieBox.classList.remove('cookie-box-hide');
 			cookieButton.onclick = function () {
-				Cookies.set('cookie-box', true, {
-					expires: {{ site.Params.cookies.expire_days }}
-				});
+				Cookies.set('cookie-box', true) ;
+					expires: {{ site.Params.cookies.expire_days }};
 				cookieBox.classList.add('cookie-box-hide');
-			};
+			}
 		}
-	})(jQuery);
+	}(jQuery)
+)
 </script>
 {{ end }}
