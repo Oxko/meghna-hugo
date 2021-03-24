@@ -1,7 +1,7 @@
 ################################# Testimonial #########################
 testimonial:
   enable : true
-  bg_image : images/backgrounds/kitchen-testimonial.jpg
+  bg_image : static\images\backgrounds\kitchen-testimonial.jpg
   testimonial_item :
     # testimonial item loop
     - name : Judit
