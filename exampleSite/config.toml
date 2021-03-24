@@ -1,5 +1,5 @@
 baseURL = "https://oxkodesign.netlify.com"
-defaultContentLanguage = "hu"
+defaultContentLanguage = ""
 disableLanguages = []
 disqusShortname = ""
 paginate = "5"
@@ -12,7 +12,7 @@ contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Home"
 languageCode = "en-us"
-languageName = "En"
+languageName = "English"
 weight = 1
 [[Languages.en.menu.main]]
 name = "About"
@@ -54,7 +54,7 @@ contentDir = "content/hungarian"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Home"
 languageCode = "hu-hu"
-languageName = "Hu"
+languageName = "Magyar"
 weight = 2
 [[Languages.hu.menu.main]]
 name = "Rólunk"
@@ -82,7 +82,44 @@ pre = "#"
 url = "guidance"
 weight = 6
 [[Languages.hu.menu.main]]
-name = "Kontakt"
+name = "Kapcsolat"
+pre = "#"
+url = "contact"
+weight = 7
+[Languages.ru]
+contentDir = "content/russian"
+copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+home = "Home"
+languageCode = "ru-ru"
+languageName = "Русский"
+weight = 3
+[[Languages.ru.menu.main]]
+name = "О нас"
+pre = "#"
+url = "about"
+weight = 1
+[[Languages.ru.menu.main]]
+name = "Услуги"
+pre = "#"
+url = "services"
+weight = 2
+[[Languages.ru.menu.main]]
+name = "Портфолио"
+pre = "#"
+url = "portfolio"
+weight = 3
+[[Languages.ru.menu.main]]
+name = "Цены"
+pre = "#"
+url = "pricing"
+weight = 5
+[[Languages.ru.menu.main]]
+name = "Управление"
+pre = "#"
+url = "guidance"
+weight = 6
+[[Languages.ru.menu.main]]
+name = "Контакт"
 pre = "#"
 url = "contact"
 weight = 7
