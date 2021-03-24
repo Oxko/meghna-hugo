@@ -1,10 +1,11 @@
-################################# Testimonial #########################
 testimonial:
   enable : true
-  bg_image : static\images\backgrounds\kitchen-testimonial.jpg
+  bg_image : images/backgrounds/kitchen-testimonial.jpg
+  bg_image_webp : images/backgrounds/kitchen-testimonial.webp
   testimonial_item :
     # testimonial item loop
     - name : Judit
+      image : ""
+      image_webp : ""
       date : Mar 6, 2021
-      content : Újépítésű házban vásárolt üres lakásunk enteriőrjének megtervezésével bíztuk meg az Oxko designt, beleértve a teljesen beépített amerikai konyhás nappali minden részletével. Komplex és nagy precizitást igénylő munka volt, tekintve, hogy az L-alakú konyhát több helyen ablak/strang/falból kiemelkedő részek osztották meg, és az egyébként nem túl nagy konyhának szánt részben rengeteg gépet kellett elhelyezni. Megbeszéléseink elején a stílus egyeztetés után rendelkezésünkre bocsátott moodboardok és látványtervek, valamint a felvázolt kreatív megoldások rengeteget segítettek a koncepció kiválasztásában, a tervezés során pedig teljes mértékig figyelembe vették egyéni ízlésünket és preferenciáinkat, mindeközben vigyázva arra, hogy a kialakítás tökéletesen ergonomikus maradjon. Máskor is nagyon szívesen fordulunk  majd hozzájuk!      
-  
+      content : "Újépítésű házban vásárolt üres lakásunk enteriőrjének megtervezésével bíztuk meg az Oxko designt, beleértve a teljesen beépített amerikai konyhás nappali minden részletével. Komplex és nagy precizitást igénylő munka volt, tekintve, hogy az L-alakú konyhát több helyen ablak/strang/falból kiemelkedő részek osztották meg, és az egyébként nem túl nagy konyhának szánt részben rengeteg gépet kellett elhelyezni. Megbeszéléseink elején a stílus egyeztetés után rendelkezésünkre bocsátott moodboardok és látványtervek, valamint a felvázolt kreatív megoldások rengeteget segítettek a koncepció kiválasztásában, a tervezés során pedig teljes mértékig figyelembe vették egyéni ízlésünket és preferenciáinkat, mindeközben vigyázva arra, hogy a kialakítás tökéletesen ergonomikus maradjon. Máskor is nagyon szívesen fordulunk  majd hozzájuk!"
