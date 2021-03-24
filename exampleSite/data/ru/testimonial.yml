@@ -1,7 +1,7 @@
 ################################# Testimonial #########################
 testimonial:
   enable : true
-  bg_image : images/backgrounds/kithcen-testimonial.jpg
+  bg_image : images/backgrounds/kitchen-testimonial.jpg
   bg_image_webp : ""
   testimonial_item :
     # testimonial item loop
