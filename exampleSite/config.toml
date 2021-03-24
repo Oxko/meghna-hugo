@@ -30,25 +30,20 @@ pre = "#"
 url = "portfolio"
 weight = 3
 [[Languages.en.menu.main]]
-name = "team"
-pre = "#"
-url = "team"
-weight = 4
-[[Languages.en.menu.main]]
 name = "Pricing"
 pre = "#"
 url = "pricing"
-weight = 5
+weight = 4
 [[Languages.en.menu.main]]
 name = "Guidance"
 pre = "#"
 url = "guidance"
-weight = 6
+weight = 5
 [[Languages.en.menu.main]]
 name = "Contact"
 pre = "#"
 url = "contact"
-weight = 7
+weight = 6
 [Languages.hu]
 contentDir = "content/hungarian"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
