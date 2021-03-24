@@ -1,0 +1,359 @@
+---
+portfolio:
+  enable: true
+  title: Наш портфолио
+  portfolio_item:
+  - name: Мобильный дом
+    image: images/portfolio/Mobil-living-room.png
+    categories:
+    - Мобильный дом
+    content: Гостиная с 3-мя стеклянными стенами
+    link: https://themefisher.com
+  - name: Мобильный дом
+    image: images/portfolio/Mobil-kitchen.png
+    categories:
+    - Мобильный дом
+    content: Кухня с черной лаковой мебелью 
+    link: https://themefisher.com
+  - name: Мобильный дом
+    image: images/portfolio/Mobil-bedroom.png
+    categories:
+    - Мобильный дом
+    content: Главная спальня с 1 стеклянной стеной, вид на задний двор
+    link: https://themefisher.com
+  - name: Мобильный дом
+    image: images/portfolio/Mobilhome-fromoutside.png
+    categories:
+    - Мобильный дом
+    content: Полный план передвижного дома снаружи
+    link: https://themefisher.com
+  - name: Ремейк Airbnb разделение квартиры и создание частной студии из комнаты
+    image: images/portfolio/Airbnb-downstairs.png
+    categories:
+    - Галерея
+    content: Главная комната с ванной и галереей
+    link: https://themefisher.com
+  - name: Ремейк для Airbnb
+    image: images/portfolio/Airbnb-gallery.png
+    categories:
+    - Галерея
+    content: Галерея для дополнительного спального места для краткосрочной аренды
+    link: "#"
+  - name: Ремейк для Airbnb
+    image: images/portfolio/Airbnb-studio.png
+    categories:
+    - Галерея
+    content: Целый ремонт, из каждой комнаты сделана студия, с галереей и ванной комнатой.
+    link: "#"
+  - name: Ремейк для Airbnb
+    image: images/portfolio/Airbnb-small-bathroom.png
+    categories:
+    - Галерея
+    content: Санузел в студии для уединения
+    link: "#"
+  - name: Ремейк для Airbnb
+    image: images/portfolio/Airbnb-dining-room.png
+    categories:
+    - Современное
+    content: Общая столовая
+    link: "#"
+  - name: Квартира в Пеште
+    image: images/portfolio/Pest-kitchen.png
+    categories:
+    - Домашний 
+    content: Кухня в домашнем стиле
+    link: "#"
+  - name: Квартира в Пеште
+    image: images/portfolio/Pest-living-room.png
+    categories:
+    - Домашний 
+    content: Гостиная в американском стиле со столовой
+    link: "#"
+  - name: Квартира в Пеште
+    image: images/portfolio/Pest-bedroom.png
+    categories:
+    - Домашний 
+    content: Спальня в домашнем стиле
+    link: "#"
+  - name: Квартира в Пеште
+    image: images/portfolio/Pest-ap-with-Buda-panorama.png
+    categories:
+    - Домашний
+    content: Гостиная с панорамой на Дунай
+    link: "#"
+
+  - name: Квартира в Буде
+    image: images/portfolio/Province-bedroom.png 
+    categories:
+    - Средиземноморский
+    content: Главная спальня в стиле Провинция
+    link: "#"
+  - name: Квартира в Буде
+    image: images/portfolio/Province-dining-room.png
+    categories:
+    - Средиземноморский
+    content: Столовая в провинциальном стиле
+    link: "#"
+  - name: Квартира в Буде
+    image: images/portfolio/Province-home-office.png
+    categories:
+    - Средиземноморский 
+    content: Домашний офис с комнатой для гостей в провинциальном стиле
+    link: "#"
+  - name: Квартира в Буде
+    image: images/portfolio/Province-living-room.png
+    categories:
+    - Средиземноморский 
+    content: Гостиная в стиле Провинция
+    link: "#"
+  
+  - name: Квартира в Буде
+    image: images/portfolio/Province-mediterranian-bathroom.png
+    categories:
+    - Средиземноморский 
+    content: Ванная в средиземноморском стиле
+    link: "#"
+  - name: Сочетание старого и нового стиля
+    image: images/portfolio/Designed-topfloor.png
+    categories:
+    - Современное
+    content: Последний этаж со старинной мебелью и современным 3D дизайном
+    link: "#"
+  - name: Японский стиль
+    image: images/portfolio/Japanese-style-bathroom-way-in.png
+    categories:
+    - Азиатский стиль
+    content: Ванная комната с расслабляющим уголком с ванной и душем
+    link: "#"
+  - name: Японский стиль
+    image: images/portfolio/Japanese-style-bathroom.png
+    categories:
+    - Азиатский стиль
+    content: Ванная для двоих
+    link: "#"
+  - name: Японский стиль
+    image: images/portfolio/Japanese-style-bedroom.png
+    categories:
+    - Азиатский стиль
+    content: Главная спальня в азиатском стиле
+    link: "#"
+  - name: Японский стиль
+    image: images/portfolio/Japanese-style-dining-room.png
+    categories:
+    - Азиатский стиль
+    content: Столовая с местом для завтрака и разделенной кухней
+    link: "#"
+  - name: Японский стиль
+    image: images/portfolio/Japanese-style-kitchen1.png
+    categories:
+    - Азиатский стиль
+    content: Абсолютная японская кухня
+    link: "#"
+  - name: Семейный дом в японском стиле
+    image: images/portfolio/Japanese-style-living-room-from-top.png
+    categories:
+    - Азиатский стиль
+    content: Гостиная с большим воздушным пространством со второго этажа
+    link: "#"
+  - name: Японский стиль
+    image: images/portfolio/Japanese-style-living-room-way-out.png
+    categories:
+    - Азиатский стиль
+    content: Большая гостиная с гибкими жалюзи для гостевой комнаты
+    link: "#"
+  - name: Японский стиль
+    image: images/portfolio/Japanese-style-living-room.png
+    categories:
+    - Азиатский стиль
+    content: Гостиная
+    link: "#"
+  - name: Семейный дом в японском стиле с ремонтом
+    image: images/portfolio/Japanese-style-hallway.png
+    categories:
+    - Азиатский стиль
+    content: Прихожая с искусством и местами для растений с камнями и светодиодным декором
+    link: "#"
+  - name: Японский стиль
+    image: images/portfolio/Japanese-style-musicroom.png
+    categories:
+    - Азиатский стиль
+    content: Музыкальная комната с коллекцией произведений искусства
+    link: "#"
+  - name: Ремонт семейного дома в японском стиле
+    image: images/portfolio/Japanese-style-terrace.png
+    categories:
+    - Азиатский стиль
+    content: Терраса с большим пространством для отдыха
+    link: "#"
+  - name: Семейный дом в японском стиле 
+    image: images/portfolio/Japanese-style-entrance.png
+    categories:
+    - Азиатский стиль
+    content: Вход
+    link: "#"
+  - name: Семейный дом в японском стиле 
+    image: images/portfolio/Japanese-style-musicroom1.png
+    categories:
+    - Азиатский стиль
+    content: 
+    link: "#"
+
+
+  - name: Панельная квартира, мужской домашний уют
+    image: images/portfolio/Panel-shower.png
+    categories:
+    - Современное
+    content: Принесите природу в душе
+    link: "#"
+  - name: Панельная квартира
+    image: images/portfolio/Panel-shower-front.png
+    categories:
+    - Современное
+    content: Принесите природу в душ
+    link: "#"
+  - name: Панельная квартира
+    image: images/portfolio/Panel-kitchen-dining-room.png
+    categories:
+    - Современное
+    content: Привнесите природу на кухню
+    link: "#"
+  - name: Панельная квартира
+    image: images/portfolio/Panel-living-room.png
+    categories:
+    - Современное
+    content: Уютная современная гостиная
+    link: "#"
+  - name: Городская квартира, мужской домашний уют
+    image: images/portfolio/Som-bedroom.png
+    categories:
+    - Современное
+    content: Спальня в стиле минимализм
+    link: "#"
+  - name: Городская квартира, мужской домашний уют
+    image: images/portfolio/Panel-som-bedroom.png
+    categories:
+    - Современное
+    content: Спальня в стиле минимализм
+    link: "#"
+  - name: Современный стиль 
+    image: images/portfolio/Som-shower.png
+    categories:
+    - Современное
+    content: Душ в маленькой квартире в современном минималистском стиле
+    link: "#"
+  - name: Современный 3D стиль
+    image: images/portfolio/Som-bath.png
+    categories:
+    - Современное
+    content: Санузел небольшой квартиры с 3D обоями
+    link: "#"
+  - name: Современный стиль
+    image: images/portfolio/Som-kitchen.png
+    categories:
+    - Современное
+    content: Кухня в светодиодной подсветке с 3D обоями
+    link: "#"
+
+  - name: Современное 
+    image: images/portfolio/Som-hallway.png
+    categories:
+    - Современное
+    content: Маленькая прихожая визуально увеличена
+    link: "#"
+
+
+  - name: Современная гостиная
+    image: images/portfolio/Modern-lounge.png
+    categories:
+    - Современное
+    content:
+    link: "#"
+
+  - name: 3D снимок
+    image: images/portfolio/Plan-3Dsnapshot-bedroom.png
+    categories:
+    - Технические планы
+    content: Визуализированный 3D-снимок
+    link: "#"  
+  - name: 3D снимок
+    image: images/portfolio/Plan-3Dsnapshot-toilet.png
+    categories:
+    - Технические планы
+    content: 3D снимок маленького мужского туалета
+    link: "#" 
+  - name: Доска настроения
+    image: images/portfolio/Plan-moodboard-japanese.png
+    categories:
+    - Технические планы
+    content:
+    link: "#" 
+  
+  - name: Вид стены с размерами
+    image: images/portfolio/Plan-wallview-breakfast.png
+    categories:
+    - Технические планы
+    content: 
+    link: "#"
+  - name: Вид на стену
+    image: images/portfolio/Plan-wallview.png
+    categories:
+    - Технические планы
+    content:
+    link: "#"
+
+  - name: 2D проект меблировки
+    image: images/portfolio/Plan-2Dfurnishing.png
+    categories:
+    - Технические планы
+    content: С образцом мебели
+    link: "#" 
+
+  - name: 2D проект цветной мебели
+    image: images/portfolio/Plan-2D-colored-floor.png
+    categories:
+    - Технические планы
+    content: С образцом мебели
+    link: "#" 
+
+  - name: План электричества
+    image: images/portfolio/Plan-lamp-electricity.png
+    categories:
+    - Технические планы
+    content: Лампы и выключатели, план распределения розеток
+    link: "#"
+  - name: 2D эскиз
+    image: images/portfolio/Plan-floor-colored-furnishing-draft.png
+    categories:
+    - Технические планы
+    content: Эскиз плана цветной меблировки
+    link: "#"   
+  - name: 3D план меблировки
+    image: images/portfolio/Plan-3D-furnishing.png
+    categories:
+    - Технические планы
+    content: Окончательный 3D-план
+    link: "#"  
+  - name: План укладки напольной плитки
+    image: images/portfolio/Plan-floortiling.png
+    categories:
+    - Технические планы
+    content: С количеством, типом и рисунком плитки
+    link: "#" 
+  - name: План укладки с деталями
+    image: images/portfolio/Plan-tiling-bathroom.png
+    categories:
+    - Технические планы
+    content: Схема облицовки ванной комнаты с указанием количества
+    link: "#"  
+  - name: Отправка мебели для покупок
+    image: images/portfolio/Plan-furniture-consignation.png
+    categories:
+    - Технические планы
+    content: С количеством, ценой, типом
+    link: "#"   
+  - name: Отправка плитки
+    image: images/portfolio/Plan-tiling-consignation.png
+    categories:
+    - Технические планы
+    content: Список покупок с количеством, типами
+    link: "#"

@@ -1,0 +1,30 @@
+---
+contact:
+  enable : true
+  title : Контакт
+  subtitle : Окско дизайн
+  content : Услуги дизайна интерьера,
+            Мебель на заказ, Планировка помещений, Модернизация, Реконструкция, Полное исполнение.
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Район VII, Будапешт, Венгрия"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Телефон: +(36) 20 4500 711"
+      
+      
+    # - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      # info : ""
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "https://formspree.io/f/xvovjozj" #contact form works with https://formspree.io
+    name : "Your Name"
+    email : "Your Email"
+    subject : "Subject"
+    message : "Message"
+    submit : "Submit"
