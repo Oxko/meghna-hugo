@@ -1,26 +1,12 @@
 ################################# Testimonial #########################
 testimonial:
-  enable : false
-  bg_image : images/backgrounds/bg-testimonial.jpg
-  bg_image_webp : images/backgrounds/bg-testimonial.webp
+  enable : true
+  bg_image : images/backgrounds/kithcen-testimonial.jpg
+  bg_image_webp : ""
   testimonial_item :
     # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
-    # testimonial item loop
-    - name : Mark Dinn
-      image : images/client/client-2.jpg
-      image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
-    # testimonial item loop
-    - name : Lemos Kail
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Юдит
+      image : ""
+      image_webp : ""
+      date : Март 6, 2021
+      content : "Мы связались с Окско дизайн, чтобы помочь нам с интерьером нашей недавно построенной пустой квартиры, включая каждую деталь полностью встроенной кухни-гостинной в американском стиле. Это была сложная и высокоточная работа, предоставленные нам мудборд и визуальный дизайн в начале наших обсуждений, и предложенные креативные решения помогли нам выбрать концепцию. Учитывались наши индивидуальные вкусы и предпочтения, а дизайн оставался идеально эргономичным. Мы также еще получили совет по Фен-Шуй в качестве небольшой дополнительной информации о том, где и как укрепить свое здоровье и семейную гармонию. Мы будем очень рады обратиться к ним и в будущем!"

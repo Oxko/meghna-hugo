@@ -1,26 +1,14 @@
 ################################# Testimonial #########################
 testimonial:
-  enable : false
-  bg_image : images/backgrounds/bg-testimonial.jpg
-  bg_image_webp : images/backgrounds/bg-testimonial.webp
+  enable : true
+  bg_image : images/backgrounds/kitchen-testimonial.jpg
+  bg_image_webp : ""
   testimonial_item :
     # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Judit
+      image : ""
+      image_webp : ""
+      date : Mar 6, 2021
+      content : "We contacted Oxko design to help us with the interior of our newly built empty apartment, including every detail of the fully built-in american styled kitchen-living room. It was a complex and high-precision job, the moodboard and visual designs provided to us at the beginning of our discussions, as well as the creative solutions outlined, helped us choose the concept. Our individual tastes and preferences were considered, while making sure that the design remains perfectly ergonomic. We also received Feng Shui advice as a little extra, on where and how to strengthen our health and family harmony. We will be very happy to turn to them in the future, too!"
       
-    # testimonial item loop
-    - name : Mark Dinn
-      image : images/client/client-2.jpg
-      image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-      
-    # testimonial item loop
-    - name : Lemos Kail
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+   
