@@ -603,3 +603,15 @@ textarea#message .form-control :hover{
     .form-meghna input:hover, .form-meghna textarea:hover {
       border-color: #a2ad94;
     }  
+
+    a:-webkit-any-link {
+      color: #a2ad94;
+    }
+ 
+    a:focus {
+    color: #a2ad94;
+  }
+
+  .client-comment p {
+    color: #a5adb5;
+     }
