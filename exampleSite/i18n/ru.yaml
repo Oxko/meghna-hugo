@@ -1,0 +1,29 @@
+---
+- id: blogTitle
+  translation: Управление
+- id: readMore
+  translation: Читать дальше
+- id: viewAllPost
+  translation: Посмотреть все
+- id: share
+  translation: Делить
+- id: aboutAuthor
+  translation: Об авторе
+- id: authorsPosts
+  translation: Сообщения автора
+- id: all
+  translation: Все
+- id: about
+  translation: О нас
+- id: services
+  translation: Услуги
+- id: skill
+  translation: Виртуальные услуги
+- id: portfolio
+  translation: Портфолио
+- id: pricing
+  translation: Цены
+- id: guidance
+  translation: Управление
+- id: contact
+  translation: Контакт
