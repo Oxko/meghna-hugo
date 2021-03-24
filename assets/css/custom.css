@@ -604,11 +604,14 @@ textarea#message .form-control :hover{
       border-color: #a2ad94;
     }  
 
-    a:-webkit-any-link {
-      color: #a2ad94;
+    .con-info clearfix- a:-webkit-any-link {
+      color: #a5adb5;
     }
  
-    a:focus {
+    a:hover{
+      color: #8f8533;
+    }
+    .navbar-brand p-0 a:-webkit-any-link{
     color: #a2ad94;
   }
 
