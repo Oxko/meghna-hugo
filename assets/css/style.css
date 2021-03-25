@@ -854,7 +854,6 @@ a:hover {
 ==================================================================*/
 .portfolio-filter {
   margin-bottom: 40px;
-  text-align: ;
 }
 
 .portfolio-filter .btn {
@@ -925,7 +924,7 @@ a:hover {
 }
 
 .portfolio-block .caption h4 a {
-  color: #555;
+  color: #222236;
 }
 
 .portfolio-block .caption .search-icon {
