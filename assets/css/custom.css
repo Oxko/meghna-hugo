@@ -228,9 +228,7 @@ h6 {
   .portfolio-block .caption h4 a {
     color: #222236;
   }  
-  .portfolio-block .caption h1, h3, h4, h5, h6 {
-    color: #1f0d50;
-  }  
+
 
   .blog-icon {
     border: 1px solid #8f8533;
@@ -357,7 +355,9 @@ h6 {
     color: #a2ad94;
     -webkit-font-smoothing: antialiased;
   }
-  
+  .about-2 .content-block .media h4{
+    color: #a2ad94;
+}
   
   /*=================================================================
   View all posts button setup
@@ -499,7 +499,9 @@ a, .title h2, .title h1, .title h3 {
 .title {
   color: #a5adb5;
 }
-
+.btn btn-transparent, :hover {
+  border: #c2b342;
+}
   /*=================================================================
   Navigation services setup
 ==================================================================*/
