@@ -1,8 +1,8 @@
 #logo-image {
-    width: 13rem;
+    width: 15rem;
     height: 5rem;
     object-fit: center;
-    object-position: center 45%;
+    object-position: center 40%;
 }
 .navbar-dark .navbar-nav .nav-link {
     color: #d6c575;
