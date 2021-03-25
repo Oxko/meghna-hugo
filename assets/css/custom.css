@@ -1,7 +1,7 @@
 #logo-image {
     width: 20rem;
     height: 5rem;
-    object-fit: center;
+    object-fit: center 100%;
     object-position: center 40%;
 }
 .navbar-dark .navbar-nav .nav-link {
