@@ -28,7 +28,7 @@ Mire van ehhez szükségünk?
 - Szeretné kifesteni a falakat vagy milyen egyéb felújításra készül?
 - Alaposan gondoljon át 2-3 kérdést, amivel kapcsolatban tanácsra van szüksége
 
-30 000 Ft / Nappali
+30 000 Ft / Helyiség
 
 20 000 Ft / Fürdőszoba
 
