@@ -625,6 +625,7 @@ textarea#message .form-control :hover{
   Messenger 
 ==================================================================*/
    
-    .fb-customerchat {
-    color: #1d2031
+    .fb-customerchat body{
+    color: #a5adb5;
+    background: #1d2031;
   }
