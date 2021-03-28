@@ -620,3 +620,11 @@ textarea#message .form-control :hover{
   .client-comment p {
     color: #a5adb5;
      }
+
+  /*=================================================================
+  Messenger 
+==================================================================*/
+   
+    .fb-customerchat {
+    color: #1d2031
+  }
