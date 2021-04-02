@@ -11,3 +11,4 @@ social:
     link : "#"
 ---
 
+Lakberendezés Feng Shui tervezéssel egybekötve igény szerint. Online is vállalunk lakberendezést. 
