@@ -3,7 +3,7 @@ title: Feng Shui plan on individual level
 date: 2018-09-12T12:52:36.000+06:00
 image: images/guidance/blog-post-6.png
 author: 
-description: "Design your home with Feng Shui principles, plan your home based on Feng Shui"
+description: "We help you plan your home with Feng Shui principles, to attain best energy flow and change your life to the better"
 ---
 
 With this Feng Shui plan you can have a specific personalized plan using the Feng Shui principles, creating inner harmony with utilizing the energy flow of your home suiting your ownself. This can help you to have better sleeps, feel in more peace at home, avoid health issues.
