@@ -3,15 +3,14 @@ title: When to hire an interior designer?
 image: ''
 email: ''
 social:
-- icon: ti-facebook
-  link: "#"
-- icon: ti-twitter-alt
-  link: "#"
-- icon: ti-github
-  link: "#"
-draft: true
-
+  - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+    link : "#"
+  - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+    link : "#"
+  - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
+    link : "#"
 ---
+
 If you are about to purchase a new property or if you are planning to renovate or remodel one
 
 Whether you are thinking in a full-scale remodel or just a makeover of a room or two
