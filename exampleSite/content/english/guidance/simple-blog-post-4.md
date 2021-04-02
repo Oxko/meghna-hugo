@@ -3,10 +3,8 @@ title: Technical plans
 date: 2018-09-12T12:52:36.000+06:00
 image: images/guidance/blog-post-4.png
 author: 
-description: Plan your home from the beginnng, floor plan, architectural plan, tiling
-  pattern, tiling layout, lamp and switches distribution plan, 2D floorplan or 3D
-  floorplan helps you visualize and plan your home to be more stylish, practical and
-  convenient
+description: "Plan your home from the beginnng, floor plan, architectural plan, tiling
+  pattern, tiling layout, lamp and switches distribution plan"
 ---
 
 You are building or renovating and need help with functionality and practical space planning. 

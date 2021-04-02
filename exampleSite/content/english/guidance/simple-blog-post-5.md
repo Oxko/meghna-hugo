@@ -3,8 +3,8 @@ title: Virtual room makeover
 date: 2018-09-12T12:52:36.000+06:00
 image: images/guidance/blog-post-5.png
 author: 
-description: Virtual quickplan, room makeover online, with the help of interior designer
-  we can provide you with 3D plans, how you can redo your room
+description: "Virtual quickplan, room makeover online, with the help of interior designer
+  we can provide you with 3D plans, how you can redo your room"
 ---
 
 You can request a virtual replan of your bathroom, a room or your kitchen, quickly, with receiving 3D shots of your future space and guidance how to accomplish it.

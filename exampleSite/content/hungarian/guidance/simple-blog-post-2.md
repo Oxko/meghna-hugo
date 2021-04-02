@@ -3,7 +3,7 @@ title: "3D látványterv"
 date: 2018-09-12T12:52:36+06:00
 image: images/guidance/blog-post-2.png
 author: 
-description : "3D számítógépes látványterv, mely segítségére van abban, hogy előre vizualizálja hogy is fog pontosan kinézni az, amit megtervezett "
+description : "3D számítógépes látványterv, mely segítségére van abban, hogy előre vizualizálja hogy is fog pontosan kinézni az, amit megálmodott"
 ---
 
 Ha nem tudja eldönteni jól nézne-e ki amiket kiválasztott, formákban, megvilágításban vagy színben. A 3D látványkép segíteni fog, hogy megfelelő döntés lenne e kivitelezni az elgondolt tervet, online küldje el nekünk a kérését, s mi számítógép által elkészített látványtervvel segítünk Önnek a döntésben. 

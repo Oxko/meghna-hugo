@@ -4,7 +4,7 @@ date: 2018-09-12T12:52:36.000+06:00
 image_webp: ""
 image: images/guidance/blog-post-7.png
 author: Oxko design
-description: Ha külföldön él, akkor videokonzulációkkal online is segítséget nyújthatunk belsőépítészeti szolgáltatásainkkal, személyes találkozás és az építkezés felügyelete nélkül, segítve Önt a teljes kivitelezésben.
+description: "Ha külföldön él, akkor videokonzulációkkal online is segítséget nyújthatunk belsőépítészeti szolgáltatásainkkal, személyes találkozás és az építkezés felügyelete nélkül, de segítve Önt a teljes kivitelezésben."
 
 ---
 

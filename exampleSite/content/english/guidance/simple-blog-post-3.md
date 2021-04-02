@@ -3,8 +3,8 @@ title: Design of a custom furniture
 date: 2018-09-12T12:52:36.000+06:00
 image: images/guidance/blog-post-3.jpg
 author: 
-description: Design a unique custom furniture, kitchen furniture, wardrobe, walk-in
-  closet
+description: "Design a unique custom furniture, kitchen furniture, wardrobe, walk-in
+  closet"
 ---
 
 You need to fill in empty spaces for storage, need a customized furniture or you just simply have a desire of a unique looking item in your home, we plan and design your unique furniture for you.
