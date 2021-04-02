@@ -2,6 +2,7 @@
 title: "Építészeti csomag"
 date: 2018-09-12T12:52:36+06:00
 image: images/guidance/blog-post-4.png
+author: Oxko design
 description : "Tervezze meg otthonát az alapoktól. Alaprajzi szinten térszervezéshez építészeti tervet, burkolatkiosztási tervet, lámpa és kapcsoló kiosztási tervet készítünk"
 ---
 

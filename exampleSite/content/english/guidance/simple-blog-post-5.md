@@ -2,7 +2,7 @@
 title: Virtual room makeover
 date: 2018-09-12T12:52:36.000+06:00
 image: images/guidance/blog-post-5.png
-author: 
+author: Oxko design
 description: "Virtual quickplan, room makeover online, with the help of interior designer
   we can provide you with 3D plans, how you can redo your room"
 ---

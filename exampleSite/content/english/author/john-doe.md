@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Oxko design"
 image: ''
 email: ''
 social:

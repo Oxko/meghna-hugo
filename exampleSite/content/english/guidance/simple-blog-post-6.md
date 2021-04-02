@@ -2,7 +2,7 @@
 title: Feng Shui plan on individual level
 date: 2018-09-12T12:52:36.000+06:00
 image: images/guidance/blog-post-6.png
-author: 
+author: Oxko design
 description: "We help you plan your home with Feng Shui principles, to attain best energy flow and change your life to the better"
 ---
 

@@ -2,7 +2,7 @@
 title: Plan your home using Feng Shui
 date: 2018-09-12T12:52:36+06:00
 image: images/guidance/blog-post-1.png
-author: 
+author: Oxko design
 description : "Design your home with Feng Shui principles, plan your home based on Feng Shui"
 ---
 
